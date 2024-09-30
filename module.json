@@ -31,7 +31,7 @@
       "path": "lang/es.json"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/NarumiRM/knight-es/refs/heads/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/NarumiRM/knight-es/main/module.json",
   "download": "https://github.com/NarumiRM/knight-es/archive/main.zip",
   "url": "https://github.com/NarumiRM/knight-es"
 }
