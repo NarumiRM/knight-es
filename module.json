@@ -1,0 +1,28 @@
+{
+  "id": "knight-es",
+  "title": "Translation: Spanish [Knight]",
+  "version": "0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "knight",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Traducción a español del sistema Knight",
+  "authors": [
+    {
+      "name": "NarumiRM",
+      "url": "https://github.com/NarumiRM",
+      "discord": "narumirm",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/NarumiRM/knight-es"
+}
