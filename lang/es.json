@@ -14,15 +14,15 @@
       "TypeMotivationmineure": "Motivación Menor",
       "TypeLangue": "Idioma",
       "TypeContact": "Contacto",
-      "TypeBlessure": "Harida grave",
+      "TypeBlessure": "Herida grave",
       "TypeTrauma": "Trauma",
       "TypeArmure": "Meta-armadura",
       "TypeModule": "Módulo",
       "TypeArme": "Arma",
       "TypeArmurelegende": "Meta-armadura de Leyenda",
       "TypeCapacite": "Habilidad (PNJ)",
-      "TypeCarteheroique": "Carta de Tarot",
-      "TypeCapaciteheroique": "Habilidad Heroica",
+      "TypeCarteheroique": "Carta heroica",
+      "TypeCapaciteheroique": "Habilidad heroica",
       "TypeEffet": "Efecto de Arma Personalizado",
       "TypeArt": "Arte",
       "TypeDistinction": "Condecoración",
@@ -1281,7 +1281,7 @@
          "BLESSURETRAUMA": {
             "SoinImplant": "Tratado con implante cibernético",
             "SoinReconstruction": "Tratado con terapia de reconstrucción corporal",
-            "GainEspoir": "Esperanza para recuperar",
+            "GainEspoir": "Esperanza a recuperar",
             "AppliquerGain": "Aplicar la ganancia de esperanza",
             "CHAIR": {
                "Label": "Penalización en Cuerpo",
@@ -1337,7 +1337,7 @@
                   "Description": "La meta-armadura Mago guarda en su interior una intrincada red de canales por donde circula plasma en fusión. Al activar el modo Borealis, grandes cantidades de este fluido se pueden redirigir a pequeñas rejillas por donde es expulsado como volutas luminosas. Gracias a su poderoso campo de fuerza y a guantes especialmente diseñados para ello, el portador puede manipular las volutas suspendidas en el aire, como si se tratase de una forma de telequinesis. La precisión es tal que puede recubrir las armas de sus aliados con este material. En el caso de armas de fuego, incluso puede manifestar una delgada capa de plasma por delante del cañón, bañando las municiones justo en el momento del disparo con una luz radiante, el resultado es una verdadera tortura para las abominaciones tenebrosas.",
                   "SUPPORT": {
                      "Label": "Apoyo",
-                     "Description": "Selecciona un aliado a distancia corta o inferior (incluyendo rango personal, afectando al usuario del modo Borealis). Todas sus armas adquieren el efecto Anti-Anathema. Puedes seleccionar un número adicional de aliados dentro del rango especificado pagando un coste de 2 PE suplementarios por cada uno de ellos, sus armas obtienen el mismo beneficio.",
+                     "Description": "Selecciona un aliado a distancia corta o inferior (incluyendo rango personal, afectando al usuario del modo Borealis). Su arma actual adquiere el efecto Anti-Anathema. Puedes seleccionar un número adicional de aliados dentro del rango especificado pagando un coste de 2 PE suplementarios por cada uno de ellos, sus armas obtienen el mismo beneficio.",
                      "Base": "Base",
                      "Allie": "Por aliado adicional",
                      "AllieAffecte": "Aliados afectados"
@@ -1352,20 +1352,20 @@
                   }
                },
                "CEA": {
-                  "Label": "Modo CEA",
-                  "Description": "El modo CEA permite al portador de armadura de monje impulsar la energía alfa de sus guanteletes. Esta energía se puede desplegar en 3 tipos diferentes de propulsión: onda, salvamento o en los estantes. \r\n ** Especial **: El caballero nunca necesita sus dos guanteletes para impulsar la energía alfa. Él solo puede usar uno para enviar energía y, por lo tanto, usar un arma con una mano (es decir, un arma sin el efecto _ de Hands_) en su otro ganteleto. \r\n Gracias a una acción de combate, el Caballero puede usar su guante para impulsar la energía en una de las 3 formas de abajo, sin ninguna penalización. Siempre puede usar el estilo ambidiestro para usar su arma en una mano y enviar energía alfa. En cualquier caso, para cada uno de sus ataques, debe hacer un avión. El uso del modo CEA se puede hacer con el disparo característico, si el enemigo es corto o más o con combate si el enemigo está en contacto. \r\n Finalmente, debe tenerse en cuenta que un caballero puede usar sus dos guanteletes para impulsar la energía alfa, en cuyo caso, debe usar el estilo ambidiestro (en este caso, puede usar dos tipos diferentes de propulsión) o el estilo Akimbo (en esto Caso, debe usar el mismo tipo de propulsión, con las bonificaciones y penalización habituales y gastar su energía dos veces, como si usara el modo dos veces). \r\n ** Especial - Pérdida de esperanza **: Cada uso del modo CEA te hace perder ** 1 punto de esperanza ** al Caballero (sin ninguna reducción posible gracias a una ventaja, un módulo o una capacidad). Consideramos que la circulación de la energía alfa en la armadura es una tortura para el espíritu de su portador. Estos puntos perdidos deben registrarse de lado, ya que pueden recuperarse al final de una pelea gracias al modo Zen.",
-                  "Espoir": "Costo en la esperanza (para ser registrado, recuperable)",
+                  "Label": "Modo Cea",
+                  "Description": "El modo Cea permite al portador de la armadura Monje disparar energía alfa desde sus guanteletes. Esta energía puede desplegarse en 3 tipos diferentes de propulsión: onda, ráfaga o rayo. \r\n ** Especial **: El caballero nunca necesita ambos guanteletes para propulsar energía alfa. Puede utilizar sólo uno para enviar energía y, por tanto, utilizar un arma de una mano (es decir, un arma sin el efecto _a dos manos_) en su otro guantelete. \r\n Con una acción de combate, el caballero puede utilizar su guantelete para propulsar energía de una de las 3 maneras siguientes, sin ningún malus. Siempre puede utilizar el estilo ambidiestro para usar tanto su arma a una mano como para enviar energía alfa. En todos los casos, para cada uno de sus ataques, debe hacer una tirada. El uso del modo Cea puede hacerse con la característica A Distancia, si el enemigo está a corta distancia o más, o con Combate si el enemigo está a contacto. \r\n Por último, cabe destacar que un caballero puede utilizar ambos guanteletes para propulsar energía alfa, en cuyo caso debe utilizar el estilo ambidiestro (en cuyo caso puede utilizar dos tipos diferentes de propulsión) o el estilo akimbo (en cuyo caso debe utilizar el mismo tipo de propulsión, con las bonificaciones y penalizadores habituales y gastando el doble de su energía, como si utilizara el modo dos veces). \r\n ** Especial - Pérdida de esperanza **: Cada uso del modo Cea hace que el caballero pierda ** 1 punto de esperanza ** (sin ninguna reducción posible gracias a una ventaja, un módulo o una habilidad). La circulación de energía alfa en la armadura se considera una tortura para la mente del portador. Estos puntos perdidos se contabilizarán por separado, ya que pueden recuperarse al final de un combate mediante el modo Zen.",
+                  "Espoir": "Coste de esperanza (para ser registrado, recuperable)",
                   "VAGUE": {
-                     "Label": "Ola de energía",
-                     "Description": "Con un movimiento grande y abrupto del brazo, el caballero envía una poderosa ola de energía sacudiendo a los enemigos y los sistemas electrónicos paralizantes."
+                     "Label": "Onda de energía",
+                     "Description": "Con un amplio y repentino movimiento del brazo, el caballero envía una poderosa onda de energía para destrozar a los enemigos y paralizar los sistemas electrónicos."
                   },
                   "SALVE": {
-                     "Label": "Ungüento de energía",
-                     "Description": "Con un movimiento rápido del brazo hacia adelante, el caballero impulsa varios proyectiles azules de medianoche que explotan en el más mínimo contacto en las poderosas Novas of Alpha Energy."
+                     "Label": "Ráfaga de energía",
+                     "Description": "Con un rápido movimiento hacia delante de su brazo, el caballero propulsa varios proyectiles azul noche que explotan al menor contacto en poderosas novas de energía alfa."
                   },
                   "RAYON": {
-                     "Label": "Radio de energía",
-                     "Description": "Con un movimiento lento del brazo estirado hacia adelante, el ganteleto del caballero emite un rayo azul oscuro de energía alfa concentrada y extremadamente destructiva. \r\n\r\n Especial: para cada ronda donde el radio se mantiene en el mismo enemigo, el caballero puede agregar 1d6 a su daño. El daño así generado se acumulan siempre que el radio apunte al mismo enemigo."
+                     "Label": "Rayo de energía",
+                     "Description": "Con un lento movimiento hacia delante del brazo, el guantelete del caballero emite un rayo de energía alfa azul noche, concentrado y extremadamente destructivo. \r\n\r\nEspecial: Por cada ronda que el rayo se mantenga sobre el mismo enemigo, el caballero puede añadir 1D6 a su daño. Los dados de daño así generados son acumulativos mientras el rayo rayo apunte al mismo enemigo."
                   }
                },
                "CHANGELING": {
@@ -1376,93 +1376,93 @@
                   "DesactivationExplosive": "Desactivación explosiva",
                   "NoDesactivationExplosive": "Sin desactivación explosiva",
                   "TransformationPersonnelle": "Personal",
-                  "TransformationEtendue": "Extendida",
+                  "TransformationEtendue": "Extensa",
                   "FauxEtres": "Falso ser",
                   "ENERGIE": {
                      "Personnelle": "Transformación personal",
-                     "Etendue": "Transformación extendida",
+                     "Etendue": "Transformación extensa",
                      "ParFauxEtres": "Por \"falso ser\""
                   }
                },
                "COMPANIONS": {
-                  "Label": "Moda complementaria",
-                  "Companion": "Compañera",
-                  "Description": "Druid Meta-Army puede generar tres tipos diferentes de compañeros. Se puede generar un solo tipo tanto como solo de la forma en que se presenta más adelante. No se pueden crear dos o tres tipos de compañeros al mismo tiempo durante la misma escena o la misma fase de conflicto, un solo tipo que puede existir al mismo tiempo. Cuando el Caballero genera un compañero, despliega nanomáquinas de la palma de su guante, nanomáquinas que se materializan en uno o más aliados robóticos. \r\n Cada tipo de compañero dura el momento de una escena o una fase de conflicto. Para extender la \"vida\" de un tipo de compañero durante la escena o la siguiente fase de conflicto, el Caballero debe pasar la mitad de los PES que gastaría normalmente. La activación cuesta 6 segundos, o una gira completa. Desactivar un compañero no cuesta ni PE ni acción. \r\n Si un caballero quiere cambiar el tipo de compañero cuando un tipo ya está presente, debe pagar nuevamente el costo normal en PE y usar la activación estándar del mod. El presente de compañero cae en la escoria de las nanomachinas mientras se crea otra, su PA y su educación física son como máximo. \r\n En todos los casos, si el PA (o cohesión) del tipo de compañero creado cae a cero, se destruye. Se puede crear un nuevo tipo de compañero para un costo de energía normal. \r\n El efecto _ignore Armure_ no tiene ningún efecto en la AP del Compañero, el daño se aplica normalmente. Además, ignora todas las capacidades de las capacidades _domination_ y __ x_. \r\n Los compañeros nunca pueden alejarse del transportista del druida Metaid Metaid con una distancia mayor que el largo rango. Si un compañero excede esta distancia, cae en la escoria de nano-máquinas y se considera destruido. \r\n Los compañeros actúan en su _initiative_, el Caballero no necesita ninguna acción para que actúen. \r\n Finalmente, los compañeros pueden recibir los beneficios proporcionados por los asentimientos y todas las capacidades apropiadas. Su educación física se recarga de la misma manera que las de los Caballeros y pueden recuperar la PA siendo reparada, gracias a capacidades o asentimientos. \r\n ** Generación de Companion ** \r\n Cuando el caballero crea un tipo de compañero, debe decidir otorgarle un mínimo de PE de su propio núcleo de energía. Para hacer esto, debe elegir reducir temporalmente su total de PE en 10, 20, 30, 40 o 50 puntos. Sus PE actuales se reducen por el número de PE total sacrificados. Tenga en cuenta que un caballero no puede sacrificar más por su total de lo que posee en su puntaje actual. \r\n Estos puntos se sacrifican siempre que el tipo de compañero esté presente y forme el total del compañero, así como sus PE actuales. Para usar sus módulos, el tipo de compañero tendrá que gastar estos PE. \r\n Cuando el compañero es destruido o cuando desaparece, el caballero recupera su total de PE y sus PE actuales aumentan a los poseídos por el compañero a su destrucción.",
+                  "Label": "Modo Compañeros",
+                  "Companion": "Compañero",
+                  "Description": "La meta-armadura Druida puede generar tres tipos diferentes de acompañante. Sólo se puede generar un tipo a la vez, y sólo de la forma descrita a continuación. No se pueden crear dos o tres tipos de acompañante al mismo tiempo durante la misma escena o fase de conflicto, ya que sólo puede existir un tipo a la vez. Cuando el caballero genera un compañero, despliega nanomáquinas desde la palma de su guantelete, que se materializan en uno o más aliados robóticos. \r\n Cada tipo de compañero dura lo que dura una escena o fase de conflicto. Para prolongar la \"vida\" de un tipo de compañero durante la siguiente escena o fase de conflicto, el caballero debe gastar la mitad de los PE que gastaría normalmente. La activación sólo cuesta una acción de movimiento. Desactivar un compañero no cuesta PE ni una acción. \r\n Si un caballero desea cambiar de tipo de compañero cuando uno ya está presente, debe pagar de nuevo el coste normal de PE y utilizar la activación estándar del modo. El compañero actual se convierte en desechos de nanomáquina mientras se crea otro, con sus PA y PE al máximo. \r\n En todos los casos, si el PA (o la cohesión) del tipo de compañero creado cae a cero, se destruye. Se puede volver a crear un nuevo tipo de compañero con el coste de energía normal. \r\n El efecto _Ignora armaduras_ no afecta al PA del compañero y el daño se aplica normalmente. Sin embargo, ignora todos los efectos de _Dominación_ y _Miedo X_. \r\n Los compañeros nunca pueden alejarse del portador de la meta-armadura de druida más allá del largo alcance. Si un compañero supera esta distancia, se destruye. \r\n Los compañeros actúan por _iniciativa_ propia; el caballero no necesita realizar ninguna acción para hacerlos actuar. \r\n Por último, los compañeros pueden recibir los beneficios de los nodos y todas las habilidades apropiadas. Sus PE se recargan del mismo modo que los de los caballeros y pueden recuperar PE al ser reparados, gracias a habilidades o nodos. \r\n ** Creación de Compañero ** \r\n Cuando el caballero crea un tipo de compañero, debe decidir concederle una cantidad mínima de PE de su propio núcleo de energía. Para ello, debe elegir reducir temporalmente sus PE totales en 10, 20, 30, 40 o 50 puntos. Sus PE actuales se reducen en el número de PE totales sacrificados. Nótese que un caballero no puede sacrificar más puntos de su total de los que tiene en su puntuación actual. \r\n Estos puntos se sacrifican mientras el tipo de compañero esté presente y forman los PE totales del compañero, así como sus PE actuales. Para utilizar sus módulos, el compañero tendrá que gastar estos PE. \r\n Cuando el compañero es destruido o desaparece, el caballero recupera sus PE totales y sus PE actuales aumentan hasta el nivel que tenía el compañero cuando fue destruido.",
                   "Coups": "Golpes",
-                  "ADistribuer": "Desarrollos a distribuir entre compañeros",
-                  "AspectsRepartir": "Aspectos a distribuir",
-                  "AspectsRestantRepartir": "Puntos de aspecto restantes para ser distribuidos",
+                  "ADistribuer": "Evoluciones a distribuir entre compañeros",
+                  "AspectsRepartir": "Aspectos a repartir",
+                  "AspectsRestantRepartir": "Puntos de aspecto restantes a repartir",
                   "AspectsRepartirMax": "Puntos máximos en el mismo aspecto",
-                  "AspectsExceptionnelsRepartir": "Aspectos excepcionales a distribuir",
-                  "AspectsExceptionnelsRestantRepartir": "Aspectos excepcionales que quedan por distribuir",
-                  "NiveauConfigurationRestant": "Nivel restante para ser distribuido",
+                  "AspectsExceptionnelsRepartir": "Aspectos excepcionales a repartir",
+                  "AspectsExceptionnelsRestantRepartir": "Aspectos excepcionales restantes a repartir",
+                  "NiveauConfigurationRestant": "Nivel restante a repartir",
                   "ENERGIE": {
-                     "Base": "Ser generado como un compañero",
-                     "Prolonger": "Compañero",
+                     "Base": "Crear un compañero",
+                     "Prolonger": "Prolongar un compañero",
                      "OctroyerEnergieS": "PE otorgado",
-                     "OctroyerEnergieP": "PE otorgado",
+                     "OctroyerEnergieP": "PE otorgados",
                      "OctroyerEspoirS": "PE otorgado",
-                     "OctroyerEspoirP": "PE otorgado"
+                     "OctroyerEspoirP": "PE otorgados"
                   },
                   "LION": {
                      "Label": "León",
-                     "Img": "Imagen de león",
-                     "CEvolutions": "La evolución de cada león",
-                     "Pointgloiredepart": "Puntos de glorias de inicio",
-                     "BonusPointgloire": "Puntos de gloria de bonificación para módulos",
-                     "Modulelion": "¿Módulo de león?",
-                     "Ajoutermodule": "¿Agregar el módulo al compañero de leones?"
+                     "Img": "Imagen de León",
+                     "CEvolutions": "Cada evolución de León",
+                     "Pointgloiredepart": "Puntos de gloria iniciales",
+                     "BonusPointgloire": "Puntos de gloria extra para módulos",
+                     "Modulelion": "¿Módulo para el León?",
+                     "Ajoutermodule": "¿Añadir el módulo al compañero León?"
                   },
                   "WOLF": {
-                     "Label": "Loba",
+                     "Label": "Lobo",
                      "Img": "Imagen de lobo",
-                     "CEvolutions": "Cada evolución de lobo",
-                     "BonusRepartir": "Número de configuraciones para aumentar",
-                     "EvolutionConfigurations": "Evolución de las configuraciones",
+                     "CEvolutions": "Cada evolución de Lobo",
+                     "BonusRepartir": "Número de configuraciones a mejorar",
+                     "EvolutionConfigurations": "Evolución de configuraciones",
                      "CONFIGURATIONS": {
                         "Label": "Configuraciones",
                         "Active": "Configuración activa",
                         "Disponible": "Configuraciones disponibles",
                         "LABOR": {
-                           "Label": "Mano de obra",
-                           "Description": "Los compañeros están equipados con herramientas que permiten el transporte o el levantamiento de cargas pesadas. Cada compañero solo puede soportar 150 kg y, por lo tanto, puede transportar cosas para el Caballero."
+                           "Label": "Mula",
+                           "Description": "Los compañeros están equipados con herramientas para transportar o levantar cargas pesadas. Cada compañero por sí solo puede cargar 150 kg y, por tanto, puede transportar cosas para el caballero."
                         },
                         "MEDIC": {
-                           "Label": "Médica",
-                           "Description": "Los compañeros están equipados con pequeños equipos médicos integrados, así como sistemas de análisis y muestras."
+                           "Label": "Médico",
+                           "Description": "Los compañeros están equipados con pequeños dispositivos médicos integrados, así como con sistemas de análisis y muestreo."
                         },
                         "TECH": {
-                           "Label": "Técnica",
-                           "Description": "Los compañeros tienen herramientas y módulos integrados para conectarse a dispositivos informáticos o electrónicos."
+                           "Label": "Tecnológico",
+                           "Description": "Los compañeros disponen de herramientas y módulos integrados que les permiten conectarse a dispositivos informáticos o electrónicos."
                         },
                         "FIGHTER": {
-                           "Label": "Combatiente",
-                           "Description": "Los compañeros ayudan al caballero en su pelea, golpeando y avergonzando a sus oponentes."
+                           "Label": "Luchador",
+                           "Description": "Los compañeros ayudan al caballero en la batalla, golpeando y obstaculizando a sus oponentes."
                         },
                         "RECON": {
-                           "Label": "Reconocida",
-                           "Description": "Los compañeros tienen sistemas de encuestas y observación para ayudar al Caballero en su investigación. El caballero puede observar, escuchar, sentir y tocar directamente de uno de los compañeros (como se desea)."
+                           "Label": "Explorador",
+                           "Description": "Los compañeros están equipados con sistemas de investigación y observación para ayudar al caballero en sus investigaciones. El caballero puede observar, oír, oler y tocar directamente desde uno de los compañeros (a su elección)."
                         }
                      }
                   },
                   "CROW": {
                      "Label": "Cuervo",
-                     "Img": "Imagen de cuervo",
-                     "CEvolutions": "Cada evolución del cuervo",
+                     "Img": "Imagen de Cuervo",
+                     "CEvolutions": "Cada evolución del Cuervo",
                      "Cohesion": "Cohesión",
-                     "Debordement": "Bonus de desbordamiento",
-                     "ChampDeForce": "Bonus de Champ de Force",
-                     "Vol": "Vuelo: puede viajar una distancia equivalente dentro de un largo rango por turno (una velocidad igual a 3 si se compara con la de los vehículos). El vuelo es permanente."
+                     "Debordement": "Bonus de paliza",
+                     "ChampDeForce": "Bonus de Campo de Fuerza",
+                     "Vol": "Vuelo: La banda está equipada con un módulo de vuelo nv3 activado constantemente que no cuesta energía."
                   }
                },
                "DISCORD": {
-                  "Label": "Discord Fashion",
-                  "Description": "Al activar el modo de discordia, el caballero puede perturbar la circulación del flujo durante una pelea, corromper las órdenes y hacer que las acciones de las criaturas sean menos seguras y efectivas.",
-                  "Tour": "Un turno",
-                  "Scene": "Una escena o una fase de conflicto"
+                  "Label": "Modo Discordia",
+                  "Description": "Al activar el modo Discordia, el caballero puede interrumpir la circulación de flujo en un combate, corrompiendo las órdenes y haciendo que las acciones de las criaturas sean menos seguras y eficaces.",
+                  "Tour": "1 turno",
+                  "Scene": "1 escena o 1 fase de conflicto"
                },
                "FALCON": {
-                  "Label": "Modo halcón",
+                  "Label": "Modo Halcón",
                   "Description": "Equipado con un analizador de última generación, la Maestro de la guerra es capaz de detectar las debilidades y fortalezas de los enemigos. Al activar este modo, el caballero percibe datos sobre cada cicatriz, cada movimiento, cada actitud de un oponente, ya sea humano, criatura de la oscuridad o máquina. A través de un juego de reconstrucción de los vectores de información, la meta-armadura pondera las fortalezas y debilidades del objetivo deseado y revela al caballero aquellas que parecen más probables. Usar el modo Halcón cuesta una acción de movimiento.",
                   "INFORMATIONS": {
                      "Label": "Información obtenida",
@@ -1472,20 +1472,20 @@
                "GOLIATH": {
                   "Label": "Modo Goliath",
                   "Description": "Las nanomáquinas que habitan bajo la superficie de la armadura generan materia para aumentar la masa muscular de la misma, otorgándole una mayor potencia. Como resultado, la armadura crece de manera global, pudiendo llegar hasta los 6 metros de altura con una complexión muscular increíble, esto supone un incremento considerable a la fuerza y el aguante, pero a costa de sus reflejos y rapidez.",
-                  "ArmesRack": "Armas en armero",
-                  "ArmesNoRack": "Las armas nunca se acumulan",
-                  "TailleBonus": "Bonificación de tamaño",
+                  "ArmesRack": "Las armas se enfundan a los ",
+                  "ArmesNoRack": "Las armas nunca se enfundan.",
+                  "TailleBonus": "Tamaño bonus",
                   "Metre": "Metro",
-                  "MetreBonus": "Bonus por metro(s)",
-                  "MBonus": "Bonus por metro"
+                  "MetreBonus": "Metros(s) bonus",
+                  "MBonus": "Metro bonus"
                },
                "GHOST": {
                   "Label": "Modo Fantasma",
                   "Description": "Gracias al modo Fantasma, el personaje se vuelve completamente invisible a simple vista y apenas se le puede escuchar (solo se pueden realizar comunicaciones entre auriculares) gracias a un campo de reducción de sonido.",
-                  "Interruption": "Interrumpido en caso de un ataque",
-                  "NoInterruption": "No interrumpido en caso de ataque",
+                  "Interruption": "Interrumpido al atacar",
+                  "NoInterruption": "No interrumpido al atacar",
                   "ActivationHorsConflit": "Fuera de conflicto",
-                  "ActivationConflit": "En conflicto",
+                  "ActivationConflit": "En fase de conflicto",
                   "PasserInaperçu": "Pasar desapercibido",
                   "JetPasserInaperçu": "Tirada: pasar desapercibido",
                   "BonusPasserInaperçu": "Éxitos adicionales para pasar desapercibido",
@@ -1543,8 +1543,8 @@
                   "EFFETS": {
                      "Cout": "Coste de los efectos",
                      "Base": "Efectos básicos",
-                     "AccesL3": "Acceso a la lista de 3 efectos",
-                     "NoAccesL3": "Sin acceso a la lista de 3 efectos",
+                     "AccesL3": "Acceso a la lista de efectos 3",
+                     "NoAccesL3": "Sin acceso a la lista de efectos 3",
                      "Liste1": "Lista de efectos 1",
                      "Liste2": "Lista de efectos 2",
                      "Liste3": "Lista de efectos 3"
@@ -1556,42 +1556,42 @@
                   },
                   "DEGATS": {
                      "Cout": "Energía por aumento",
-                     "Min": "Número de daño mínimo",
-                     "Max": "Número de daño máximo"
+                     "Min": "Dados de daño mínimos",
+                     "Max": "Dados de daño máximos"
                   },
                   "VIOLENCE": {
                      "Cout": "Energía por aumento",
-                     "Min": "Número mínimo de dados de violencia",
-                     "Max": "Número de dados máximo"
+                     "Min": "Dados de violencia mínimos",
+                     "Max": "Dados de violencia máximos"
                   }
                },
                "MECHANIC": {
                   "Label": "Modo Mecánico",
                   "Description": "Mediante una acción de movimiento, el héroe puede difundir nanoC para reparar una meta-armadura, un vehículo o un equipamiento (como armas u otros dispositivos) con el que esté en contacto.",
-                  "Reparation": "Reparar"
+                  "Reparation": "Reparación"
                },
                "MORPH": {
-                  "Label": "Moda de transmisión",
-                  "Description": "Cuando activa el modo Morph, el caballero entra en modo de combate. Por lo general, su cuerpo se convierte en metal y las nanomachinas que lo inventan son más visibles. \r\n ** Especial - Pérdida de esperanza **: Cada activación del modo Morph hace 1 punto de esperanza para el caballero perder 1 punto (sin ninguna posible reducción gracias a una ventaja, un módulo o una capacidad). Se considera que la metamorfosis corporal es una tortura para la mente del personaje. \r\n ** Efecto **: Cuando el modo Morph está activo, el personaje se beneficia automáticamente de 3 de las capacidades que se enumeran a continuación. Para cambiar la configuración, debe activar nuevamente el modo Morph y pagar su costo en energía.",
-                  "NbreCapacites": "Límite de capacidades activas al mismo tiempo",
+                  "Label": "Modo Mutar",
+                  "Description": "Al activar el modo Mutar, el caballero entra en modo combate. Normalmente, su cuerpo se vuelve metálico y las nanomáquinas que lo componen son más visibles. \r\n ** Especial - Pérdida de esperanza **: Cada activación del modo Mutar hace que el caballero pierda 1 punto de esperanza (sin reducción posible debido a una ventaja, módulo o habilidad). La metamorfosis corporal se considera una tortura para la mente del personaje. \r\n ** Efecto **: Cuando el modo Mutar está activo, el personaje gana automáticamente 3 de las habilidades enumeradas a continuación. Para cambiar la configuración, debe activar de nuevo el modo Mutar y pagar su coste de energía.",
+                  "NbreCapacites": "Límite de habilidades activas al mismo tiempo",
                   "CAPACITES": {
                      "VOL": {
-                        "Label": "Vuelo en la nube",
-                        "Description": "El vuelo del caballero en la nube de nanomachinas. Se beneficia de los efectos del módulo de vuelo en el nivel 1, sin gastar la energía que el módulo le costaría. Cuando vuela en una nube, el caballero no puede usar ningún otro módulo o ningún arma. Puede activar el vuelo para la acción de viaje y desactivarlo de forma gratuita."
+                        "Label": "Vuelo en nube",
+                        "Description": "El caballero vuela en una nube de nanomáquinas. Se beneficia de los efectos del módulo de vuelo de nivel 1, sin gastar la energía que le costaría utilizar el módulo. Cuando vuela en una nube, el caballero no puede utilizar ningún otro módulo o arma. Puede activar el vuelo con una acción de movimiento y desactivarlo gratuitamente."
                      },
                      "PHASE": {
                         "Label": "Fase",
                         "Label2":"Fase (nivel 2)",
-                        "Description": "El caballero puede pasar a través del material cuando activa el modo. Se beneficia de los efectos del módulo de fase en el nivel 1 y, a diferencia del vuelo de la nube, debe gastar la energía requerida para el uso del módulo. Puede activar la fase para la acción de viaje y desactivarla de forma gratuita.",
+                        "Description": "El caballero puede atravesar la materia al activar la modalidad. Obtiene los efectos del módulo de fase a nivel 1 y, a diferencia del vuelo en la nube, debe gastar la energía necesaria para utilizar el módulo. Puede activar la fase con una acción de movimiento y desactivarla gratuitamente.",
                         "Duree": "1 acción para 50 centímetros de material",
-                        "Niveau2":"Tiene un nivel 2"
+                        "Niveau2":"Tiene nivel 2"
                      },
                      "ETIREMENT": {
-                        "Label": "Extensión",
-                        "Description": "El Caballero, compuesto por nanomachinas, puede estirar a sus miembros. Durante las escenas, puede extender a sus miembros a diez metros. En la fase de conflicto, se considera que sus ataques de contacto pueden llegar hasta el corto alcance. Si busca inmovilizar un objetivo de tamaño humano o más pequeño que él, recibe una ventaja de 3 éxitos automáticos.",
+                        "Label": "Estiramiento",
+                        "Description": "El caballero, compuesto por nanomáquinas, puede estirar sus extremidades. Durante las escenas, puede extender sus extremidades hasta diez metros. En la fase de conflicto, se considera que sus ataques de contacto pueden ir a corta distancia. Si pretende inmovilizar a un objetivo de tamaño humano o menor que él, recibe una bonificación de 3 éxitos automáticos.",
                         "Portee": "10m o corto alcance",
-                        "Bonus": "Éxitos de bonificación para inmovilizar si el objetivo de un tamaño humano o más bajo",
-                        "Immobilisation": "Inmovilidad",
+                        "Bonus": "Bonus de éxitos para inmovilizar si el objetivo de tamaño humano o menor",
+                        "Immobilisation": "Inmovilización",
                         "JetImmobilisation": "Tirada: inmovilización"
                      },
                      "METAL": {
@@ -1601,33 +1601,33 @@
                         "Label": "Cuerpo fluido"
                      },
                      "POLYMORPHIE": {
-                        "Label": "Polimorfia de guerra",
-                        "Griffe": "Luchando en garras",
-                        "Lame": "Cuchilla de brazo",
+                        "Label": "Polimorfismo de guerra",
+                        "Griffe": "Garras de combate",
+                        "Lame": "Hoja de brazo",
                         "Canon": "Cañón de brazo",
-                        "Description": "A su vez, el personaje puede generar libremente un módulo de su elección entre estos (puede generarlos al mismo tiempo en cada una de sus manos y, por lo tanto, usar el estilo Akimbo o Ambidextre): \r\n\r\n - Combate Claws en el nivel 1 \r\n - Hoja del brazo en el nivel 1 \r\n - Cañón del brazo en el nivel 1. \r\n\r\n Los efectos a elegir para comprar están aquí para elegir directamente a la creación de un personaje y no se pueden modificar."
+                        "Description": "Por turno, el personaje puede generar gratuitamente uno de los siguientes módulos (puede generarlos al mismo tiempo en cada una de sus manos y utilizar así el estilo akimbo o ambidiestro): \r\n\r\n - Garras de comate de nivel 1 \r\n - Hoja de brazo de nivel 1 \r\n - Cañón de brazo de nivel 1. \r\n\r\n Los efectos a elegir en la compra deben elegirse aquí directamente en la creación del personaje y no pueden modificarse."
                      }
                   }
                },
                "NANOC": {
-                  "Label": "Modo de NanoC",
+                  "Label": "Modo NanoC",
                   "Description": "Usando el modo nanoC, el personaje puede desplegar su enjambre de nanomáquinas metálicas para crear materia y depositarla en configuraciones simples y geométricas de hasta 3 metros cúbicos de tamaño. \r\n También puede formar objetos detallados de hasta 2 metros cúbicos de tamaño. \r\n Finalmente, puede crear objetos mecánicos, eléctricos o electrónicos de un máximo de 1 metro cúbico. Depende del DJ aceptar o no los objetos creados con este modo, como también sus posibles usos.",
-                  "ObjetBase": "Forma básica",
-                  "ObjetDetaille": "Forma detallada",
+                  "ObjetBase": "Objeto básico",
+                  "ObjetDetaille": "Objeto detallado",
                   "ObjetMecanique": "Objeto mecánico, alta tecnología, informático, etc.",
                   "ParMinute": "Minuto adicional"
                },
                "ORIFLAMME": {
-                  "Label": "Modo oriflama",
+                  "Label": "Modo Oriflama",
                   "Description": "La meta-armadura libera oleadas de plasma centelleante junto con un polvo de magnesio de alta densidad que en conjunto forman una explosión de luz cegadora, altamente eficaz contra la Anathema. Toda criatura de las tinieblas que se vea envuelta en este espectáculo de luces sufrirá cantidades pasmosas de daño. El único inconveniente es que este modo tiene un coste de energía muy alto."
                },
                "PUPPET": {
-                  "Label": "Modo maestro de marionetas",
-                  "Description": "Un caballero, manipulando el flujo, puede imponer órdenes simples a las criaturas de anatema (o desesperado). \r\n ** Efecto **: Cuando se activa el modo maestro de marionetas, el personaje puede dar un orden simple, compuesto de una o tres palabras, a una criatura de anatema o a un desesperado (necesariamente un PNJ) ubicado dentro de un rango medio. Por ejemplo, puede ser huir, atacar a un objetivo (incluso otra criatura de anatema), o incluso defender al personaje. \r\n El objetivo solo puede ser hostil y logra, en la fase de conflicto, el orden a su vez, es decir que usa todas sus acciones disponibles (aparte de una fase de conflicto, debe poder cumplir su orden en menos de 10 segundos) . Ella obedece de la manera más simple y fácil, incluso si eso significa poner su vida en peligro. Una vez que se completa la orden, la criatura que lo ha seguido reanuda sus sentidos, se convierte en una amante de sí misma y lógicamente ha terminado su turno. \r\n Para cumplir con el orden, es el GM el que lanza los dados y que decide (honestamente) el aspecto que se utilizará y, si el caso se presta a él, las capacidades para usar. \r\n El caballero puede decidir extender su control sobre el objetivo, renovar el mismo orden y gastar algunos flujos y puntos de energía adicionales. \r\n También puede decidir dar una orden (y solo una) a varias criaturas al mismo tiempo, siempre gastar más energía y flujo.",
+                  "Label": "Modo Titiritero",
+                  "Description": "Un caballero, manipulando el flujo, puede imponer órdenes simples a criaturas de la Anathema (o desesperanzados). \r\n ** Efecto **: Cuando el modo Titiritero está activado, el personaje puede dar una orden simple, consistente de una a tres palabras, a una criatura de la Anathema o desesperanzada (necesariamente un PNJ) dentro de un alcance medio. Puede ser huir, atacar a un objetivo (incluso a otra criatura de la Anathema) o defender al personaje. \r\n El objetivo sólo puede ser de tipo hostil y, durante una fase de conflicto, cumple la orden en su turno, es decir, utilizando todas sus acciones disponibles (fuera de una fase de conflicto, debe poder cumplir su orden en menos de 10 segundos). Obedece la orden de la forma más rápida y sencilla posible, aunque ello suponga poner su vida en peligro. Una vez cumplida la orden, la criatura que la siguió vuelve en sí, recupera el control de sí misma y, lógicamente, ha terminado su turno. \r\n Para llevar a cabo la orden, el DJ tira los dados y decide (honestamente) qué aspecto usar y, si procede, qué habilidades utilizar. \r\n El caballero puede decidir ampliar su control sobre el objetivo, renovando la misma orden y gastando unos puntos extra de flujo y energía. \r\n También puede decidir dar una orden (y sólo una) a varias criaturas a la vez (máximo 3), gastando siempre más energía y flujo.",
                   "Max": "Criaturas máximas afectadas",
-                  "Ordre": "Para dar un pedido",
+                  "Ordre": "Para dar una orden",
                   "Creature": "Incluir una criatura adicional",
-                  "Prolonger": "Extender el pedido en una criatura ya controlada"
+                  "Prolonger": "Prolongar orden en una criatura ya controlada"
                },
                "RAGE": {
                   "Label": "Modo furia",
@@ -1677,25 +1677,25 @@
                   "Description": "En un destello incoloro seguido de un movimiento rápido casi invisible, el meta-marmi (y, por lo tanto, su portador) puede desaparecer y regresar al estado y a la posición que tenía exactamente 6 segundos antes, recuperando lo que había perdido durante este período de tiempo o cancelando lo que le había infligido. El entorno alrededor no cambia, solo el brujo se somete a retorno de esta vez. \r\n La activación de esta capacidad permite obtener los siguientes efectos: \r\n - El regreso a los puntos de salud poseía menos de 6 segundos (o el giro de juego anterior), ya sea inferior o superior. \r\n - Regrese a los puntos de armadura que poseían menos de 6 segundos (o el giro de juego anterior), ya sea inferior o superior. \r\n - Cancelar una lesión grave recibida hace menos de 6 segundos (o en el turno anterior). \r\n - Recupere las municiones (s) de un módulo (y solo un módulo) utilizado (s) de menos de 6 segundos (o en el giro anterior). \r\n - Recupere un asentimiento (s) utilizado menos de 6 segundos (o en el giro anterior). \r\n - Muévase instantáneamente a su posición hace 6 segundos (o el giro de juego anterior). \r\n El conjunto de efectos se activa al mismo tiempo. Depende del PJ regular sus puntajes y equipos. La esperanza de los puntos y los puntos de energía no se ven afectados por estos efectos. Las armas rotas y todos los equipos que no sean los asentimientos y las municiones de los módulos utilizados tampoco se ven afectados. \r\n ** Atención **: El efecto es personal y está restringido a la meta marina misma, a su usuario, a sus brazos, a sus módulos y al equipo ubicado en su paquete. Lo que está presente alrededor del meta-marmi o en contacto con él (como un aliado) no se ve afectado. Si sucedió que un elemento evita el regreso del meta-marmi y su portador a su posición anterior, entonces simplemente se acercan lo más posible a esta posición sin chocar. \r\n El caballero debe activarlo en su turno en combate. Debe esperar 6s después de un rebobinado para activarlo nuevamente. Esto significa que en la fase de conflicto, solo puede hacer un rebobinado/gira."
                },
                "SARCOPHAGE": {
-                  "Label": "Armadura de sarcófago",
-                  "Description": "Cuando un caballero muere, puede decidir continuar la aventura insertando su conciencia en una armadura nigromante. Luego pierde su antiguo meta-marmi, sus capacidades y todas sus sobretensiones. Puede mantener sus armas y módulos, incluso las de Prestige. \r\n A cambio de la pérdida de su meta-marhy y de acuerdo con el PGS acumulado, el caballero recibe un cierto número de módulos como se indica a continuación. Solo los recibe cuando invierte al nigromante por primera vez y puede elegir los que quiere (sobrecarga, módulos de combate, etc.) como parte de la disponibilidad indicada, independientemente de su costo en PG, y por supuesto puede cambiar un módulo de un módulo en lugar de comprar uno nuevo.",
-                  "Paliers": "Número de niveles de bonificación",
-                  "Pg": "PG acumulativo",
+                  "Label": "Armadura Sarcófago",
+                  "Description": "Cuando un caballero muere, puede decidir continuar la aventura introduciendo su conciencia en una armadura de Nigromante. Entonces pierde su antigua meta-armadura, sus habilidades y todas sus sobrecargas. Puede conservar sus armas y módulos, incluso los de prestigio. \r\n A cambio de la pérdida de su meta-armadura y en función de los PG acumulados, el caballero recibe un cierto número de módulos como se indica a continuación. Sólo los recibe cuando invierte en la armadura por primera vez y puede elegir los que quiera (sobrecargas, módulos de combate, etc.) dentro de la disponibilidad indicada, independientemente de su coste en PG, pudiendo por supuesto mejorar un módulo en lugar de comprar uno nuevo.",
+                  "Paliers": "Número de niveles bonus",
+                  "Pg": "PG acumulados",
                   "Bonus": "Bonus ofrecido",
                   "LISTE": {
-                     "b0": "Un módulo estándar para elegir de la lista de módulos.",
-                     "b1": "Dos módulos estándar para elegir la lista de módulos.",
-                     "b2": "Dos módulos estándar y un módulo avanzado para elegir entre la lista de módulos.",
-                     "b3": "Tres módulos estándar y dos módulos avanzados para elegir la lista de módulos.",
-                     "b4": "Tres módulos estándar, tres módulos avanzados y un módulo raro para elegir entre la lista de módulos.",
-                     "b5": "Tres módulos estándar, tres módulos avanzados y dos módulos raros para elegir de la lista de módulos.",
-                     "b6": "Tres módulos estándar, tres módulos avanzados y tres módulos raros para elegir entre la lista de módulos."
+                     "b0": "Un módulo estándar a elegir de la lista de módulos.",
+                     "b1": "Dos módulos estándar a elegir de la lista de módulos.",
+                     "b2": "Dos módulos estándar y un módulo avanzado a elegir de la lista de módulos.",
+                     "b3": "Tres módulos estándar y dos módulos avanzados a elegir de la lista de módulos.",
+                     "b4": "Tres módulos estándar, tres módulos avanzados y un módulo raro a elegir de la lista de módulos.",
+                     "b5": "Tres módulos estándar, tres módulos avanzados y dos módulos raros a elegir de la lista de módulos.",
+                     "b6": "Tres módulos estándar, tres módulos avanzados y tres módulos raros a elegir de la lista de módulos."
                   }
                },
                "SHRINE": {
-                  "Label": "Campo de fuerza Santuario",
+                  "Label": "Campo de Fuerza Santuario",
                   "Description": "La meta-armadura puede desplegar un campo de fuerza muy poderoso llamado Santuario a su alrededor. Este toma la forma de una cúpula azulada de 6 metros de diámetro, permitiéndole cubrir a otras personas y/o meta-armaduras.",
-                  "Portee": "Personal / medio",
+                  "Portee": "Personal / Medio",
                   "ENERGIE": {
                      "Personnel": "Personal",
                      "Distance": "Remoto",
@@ -1716,12 +1716,12 @@
                   }
                },
                "TYPE": {
-                  "Label": "Configuración",
+                  "Label": "Configuraciones",
                   "Description": "La meta-armadura Guerrero no tiene ninguna habilidad activa de base, pero sus configuraciones le otorgan una mayor versatilidad y adaptabilidad. Cada configuración está dedicada a un aspecto y confiere al caballero un nivel de sobrecarga en cada una de las 3 características del aspecto pertinente. En la creación del personaje, el caballero debe elegir 3 configuraciones de las que se presentan en la lista más adelante, estas serán a las que tiene acceso mientras porta su armadura. Las sobrecargas adquiridas de esta manera se suman a las que el caballero haya comprado o obtenido por algún otro tipo de bonificación. Además, proporcionan las mismas ventajas que las sobrecargas convencionales (éxito automático y bonificación). Aunque el límite de niveles de sobrecarga es 5, las otorgadas por las diferentes configuraciones no cuentan para esta restricción. Esto significa que, por este método, el caballero puede alcanzar a tener 6 SC en una o más características, o incluso más (obviamente, esto solo sucede cuando se han acumulado muchos PG). Solo una configuración puede estar activa a la vez, y activarlas requiere de una acción de movimiento. La configuración se mantiene desde el momento de su activación hasta el siguiente turno del personaje. Afortunadamente, el caballero puede gastar energía para prolongar la duración. Esto no le cuesta ninguna acción.",
-                  "TypesPossedes": "Tipos seleccionados",
+                  "TypesPossedes": "Configuraciones seleccionadas",
                   "ENERGIE": {
-                     "Tour": "Por un turno de conflicto",
-                     "Scene": "Por una escena fuera de conflicto"
+                     "Tour": "1 turno en conflicto",
+                     "Scene": "1 escena fuera de conflicto"
                   },
                   "TYPE": {
                      "Soldier": "Soldado",
@@ -1736,17 +1736,17 @@
                   "Description": "Gracias al sistema de visión de la armadura Explorador, el personaje puede ver cosas que no deberían verse durante unos segundos. Usando \"Visión\", el personaje puede distinguir entre gas, viento, enfermedad, respiración, criaturas microscópicas, ondas de radio, la Anathema, pensamientos, etc. Depende del jugador decirle al DJ lo que quiere ver. \r\n Dependiendo de la dificultad de visión, el caballero debe gastar de 5 a 10 de energía, a elección del DJ. El DJ luego describe al PJ lo que ve durante unos segundos, puede ser muy preciso o, por el contrario, borroso, ya que la Visión a veces no es muy precisa. \r\n La visión, por supuesto, solo pasa por la vista. Por ejemplo, si el PJ elige ver los pensamientos de una persona, ve palabras o imágenes, pero no escucha ningún sonido."
                },
                "WARLORD": {
-                  "Label": "Modo señor de la guerra",
-                  "Description": "El usuario de la armadura puede mejorar de forma remota las meta-armadas de los Caballeros por un tiempo. Estas mejoras, llamadas \"impulsos\", ofrecen bonus sustanciales a los miembros de los aliados de Coterie. Una armadura WarMaster inicialmente tiene 3 impulsos diferentes, para elegir entre los ofrecidos, representados por chisporroteos de color cuando se usan. \r\n\r\n Use un impulso cuesta una acción de movimiento. Todos los impulsos tienen un alcance distante y se pueden lanzar en los Caballeros Aliados, incluso si el personaje no tiene una vista de línea de ellos o si son invisibles. \r\n Cuando se indica, el portador del meta-marino puede decidir atacar a sí mismo. El Caballero también puede decidir recibir el efecto de bonificación ofrecido a uno o más aliados para un costo de energía adicional igual a la mitad del costo básico del impulso (redondeado al todo superior). Apuntar a varios aliados y atacarte con un impulso no cuesta ninguna acción adicional que no sea la básica. \r\n\r\n Cuando se indica, algunos pulsos pueden extenderse por un costo igual a la mitad del costo total de activación del pulso (contando el costo de cualquier objetivo adicional), con un mínimo de 1 EP gastado. El caballero decide que cada giro extenderá un impulso o no. Gasta energía en cada turno donde decide extender un impulso. Extender un impulso no cuesta ninguna acción. Es muy posible extender varios pulsos al mismo tiempo, pero no se puede acumular varias veces el mismo impulso en un objetivo. \r\n Ejemplo: _El personaje de Nicolas usa un impulso Dodge en un aliado, por lo que debe gastar 3 PE. Sin embargo, decide usar este pulso también en sí mismo. Por lo tanto, gasta la mitad del costo de energía básica, es decir, 2 y beneficios del efecto. En total, para su aliado y él mismo, el impulso habrá costado 5 PE._",
-                  "NombresModes": "Número de pulsos para elegir",
+                  "Label": "Modo Señor de la Guerra",
+                  "Description": "El usuario de la armadura puede mejorar de forma remota las meta-armadas de los Caballeros por un tiempo. Estas mejoras, llamadas \"impulsos\", ofrecen bonus sustanciales a los miembros de los aliados de Coterie. Una armadura WarMaster inicialmente tiene 3 impulsos diferentes, para elegir entre los ofrecidos, representados por chisporroteos de color cuando se usan. \r\n\r\n Use un impulso cuesta una acción de movimiento. Todos los impulsos tienen un alcance distante y se pueden lanzar en los Caballeros Aliados, incluso si el personaje no tiene una vista de línea de ellos o si son invisibles. \r\n El portador de la meta-armadura aún puede decidir recibir también el efecto adicional ofrecido a uno o más aliados por un coste de energía adicional igual a la mitad del coste de energía base del impulso (redondeado al número entero superior). Apuntar a múltiples aliados y apuntarte a ti mismo con un impulso no cuesta acciones adicionales más que la básica. \r\n\r\n Cuando se indica, algunos pulsos pueden prolongarse por un coste igual a la mitad del coste total de activación del pulso (contando el coste de cualquier objetivo adicional), con un mínimo de 1 PE gastado. El caballero decide en cada turno si prolonga un impulso o no. Gasta energía cada turno que decida prolongar un impulso. Prolongar un impulso no cuesta ninguna acción. Es posible prolongar varios pulsos al mismo tiempo, pero no se puede acumular varias veces el mismo impulso en un solo objetivo. \r\n Ejemplo: _El personaje de Nicolás usa un impulso para actuar sobre un aliado, por lo que debe gastar 4 PE. Sin embargo, también decide usar este impulso sobre sí mismo. Por lo tanto, gasta la mitad del coste base de energía, es decir, 2, y se beneficia del efecto. En total, para él y su aliado, el impulso le habrá costado 6 PE._",
+                  "NombresModes": "Número de impulsos para elegir",
                   "ACTIVATION": {
                      "Porteur": "Portador",
                      "Allie": "Aliado(s)"
                   },
                   "IMPULSIONS": {
-                     "Allie": "Para los aliados(s)",
+                     "Allie": "Para aliados(s)",
                      "Porteur": "Para el portador",
-                     "AlliesPorteur": "Por turno para combinación afectada y el portador (si el bonus se ha otorgado a sí mismo)",
+                     "AlliesPorteur": "Por turno por cada aliado afectado y el portador (si el bonus se ha otorgado a sí mismo)",
                      "ACTION": {
                         "Label": "Impulso de acción",
                         "Bonus": "Un aliado (y sólo uno) elegido por el portador de la meta-armadura gana una acción adicional de combate o movimiento en su siguiente turno."
@@ -1767,17 +1767,17 @@
                   }
                },
                "WATCHTOWER": {
-                  "Label": "Modo torreta",
+                  "Label": "Modo Torreta",
                   "Description": "La meta-armadura puede desplegar dos módulos de estabilización en sus pies que le permiten disparar más rápidamente."
                },
                "WINDTALKER": {
-                  "Label": "Modo WindTalker",
-                  "Description": "Al activar este modo, el Caballero puede leer el flujo emitido por las criaturas de Anathema, comprender sus tácticas y sus acciones futuras. \r\n ** Efecto **: Cuando el caballero actúa este modo, toma nota de las tácticas de un tipo de criatura de Anathema (banda, hostil, jefe o jefe) presente en la escena o en la fase de conflicto. Además, por el giro donde se activa el modo, el MJ debe anunciar la siguiente acción (y solo la siguiente) de cada criatura del anatema presente en la escena o en la fase de conflicto de rango medio del personaje."
+                  "Label": "Modo Windyalker",
+                  "Description": "Al activar este modo, el caballero puede leer la corriente emitida por las criaturas de la Anathema, comprender sus tácticas y sus acciones futuras. \r\n ** Efecto **: Cuando el caballero activa este modo, se entera de las tácticas de un tipo de criatura de Anathema (banda, hostil, salvaje o jefe) presente en la escena o en la fase de conflicto. Además, en el turno en que se activa el modo, el DJ debe anunciar la siguiente acción (y sólo la siguiente) de cada criatura de la Anathema en la escena o fase de conflicto dentro de la del personaje."
                },
                "ZEN": {
-                  "Label": "Moda zen",
-                  "Description": "Después de una lucha particularmente difícil por su espíritu y su esperanza, el Caballero puede pedirle a la IA de su armadura que active el modo Zen. En este modo, el Caballero se arrodilla, las manos sobre los muslos y se pierde en reverencias distantes causados ​​por la IA y tiene la intención de limpiar su mente de desesperación.",
-                  "Caracteristiques": "Características de tirada",
+                  "Label": "Modo Zen",
+                  "Description": "Después de una batalla que haya sido particularmente agotadora para el espíritu y la esperanza del caballero, éste puede pedir a la IA de su armadura que active el modo Zen. En este modo, el caballero se arrodilla con las manos en los muslos y se pierde en ensueños lejanos provocados por la IA y destinados a limpiar su mente de desesperación.",
+                  "Caracteristiques": "Características de la tirada",
                   "Difficulte": "Dificultad de tirada"
                },
                "PERSONNALISE": {
@@ -1818,18 +1818,18 @@
                   "Description": "La IA corre el riesgo de sufrir impregnación y, por lo tanto, de no poder ser desposeídos del cuerpo en el que está incorporado. Estos puntos se acumulan. \r\n Después de la primera vez, el Caballero debe realizar una prueba para desplegar su IA con el riesgo mínimo. La dificultad de la prueba es igual al número de puntos acumulados por el MJ. \r\n Los puntos se pueden eliminar de este total si el caballero se encarga de su IA o si la IA no se despliega por un tiempo, a discreción del MJ. Los puntos acumulativos se dan a 0 al comienzo de la misión o intermedio."
                },
                "LENTEETLOURDE": {
-                  "Label": "Lento y pesado",
+                  "Label": "Lenta y pesada",
                   "Description": "La meta-armadura Paladín no puede usar los módulos de carrera, desplazamiento silencioso o salto. Además, el DJ siempre puede decidir que es arriesgado para la armadura pasar sobre ciertos tipos de suelo que son demasiado frágiles. Finalmente, la dificultad de toda prueba con base de Sigilo o Movimiento con esta armadura aumenta en un nivel (si la dificultad base es fácil (1), la dificultad cambia a Factible (2))."
                },
                "PLUSESPOIR": {
-                  "Label": "No hay esperanza",
-                  "Description": "Al invertir el meta-marmi, el Caballero solo tiene 10 puntos de esperanza. Estos puntos de esperanza solo se pueden perder en el caso de una agonía vinculada a la primera especificidad de la armadura de cuarta generación (Recuerdo: En una agonía, el Caballero debe tener éxito en un análisis base de sangre -froid Longne para mantenerse con vida y perder solo 1D6 Puntos de esperanza). Todas las otras pérdidas posibles son simplemente ignoradas por el caballero. A cambio, el caballero ya no puede recuperar puntos de esperanza, de ninguna manera y ya no puede activar el modo heroico (pero siempre puede recibir puntos de heroísmo y gastarlos de manera diferente).",
+                  "Label": "Ya no hay esperanza",
+                  "Description": "Al conseguir la meta-armadura, al caballero sólo le quedan 10 puntos de esperanza. Estos puntos de esperanza sólo pueden perderse en el caso de una agonía relacionada con la primera especificidad de la armadura de 4ª generación. Todas las demás pérdidas posibles son simplemente ignoradas por el caballero. A cambio, el caballero ya no puede recuperar puntos de esperanza de ninguna forma y ya no puede activar un modo heroico (pero aún puede recibir puntos heroicos y gastarlos de otras formas).",
                   "ESPOIR": {
-                     "Label": "Nuevo valor básico de esperanza",
-                     "Recuperation": "Puede recuperar la esperanza",
-                     "NonRecuperation": "No puedo recuperar la esperanza",
+                     "Label": "Nuevo valor base de esperanza",
+                     "Recuperation": "Puede recuperar esperanza",
+                     "NonRecuperation": "No puede recuperar esperanza",
                      "Perte": "Puede perder la esperanza",
-                     "NonPerte": "No puede perder la esperanza (excepto la agonía)"
+                     "NonPerte": "No puede perder esperanza (excepto en agonía)"
                   }
                },
                "PORTEURLUMIERE": {
@@ -1837,17 +1837,17 @@
                   "Description": "Todos los ataques traídos por el Caballero del Meta-Army reciben efectos de bonificación."
                },
                "RECOLTEFLUX": {
-                  "Label": "Cosecha de flujo",
-                  "Description": "En combate, contra las criaturas de anatema o desesperado y solo contra este tipo de enemigos, un meta coly pionero puede cosechar flujo. Al comienzo de una fase de conflicto, el caballero recibe automáticamente ** 2 puntos de flujo ** y, en cada la siguiente ronda, recibe ** 1 ** (para simbolizarlos, tomar partes o peones). Si un caballero de Coterie mata a un enemigo en medio rango o por un aliado (por lo tanto, no por una criatura de Anathema o un desesperado), el pionero Meta-Armor Knight recibe automáticamente el siguiente número de puntos de flujo por enemigo asesinado: \r\n Cabe señalar que el flujo se puede cosechar fuera de una fase de conflicto si el caballero está en presencia de una o más criaturas de anatema en un cierto alcance de armadura. Luego se considera que recibe puntos de flujo por criatura presente dentro del rango, en el cierto límite, durante la escena. Estos puntos solo se reciben una vez por etapa. \r\n El flujo recolectado por el caballero durante una pelea le permite usar los modos inferiores a los que tienen un costo en el flujo. Tenga en cuenta: cada uno de los modos descritos solo se puede usar contra las criaturas de anatema o contra desesperado. \r\n ** Tenga cuidado **: Si al final de una escena o una fase de conflicto no se usó el flujo absorbido, definitivamente se pierde.",
+                  "Label": "Cosechar el flujo",
+                  "Description": "En combate, contra criaturas de la Anathema o desesperanzadas y sólo contra este tipo de enemigos, un caballero con meta-armadura Psiónica puede cosechar flujo. Al comienzo de una fase de conflicto, el caballero recibe automáticamente ** 2 puntos de flujo **, y en cada turno posterior recibe ** 1 ** punto de flujo (para simbolizarlo, coge monedas o fichas). Si un enemigo a distancia media es abatido por un caballero aliado o un aliado (por tanto, no por una criatura de la Anathema o un desesperanzado), el caballero de la meta-armadura Psiónica recibe automáticamente el siguiente número de puntos de flujo por enemigo abatido: \r\n Ten en cuenta que el flujo puede recogerse fuera de una fase de conflicto si el caballero está en presencia de una o más criaturas de la Anathema a medio alcance. En este caso, el caballero recibe 1 punto de flujo por cada criatura a medio alcance, hasta un máximo de diez puntos durante la escena. Estos puntos sólo se reciben una vez por escena. \r\n El flujo recogido por el caballero durante un combate le permite utilizar los modos siguientes que tienen un coste de flujo. Advertencia: Cada uno de los modos descritos sólo puede utilizarse contra criaturas de la Anathema o contra los desesperanzados. \r\n ** Atención **: Si al final de una escena o de una fase de conflicto no se ha utilizado el flujo absorbido, se pierde permanentemente.",
                   "FLUXENCONFLIT": {
-                     "Label": "Conflicto",
+                     "Label": "Flujo en conflicto",
                      "DebutConflit": "Comienzo del conflicto",
                      "ParTour": "Por turno",
                      "ParHostile": "Por hostil asesinado",
-                     "ParSalopard": "Por bastardo asesinado",
+                     "ParSalopard": "Por salvaje asesinado",
                      "ParPatron": "Por jefe asesinado",
                      "HostileTue": "Hostil asesinado",
-                     "SalopardTue": "Salopard asesinado",
+                     "SalopardTue": "Salvaje asesinado",
                      "PatronTue": "Jefe asesinado"
                   },
                   "FLUXHORSCONFLIT": {
@@ -1857,8 +1857,8 @@
                   }
                },
                "ENERGIEDEFICIENTE":{
-                  "Label":"Energía deficiente",
-                  "Description":"Un caballero con metaarmadura de Hechicero no puede recargar su energía descansando o estando en silencio y dejando pasar el tiempo, como otras metaarmaduras. Sin embargo, puede recargar su energía mediante movimientos de cabeza, pero también extrayendo energía de las metaarmaduras de los caballeros aliados (que deben estar de acuerdo).\r\nPara tomar energía de un aliado meta-armadura, el caballero debe tocar la meta-armadura y gastar una acción de movimiento. Luego tira 1 a 3D6 y recupera tantos puntos de energía como el caballero objetivo pierda en ese momento. Estos puntos de energía así obtenidos no pueden superar los puntos máximos de la metaarmadura. Los puntos obtenidos no pueden ser mayores que los que quedan en la metaarmadura objetivo.",
+                  "Label":"Deficiencia energética",
+                  "Description":"Un caballero con meta-armadura Hechicero no puede recargar su energía descansando o estando quieto y dejando pasar el tiempo, como otras meta-armaduras. Sin embargo, puede recargar su energía gracias a los nodos de energía, pero también tomando energía de las meta-armaduras de los caballeros aliados (que deben estar de acuerdo). \r\nPara tomar energía de una meta-armadura aliada, el caballero debe tocar la meta-armadura y gastar una acción de movimiento. Entonces tira 1 a 3D6 y recupera tantos puntos de energía como el caballero tocado pierda en ese momento. Estos puntos de energía ganados no pueden superar el máximo de puntos de la meta-armadura. Los puntos ganados no pueden superar los puntos restantes de la meta-armadura objetivo.",
                   "DesMin":"Energía drenada (Dados mínimos)",
                   "DesMax":"Energía drenada (Dados máximos)",
                   "Ponctionner":"Drenar",
@@ -1869,14 +1869,14 @@
                }
             },
             "Generation": "Generación de armadura",
-            "BonusEgide": "Bonificación en égida",
-            "BonusEspoir": "Bonificación de esperanza",
-            "EspoirRemplaceEnergie": "La esperanza reemplaza la energía",
+            "BonusEgide": "Bonus de égida",
+            "BonusEspoir": "Bonus de esperanza",
+            "EspoirRemplaceEnergie": "Esperanza reemplaza energía",
             "Special": "Especial",
             "SLOTS": {
                "Label": "Anclajes",
                "Tete": "Cabeza",
-               "Torse": "Torso",
+               "Torse": "Pecho",
                "BrasGauche": "Brazo izquierdo",
                "BrasDroit": "Brazo derecho",
                "JambeGauche": "Pierna izquierda",
@@ -1885,12 +1885,12 @@
             "Overdrive": "Sobrecarga",
             "Overdrives": "Sobrecargas",
             "EVOLUTIONS": {
-               "Label": "Evolución",
-               "LabelParPaliers": "Evoluciones cada: ",
+               "Label": "Evoluciones",
+               "LabelParPaliers": "Evolución cada: ",
                "NbrePaliers": "Número de niveles de evolución",
                "EvolutionDisponible": "Evolución de meta-armadura disponible",
-               "EvolutionCompanion": "Evolución de los compañeros",
-               "EvolutionCompanionDisponible": "Evolución de los compañeros disponibles"
+               "EvolutionCompanion": "Evolución de Compañero",
+               "EvolutionCompanionDisponible": "Evolución de Compañero disponible"
             }
          },
          "MODULE": {
@@ -2093,8 +2093,8 @@
          },
          "CAPACITES": {
             "ASPECT": {
-               "Has": "Bonificación vinculada a aspecto",
-               "Hasnt": "Bonificación no vinculada a aspecto"
+               "Has": "Bonus vinculado a aspecto",
+               "Hasnt": "Bonus no vinculado a aspecto"
             },
             "ISPHASE2": {
                "Has": "Es habilidad de fase 2",
@@ -2483,7 +2483,7 @@
             "Label": "Habilidad heroica"
          },
          "CARTE": {
-            "Label": "Carta de Tarot"
+            "Label": "Carta heroica"
          }
       },
       "ART": {
