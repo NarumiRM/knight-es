@@ -2466,8 +2466,8 @@
                "Label": "Gestión de iniciativas",
                "RemiseAZero":"Restaurar iniciativa predeterminada",
                "Embuscade": "Iniciativa: emboscada",
-               "QuiSubi": "¿Quién lo sufre?",
-               "QuiProvoque": "¿Quién lo causa?",
+               "QuiSubi": "¿Quién la sufre?",
+               "QuiProvoque": "¿Quién la causa?",
                "PJ": "PJ",
                "PNJ": "PNJ"
             },
@@ -2490,133 +2490,133 @@
          "Label": "Arte",
          "RecuperationEspoir": "Recuperación de esperanza",
          "PRATIQUE": {
-            "Label": "Efectos prácticos",
-            "Has": "Tiene un efecto práctico",
-            "Hasnt": "No tiene efecto práctico",
-            "Base": "Efecto básico",
-            "Apprenti": "Nivel de aprendiz (3 a 5 éxitos)",
+            "Label": "Efectos de práctica",
+            "Has": "Tiene efecto de práctica",
+            "Hasnt": "No tiene efecto de práctica",
+            "Base": "Efectos base",
+            "Apprenti": "Nivel aprendiz (3 a 5 éxitos)",
             "Initie": "Nivel iniciado (6 a 8 éxitos)",
             "Maitre": "Nivel maestro (más de 9 éxitos)"
          },
          "OEUVRE": {
             "Label": "Efectos de obras",
             "Liste": "Lista de obras",
-            "Has": "Tiene un efecto de obra",
+            "Has": "Tiene efecto de obra",
             "Hasnt": "No tiene efecto de obra",
-            "Court": "Poco tiempo",
-            "Moyen": "Tiempo promedio",
-            "Long": "Largo tiempo"
+            "Court": "Tiempo corto",
+            "Moyen": "Tiempo medio",
+            "Long": "Tiempo largo"
          }
       },
       "CAPACITEULTIME": {
-         "Passive": "Capacidad pasiva",
-         "Active": "Capacidad activa",
-         "Condition": "Términos",
+         "Passive": "Habilidad pasiva",
+         "Active": "Habilidad activa",
+         "Condition": "Condición",
          "Description": "Descripción",
          "PASSIVE": {
             "Sante": "Aumenta la salud en un 50%",
-            "NotSante": "No aumenta la salud del 50%",
-            "Contact": "Puntos de contacto de bonificación",
-            "NotContact": "Sin puntos de contacto de bonificación",
-            "Capacites": "Da una bonificación a las capacidades de armadura",
-            "NotCapacites": "No hay bonificación con capacidades de armadura",
+            "NotSante": "No aumenta la salud en un 50%",
+            "Contact": "Bonus de puntos de contacto",
+            "NotContact": "No otorga bonus de puntos de contacto",
+            "Capacites": "Da un bonus a las habilidades de armadura",
+            "NotCapacites": "No da un bonus a las habilidades de armadura",
             "ASCENSION": {
-               "Label": "Bonificación en el modo de ascensión",
-               "Maj": "Actualizar el modo de ascensión",
-               "NotLabel": "Sin bonificación en el modo de ascensión",
-               "Permanent": "Moda permanente",
-               "NotPermanent": "Moda no permanente",
+               "Label": "Mejora del modo Ascensión",
+               "Maj": "Mejora el modo Ascensión",
+               "NotLabel": "Sin bonus al modo ascensión",
+               "Permanent": "Modo permanente",
+               "NotPermanent": "Modo no permanente",
                "Prestige": "Puede llevar armas de prestigio",
-               "NotPrestige": "No se puede llevar armas de prestigio"
+               "NotPrestige": "No puede llevar armas de prestigio"
             },
             "CEA": {
-               "Label": "Mejora del modo CEA",
-               "NotLabel": "Sin mejora en el modo CEA",
-               "Salve": "Bonus de ungüento",
-               "Vague": "Bonus de ola",
-               "Rayon": "Bonus en el departamento"
+               "Label": "Mejora el modo Cea",
+               "NotLabel": "No mejora el modo Cea",
+               "Salve": "Bonus a la Ráfaga",
+               "Vague": "Bonus a la Onda",
+               "Rayon": "Bonus al Rayo"
             },
             "CHANGELING": {
-               "Label": "Bonificación en el modo cambiante",
-               "NotLabel": "Sin bonificación en el modo cambiante",
-               "Energie": "Costo de energía para la activación personal",
-               "Odbonus": "Bonificación OD para elegir / característica",
-               "Caracteristique": "¿Ser distribuido en combustibles de características?"
+               "Label": "Mejora el modo Cambiante",
+               "NotLabel": "No mejora el modo Cambiante",
+               "Energie": "Coste de energía para activación personal",
+               "Odbonus": "Bonus de SC a elección / característica",
+               "Caracteristique": "¿A repartir en cuántas características?"
             },
             "GHOST": {
-               "Label": "Bonificación en el modo fantasma",
-               "NotLabel": "Sin bonificación en el modo fantasma",
-               "Desactivation": "Extensión libre después de un ataque",
+               "Label": "Mejora el modo Fantasma",
+               "NotLabel": "No mejora el modo Fantasma",
+               "Desactivation": "Extensión gratuita después de un ataque",
                "NotDesactivation": "Sin extensión gratuita"
             },
             "GOLIATH": {
-               "Label": "Bonificación con el modo Goliat",
-               "NotLabel": "Sin bonificación en el modo Goliat",
-               "Taille": "Bonificación del tamaño máximo",
-               "Reaction": "Penalización de reacción",
-               "Defense": "Penalización de defensa"
+               "Label": "Mejora el modo Goliath",
+               "NotLabel": "No mejora el modo Goliath",
+               "Taille": "Bonus de tamaño máximo",
+               "Reaction": "Penalización a reacción",
+               "Defense": "Penalización a defensa"
             },
             "COMPANIONS": {
-               "Label": "Mejora del modo Companions",
-               "NotLabel": "No hay mejora en el modo de compañía",
-               "Deployable": "Número de compañeros desplegables simultáneamente"
+               "Label": "Mejora el modo Compañero",
+               "NotLabel": "No mejora el modo Compañero",
+               "Deployable": "Número de compañeros simultáneos"
             },
             "CONTRECOUPS": {
-               "Label": "Ya no sufre el efecto especial 'contrapeso'",
-               "NotLabel": "Sufre el efecto especial 'complaces'"
+               "Label": "Ya no sufre el efecto especial 'Repercusión'",
+               "NotLabel": "Sufre el efecto especial 'Repercusión'"
             },
             "MECHANIC": {
-               "Label": "Bonificación en el modo mecánico",
-               "NotLabel": "Sin bonificación en el modo mecánico"
+               "Label": "Mejora el modo Mecánico",
+               "NotLabel": "No mejora el modo Mecánico"
             },
             "ORIFLAMME": {
-               "Label": "Mejora el oriflamme",
-               "NotLabel": "Sin mejorar en el oriflamme"
+               "Label": "Mejora la Oriflama",
+               "NotLabel": "No mejora la Oriflama"
             },
             "MORPH": {
-               "Label": "Mejora el modo Morph",
-               "NotLabel": "Sin mejoría en el modo Morph",
-               "Vol": "Mejora del vuelo",
-               "Etirement": "Mejora del estiramiento",
-               "Metal": "Mejora del cuerpo de metal",
-               "Fluide": "Mejora del cuerpo fluido",
-               "Polymorphie": "Mejora de la polimorfia de guerra",
-               "Griffe": "Mejora de las garras de combate",
-               "Lame": "Mejora de las cuchillas de combate",
-               "Canon": "Mejora del cañón del brazo"
+               "Label": "Mejora el modo Mutar",
+               "NotLabel": "No mejora el modo Mutar",
+               "Vol": "Mejora el vuelo",
+               "Etirement": "Mejora el estiramiento",
+               "Metal": "Mejora el cuerpo de metal",
+               "Fluide": "Mejora el cuerpo fluido",
+               "Polymorphie": "Mejora el polimorfismo de guerra",
+               "Griffe": "Mejora las garras de combate",
+               "Lame": "Mejora las hojas de brazo",
+               "Canon": "Mejora el cañón del brazo"
             },
             "RAGE": {
-               "Label": "Mejora el modo de ira",
-               "NotLabel": "Sin mejora en el modo de ira",
-               "Colere": "Mejora del nivel de ira",
-               "Rage": "Mejora del nivel de ira",
-               "Fureur": "Mejora del nivel de furia",
-               "Subis": "Presas / gira subsed",
-               "Activer": "Ha prohibido combos",
-               "NotActiver": "No ha prohibido combos"
+               "Label": "Mejora el modo Furia",
+               "NotLabel": "No mejora el modo de Furia",
+               "Colere": "Mejora el nivel Cólera",
+               "Rage": "Mejora el nivel Ira",
+               "Fureur": "Mejora el nivel Furia",
+               "Subis": "Daño sufrido por turno",
+               "Activer": "Tiene combos prohibidos",
+               "NotActiver": "No tiene combos prohibidos"
             },
             "RECOLTEFLUX": {
-               "Label": "Bonificación con la recolección de flujo",
-               "NotLabel": "Sin bonificación en la cosecha de flujo",
-               "Conflitbase": "Flujo básico en conflicto",
-               "Conflittour": "Flujo por giro en conflicto",
-               "Horsconflitbase": "Flujos básicos fuera del conflicto"
+               "Label": "Mejora la cosecha de flujo",
+               "NotLabel": "No mejora la cosecha de flujo",
+               "Conflitbase": "Flujo inicial en conflicto",
+               "Conflittour": "Flujo por turno en conflicto",
+               "Horsconflitbase": "Flujo base fuera de conflicto"
             },
             "TYPE": {
-               "Label": "Puede activar dos tipos",
-               "NotLabel": "No se puede activar dos tipos"
+               "Label": "Puede activar dos Configuraciones",
+               "NotLabel": "No puede activar dos Configuraciones"
             },
             "VISION": {
-               "Label": "Bonificación de capacidad de visión",
-               "NotLabel": "Sin bonificación con capacidad de visión"
+               "Label": "Mejora la habilidad Visión",
+               "NotLabel": "No mejora la habilidad Visión"
             },
             "WARLORD": {
-               "Label": "Bonificación del modo Warlord",
-               "NotLabel": "Sin bonificación en modo Warlord",
-               "Activer": "Activación / recorrido gratuito",
-               "NotActiver": "Sin activación libre",
-               "Prolonger": "Una extensión gratuita / de gira",
-               "NotProlonger": "Sin extensión gratuita"
+               "Label": "Mejora el modo Señor de la Guerra",
+               "NotLabel": "No mejora el modo Señor de la Guerra",
+               "Activer": "Una activación gratuita por turno",
+               "NotActiver": "Sin activación gratuita",
+               "Prolonger": "Una prolongación gratuita por turno",
+               "NotProlonger": "Sin prolongación gratuita"
             }
          },
          "ACTIVE": {
@@ -2643,7 +2643,7 @@
                "Isfixe": "El daño es fijo",
                "NotIsfixe": "El daño es variable",
                "Paliers": "Lista de niveles de daño",
-               "Energie": "Gasto / nivel energía"
+               "Energie": "Gasto de energía por nivel"
             },
             "VIOLENCE": {
                "Label": "Inflige violencia",
@@ -2651,7 +2651,7 @@
                "Isfixe": "La violencia es fija",
                "NotIsfixe": "La violencia es variable",
                "Paliers": "Lista de niveles de violencia",
-               "Energie": "Gasto / nivel de energía"
+               "Energie": "Gasto de energía por nivel"
             },
             "EFFETS": {
                "Label": "Aplica efectos pasivos",
@@ -2661,13 +2661,13 @@
       },
       "ROLLBACK": {
          "Label": "Restaurar la armadura a un estado anterior",
-         "Notes": "Notas: Solo se refiere a la armadura, no al equipo o los módulos",
-         "Noteslongbow": "Notas: Solo se refiere al arco largo, no al resto de la armadura, ni al equipo o módulos. El retorno trasero está completo, no solo lo que afecta la evolución en cuestión. Regresa al estado cuando ha seleccionado la evolución.",
+         "Notes": "Nota: Solo se refiere a la armadura, no al equipo o los módulos",
+         "Noteslongbow": "Nota: Solo se refiere al arco largo, no al resto de la armadura ni al equipo o módulos. La restauración es completa, no solo lo que afecta la evolución seleccionada. Regresa al estado en que se escogió la evolución.",
          "Avantevolution": "Antes de una evolución",
          "Avantevolutionlongbow": "Antes de una evolución del arco largo",
          "Revenir": "Vuelve a este estado",
-         "Resetwarlord": "Cancelar opciones de pulso",
-         "Resettype": "Cancelar opciones de tipo"
+         "Resetwarlord": "Cancelar elección de impulsos",
+         "Resettype": "Cancelar elección de configuraciones"
       },
       "RECUPERER": {
          "Espoir": "Restaurar esperanza",
@@ -2678,8 +2678,8 @@
          "Nods": "Restaurar nodos"
       },
       "HIDESHOW":{
-         "Hide":"Pulsar para ocultar este apartado cuando la ficha está limitada.",
-         "Show":"Pulsar para mostrar este apartado cuando la ficha está limitada."
+         "Hide":"Pulsar para ocultar este apartado cuando la visión de la ficha está limitada.",
+         "Show":"Pulsar para mostrar este apartado cuando la visión de la ficha está limitada."
       },
       "COMPENDIUM":{
          "Label":"Navegador de compendio",
@@ -2691,7 +2691,7 @@
          "Armures":"Meta-armaduras",
          "Categorie":"Categoría",
          "Ai":"Ventajas y desventajas",
-         "Distinctions":"Distinciones",
+         "Distinctions":"Condecoraciones",
          "Cartes":"Cartas de heroísmo",
          "Capacites":"Habilidades heroicas"
        },

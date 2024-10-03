@@ -1,7 +1,7 @@
 {
   "id": "knight-es",
   "title": "Translation: Spanish [Knight]",
-  "version": "0.4",
+  "version": "v0.5-beta",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
