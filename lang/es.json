@@ -1328,9 +1328,9 @@
             "CAPACITES": {
                "ASCENSION": {
                   "Label": "Modo Ascensión",
-                  "Description": "El Caballero puede materializar su IA en un cuerpo llamado \"Ascensión\". Este cuerpo es una réplica exacta de la meta-armadura del caballero, con sus módulos, sus valores totales y actuales, pero sin sus armas. \r\n El Caballero puede materializar su IA en modo Ascensión. Para materializarlo, debe concederle parte de su propia energía retirada temporalmente de su total. El valor total de la educación física del caballero se reduce por esta cantidad a lo largo de la materialización de la IA. AI en modo Ascension tiene la misma hoja de caracteres que el Caballero (mismos aspectos, características, OD, valores derivados, puntaje total, CDF, etc.), pero no tiene una puntuación de salud y se destruye cuando su PA cae en 0. Por supuesto, se puede reparar antes de que su PA alcance 0. \r\n Tiene los mismos módulos que el Caballero (que puede ser módulos de armamentos), el mismo número de asentimientos actuales y municiones, pero no sus armas o sus granadas inteligentes. La inteligencia así incorporada en un cuerpo actúa de forma independiente, sin ningún límite de alcance, y obedece las órdenes del Caballero si los considera justificados. Ella puede rechazar un orden que pareciera injusto o fuera de palabras. No es el GM quien juega esta IA, sino el PJ que debe tratar de jugarlo de la manera más apropiada que sea, dependiendo de la personalidad de la IA.",
-                  "SansArmure": "Activable si la armadura es pliegue",
-                  "NoSansArmure": "No activado si la armadura es pliegue"
+                  "Description": "El caballero puede materializar su IA en un cuerpo llamado \"Ascensión\". Este cuerpo es una réplica exacta de la meta-armadura del caballero, con sus módulos, sus valores totales y actuales, pero sin sus armas. \r\n El caballero puede materializar su IA en modo Ascensión. Para materializarlo, debe otorgarle parte de su propia energía que se resta temporalmente de su total. El valor total de PE del caballero se reduce por esta cantidad durante la materialización de la IA. La IS en modo Ascensión tiene la misma ficha de personaje que el caballero (mismos aspectos, características, sobrecargas, valores derivados, puntuación total, CdF, etc.), pero no tiene puntuación de salud y se destruye cuando su PA cae a 0. Por supuesto, se puede reparar antes de que sus PA lleguen a 0. \r\n Tiene los mismos módulos que el caballero (que pueden ser módulos de armas), el mismo número de nodos actuales y munición, pero no sus armas o sus granadas inteligentes. La IA incorporada en un cuerpo actúa de forma independiente, sin ningún límite de distancia, y obedece las órdenes del caballero si las considera justificados. Ella puede rechazar una orden que le parezca injusta o fuera de propósito. No es el DJ quien usa esta IA, sino el PJ que debe tratar de interpretarla de la manera más apropiada, dependiendo de la personalidad de la IA.",
+                  "SansArmure": "Activable si la armadura está plegada",
+                  "NoSansArmure": "No activable si la armadura está plegada"
                },
                "BOREALIS": {
                   "Label": "Modo Borealis",
@@ -1495,45 +1495,45 @@
                   }
                },
                "FORWARD": {
-                  "Label": "Modo aceleración",
-                  "Description": "La meta-armadura es capaz de acelerar el tiempo en sí mismo para moverse más rápidamente. \r\n Los rangos de movimiento del caballero, ya sea su desplazamiento normal o los otorgados por los módulos de carreras, saltos o vuelo, aumentan de un nivel a un máximo de rango largo. El alcance de contacto se convierte así en un corto rango, un rango corto se convierte en un rango promedio y un rango promedio se convierte en un rango de largo. Más allá de eso, la integridad de la armadura está demasiado en peligro para que AI autorice tal desplazamiento. Viajando por vehículo, los viajes otorgados por el movimiento de nivel 1 o 3 OD y por el módulo de teletransportación no se ven afectados por esta capacidad.",
-                  "Energie": "Energía por nivel de alcance de bonificación",
-                  "NiveauPortee": "Nivel de bonificación (x)"
+                  "Label": "Modo Aceleración",
+                  "Description": "La meta-armadura es capaz de acelerar el tiempo en sí misma para moverse más rápido. \r\n Las distancias de movimiento del caballero, ya sea su desplazamiento normal o los otorgados por módulos de carrera, salto o vuelo, aumentan un nivel hasta un máximo de larga distancia. El alcance de contacto se convierte así en distancia corta, una distancia corta se convierte en una distancia media y una distancia media se convierte una distancia larga. Más allá de eso, la integridad de la armadura peligra demasiado como para que la IA autorice tal desplazamiento. Viajando en vehículo, las velocidades otorgados por la SC de movimiento de nivel 1 o 3 y por el módulo de teletransportación no se ven afectadas por esta habilidad.",
+                  "Energie": "Energía por nivel de aumento de distancia",
+                  "NiveauPortee": "Nivel de aumento (x)"
                },
                "ILLUMINATION": {
-                  "Label": "Modo de iluminación",
-                  "Description": "La energía de apeiron liberada por el núcleo del meta-army se puede desplegar a su alrededor para causar diferentes efectos. Dependiendo de la intensidad de la luz o su estado, pueden aplicarse seis efectos diferentes. Todos los efectos de este modo, excepto la vela, pueden extenderse a costa de los puntos de esperanza indicados. \r\n ** ATENCIÓN **: Al obtener el meta-marmi, el caballero debe elegir tres de los siete efectos enumerados aquí y puede usarlos. Solo puede obtener otros gracias a los cambios en el meta-marmi.",
-                  "Utiliser": "Usa el efecto",
-                  "Prolonger": "Prolongar el efecto",
-                  "CapacitesPossedes": "Número de capacidades poseídas",
+                  "Label": "Modo Iluminación",
+                  "Description": "La energía apeiron liberada por el núcleo de la meta-armadura se puede proyectar a su alrededor para causar diferentes efectos. Dependiendo de la intensidad de la luz o su estado, pueden aplicarse seis efectos diferentes. Todos los efectos de este modo, excepto Vela, pueden prolongarse al coste de los puntos de esperanza indicados. \r\n **Atención**: Al obtener la meta-armadura, el caballero debe elegir tres de los siete efectos enumerados aquí para poder usar. Solo puede obtener efectos adicionales mediante evoluciones de la meta-armadura.",
+                  "Utiliser": "Activar efecto",
+                  "Prolonger": "Prolongar efecto",
+                  "CapacitesPossedes": "Número de efectos adquiridos",
                   "BLAZE": {
                      "Label": "Resplandor",
-                     "Description": "La luz alrededor de la armadura se puede moldear en pergaminos ardientes que lastiman a las criaturas de anatema con contacto. \r\n\r\n Mientras se active el efecto, las criaturas de anatema en contacto con la armadura sufren daños y violencia en cada giro en la fase de conflicto o cada 6 segundos durante una escena. Se ignora el puntaje del escudo. Además, la oscuridad de tipo Night o Darkness se aleja a corto plazo."
+                     "Description": "La luz alrededor de la armadura se puede moldear en virutas ardientes que dañan a las criaturas de la Anathema al tocarlas. \r\n\r\n Mientras el efecto esté activo, las criaturas de la Anathema a distancia de contacto con la armadura sufren daños y violencia en cada turno durante la fase de conflicto o cada 6 segundos durante una escena. Se ignora el valor de escudo. Además, la oscuridad de tipo noche o penumbra se disipa a corta distancia."
                   },
                   "CANDLE": {
                      "Label": "Vela",
-                     "Description": "Berserk Meta-Army puede desplegar chispas pequeñas, calientes y calientes que permiten que un aliado recupere la esperanza. \r\n\r\n Al sacrificar puntos de esperanza (sin ninguna posible reducción), el Caballero puede devolver a un aliado, PJ o PNJ, el mismo número de puntos de esperanza.",
-                     "SacrificeGainEspoir": "Vela: sacrificio de esperanza / ganancia de la esperanza"
+                     "Description": "La meta-armadura Berserk puede desplegar pequeñas chispas cálidas de luz que permiten que un aliado recupere la esperanza. \r\n\r\n Sacrificando puntos de esperanza (sin reducción posible), el caballero puede devolver a un aliado, PJ o PNJ, el mismo número de puntos de esperanza.",
+                     "SacrificeGainEspoir": "Vela: sacrificio de esperanza / ganancia de esperanza"
                   },
                   "BEACON": {
-                     "Label": "Beacon",
-                     "Description": "La luz brillante de la armadura refuerza la determinación de los aliados, haciéndolos más hoscos. Mientras se active el efecto, cuando un PJ o un aliado de la armadura de alcance corto realiza una prueba, recibe éxitos automáticos de los aviones hechos contra las criaturas de anatema (combate, enjuiciamiento, etc.)."
+                     "Label": "Guía",
+                     "Description": "La luz brillante de la armadura refuerza la determinación de los aliados, haciéndolos más agresivos. Mientras el efecto esté activo, cuando un PJ o un aliado de está a corta distancia de la armadura realiza una prueba, recibe éxitos automáticos en las tiradas contra las criaturas de Anathema (combate, persecución, etc.)."
                   },
                   "TORCH": {
                      "Label": "Antorcha",
-                     "Description": "La luz se solidifica alrededor del personaje, creando una especie de niebla luminosa. Los humanos y los animales que no están desesperados y que son cortos reciben una puntuación de Aegis o aumentan su puntaje de Aegis cuando son el objetivo de criaturas o efectos de anatema. Además, la oscuridad de la armadura corta se considera de un nivel inferior. La oscuridad se convierte en la noche, la noche se convierte en oscuridad y la oscuridad simplemente se desvanece."
+                     "Description": "La luz se solidifica alrededor del personaje, creando una especie de niebla luminosa. Los humanos y los animales que no estén desesperados y estén a corta distancia reciben una puntuación de Égida o aumentan su Égida al ser objetivo de criaturas o efectos de la Anathema. Además, la oscuridad a corta distancia de la armadura considera de un nivel inferior. La oscuridad se convierte en noche, la noche se convierte en penumbra y la penumbra simplemente se desvanece."
                   },
                   "PROJECTOR": {
                      "Label": "Proyector",
-                     "Description": "La luz que emana del núcleo del meta-marra se puede concentrar en una criatura de anatema en un radio poderoso. Con plena luz, la naturaleza horrible del objetivo cambia, parece volverse más hermoso y separarse de la oscuridad. \r\n\r\n Mientras se active el efecto, la criatura dirigida en breve, hostil o bastardo, ya no puede usar una de sus capacidades. El Caballero puede elegir la capacidad, pero debe haberla identificado y poder describir los efectos. De lo contrario, el GM que elige."
+                     "Description": "La luz que emana del núcleo de la meta-armadura se puede concentrar en una criatura de la Anathema como poderoso haz. Ante la luz, la horrible naturaleza del objetivo cambia, parece volverse más hermoso y alejarse de la oscuridad. \r\n\r\n Mientras el efecto esté activo, la criatura escogida a corta distancia, hostil o salvaje, ya no puede usar una de sus habilidades. El caballero puede elegir la habilidad, pero debe haberla identificado y poder describir los efectos. De lo contrario, el DM quien elige."
                   },
                   "LIGHTHOUSE": {
                      "Label": "Faro",
-                     "Description": "La luz del meta-army pulsa y perturba a las criaturas del anatema más cercano. El flujo que existe entre ellos es como desgarrado y reducido significativamente por la energía de mono que \r\n\r\n Mientras se active el efecto, las criaturas del anatema de tipo hostil pierden una acción durante su turno de juego."
+                     "Description": "La luz de la meta-armadura pulsa y perturba a las criaturas de la Anathema más cercanas. El flujo que existe entre ellas es desgarrado y reducido considerablemente por la energía apeiron. \r\n\r\n Mientras el efecto esté activo, las criaturas de la Anathema de tipo hostil a corta distancia pierden una acción durante su turno de juego."
                   },
                   "LANTERN": {
                      "Label": "Linterna",
-                     "Description": "Una luz gentil y tranquilizadora emana del meta-marmi. Remotiva a los aliados e incluso parece ser capaz de destruir la desesperación. \r\n\r\n Mientras el efecto esté activo, el desesperado a corto plazo de meta-marmi sufre daños con los efectos asociados."
+                     "Description": "Una luz gentil y tranquilizadora emana de la meta-armadura. Motiva a los aliados e incluso parece ser capaz de destruir la desesperanza. \r\n\r\n Mientras el efecto esté activo, los desesperanzados a corta distancia de la meta-armadura sufre daños con los efectos asociados."
                   }
                },
                "LONGBOW": {
@@ -1631,50 +1631,50 @@
                },
                "RAGE": {
                   "Label": "Modo furia",
-                  "Description": "Para recuperar puntos de esperanza, el Caballero debe alimentar la luz del meta-marra. La energía de apeiron solo puede ser alimentada por el sacrificio de una criatura de anatema u otra, como si el mero hecho de devorar algo pudiera hacer que dure. \r\n Al activar este modo, el Caballero es invadido por la luz del meta-margen e intenta revivir su propia esperanza, así como la energía de su núcleo. Luego entró en ira y está habitado por la luz que emana de él en un humo ardiente y brillante. Este modo solo se puede activar en la fase de conflicto. Los efectos del modo de iluminación se pueden usar simultáneamente. \r\n Al activar este modo, el personaje puede entrar en diferentes niveles de ira que lo hacen sufrir efectos cada vez más poderosos, pero también más y más peligroso. Tenga en cuenta que cada nivel de ira alcanzada tiene los efectos del nivel anterior. Para alcanzar un nivel más alto de ira, el caballero debe matar a un enemigo o sacrificar 1d6 puntos de esperanza (sin una posible reducción).",
-                  "CoutEspoir": "Costo en la esperanza de huir",
-                  "DegatsSubis": "Presas / gira subsed",
+                  "Description": "Para recuperar puntos de esperanza, el Caballero debe alimentar la luz de la meta-armadura. La energía del núcleo Apeiron solo puede ser alimentada por el sacrificio de una criatura de la Anathema o de otro tipo, como si el mero hecho de devorar algo pudiera hacerlo durar. \r\n Al activar este modo, el Caballero es invadido por la luz de la meta-armadura e intenta reavivar su propia esperanza, así como la energía del núcleo. Tras ello, entra en furia y es invadido por la luz que emana de él envuelto en un vapor ardiente y brillante. Este modo solo se puede activar durante una fase de conflicto. Los efectos del modo de Iluminación se pueden usar a la vez que el modo Furia. \r\n Al activar este modo, el personaje puede entrar en diferentes niveles de furia que lo hacen sufrir efectos cada vez más poderosos, pero también más y más peligrosos. Cada nivel de furia alcanzado tiene también los efectos del nivel anterior. Para alcanzar un nivel más alto de furia, el caballero debe matar a un enemigo o sacrificar 1D6 puntos de esperanza (sin reducción posible).",
+                  "CoutEspoir": "Coste de esperanza para huir",
+                  "DegatsSubis": "Daño suufrido por turno",
                   "CaracteristiqueInterdite": "Característica prohibida",
-                  "SubirDegats": "Sufrir",
+                  "SubirDegats": "Sufrir daño",
                   "TUE": {
                      "Humain": "Humano asesinado",
-                     "Anatheme": "Matado anatema",
-                     "Proche": "Enemigo asesinado a corto plazo"
+                     "Anatheme": "Anathema asesinada",
+                     "Proche": "Enemigo muerto a corta distancia"
                   },
                   "UP": {
-                     "Label": "Rabia superior",
-                     "Espoir": "Sacrificio de la esperanza",
+                     "Label": "Aumento de furia",
+                     "Espoir": "Sacrificio de esperanza",
                      "Ennemi": "Enemigo asesinado"
                   },
                   "COMBOS": {
-                     "Bonus": "Agregar características al combo",
+                     "Bonus": "Agrega características al combo",
                      "NoBonus": "No agrega características al combo",
-                     "Interdits": "Ha prohibido características",
+                     "Interdits": "Hay características prohibidas",
                      "NoInterdits": "No hay características prohibidas"
                   },
                   "NOURRI": {
-                     "Label": "Nutrido por Rage (pasivo)",
-                     "Description": "Cuando está en modo de ira, cada criatura o ser humano que mata el caballero lo hizo recuperar un cierto número de puntos de esperanza. Además, si una criatura de oscuridad se mata a corto rango de armadura, recupera 1 punto de esperanza mientras esté en este modo"
+                     "Label": "Alimentado por la Furia (pasivo)",
+                     "Description": "Cuando está en modo Furia, cada criatura o ser humano asesinado por el caballero le hace recuperar un cierto número de puntos de esperanza. Además, si una criatura de la oscuridad muere a corta distancia de la armadura, recupera 1 punto de esperanza mientras esté en este modo."
                   },
                   "COLERE": {
-                     "Label": "Ira - nivel 1"
+                     "Label": "Cólera - Nivel 1"
                   },
                   "RAGE": {
-                     "Label": "RAGE - Nivel 2",
-                     "Description": "El nivel no se acumula con el anterior, pero cancela y reemplaza el anterior (los acumuladores ya están calculados) \r\n\r\n Ya no puede perder puntos de esperanza fuera del costo de sus capacidades. \r\n\r\n Debe atacar a la criatura de la oscuridad o al enemigo más cercano al acercarse a la mayor cantidad posible. \r\n\r\n Él mata o pone automáticamente a un enemigo en agonía que simplemente debería sacar del combate."
+                     "Label": "Ira - Nivel 2",
+                     "Description": "Este nivel no se acumula con el anterior, sino que lo cancela y reemplaza (los valores acumulados ya están calculados) \r\n\r\n Ya no puede perder puntos de esperanza salvo por el coste de las habilidades de la meta-armadura. \r\n\r\n Debe atacar a la criatura de la oscuridad o al enemigo más cercano, acercándose todo lo posible. \r\n\r\n Mata o deja en agonía automáticamente a cualquier enemigo que simplemente debería dejar fuera de combate."
                   },
                   "FUREUR": {
-                     "Label": "Fury - Nivel 3",
-                     "Description": "El nivel no se acumula con el anterior, pero cancela y reemplaza el anterior (los acumuladores ya están calculados) \r\n\r\n Ya no puede perder puntos de esperanza fuera del costo de sus capacidades. \r\n\r\n Debe atacar a la criatura de la oscuridad o al enemigo más cercano al acercarse a la mayor cantidad posible. \r\n\r\n Él mata o pone automáticamente a un enemigo en agonía que simplemente debería sacar del combate. \r\n\r\n Ignora los efectos de choque X, el parasitaje X, la dominación y el anatema. \r\n\r\n Todas las criaturas de Contact Anathema atacan al PJ en lugar de seguir sus tácticas. El efecto del módulo de banner supera este efecto."
+                     "Label": "Furia - Nivel 3",
+                     "Description": "Este nivel no se acumula con el anterior, sino que lo cancela y reemplaza (los valores acumulados ya están calculados) \r\n\r\n Ya no puede perder puntos de esperanza salvo por el coste de las habilidades de la meta-armadura. \r\n\r\n Debe atacar a la criatura de la oscuridad o al enemigo más cercano, acercándose todo lo posible. \r\n\r\n Mata o deja en agonía automáticamente a cualquier enemigo que simplemente debería dejar fuera de combate. \r\n\r\n Ignora los efectos de Aturdimiento X, Interferencias X, Dominación y Anathema. \r\n\r\n Todas las criaturas de la Anathema a distancia de contacto atacan al PJ en lugar de seguir sus tácticas habituales. El efecto del módulo de reclamo sobrepasa este efecto."
                   }
                },
                "RECORD": {
-                  "Label": "Modo grabación",
-                  "Description": "Gracias a este modo, el Caballero puede manejar el tiempo para grabar un ataque que hará y hacer que un doble del pasado parezca fugaz para reproducirlo hasta 6 segundos después. Por lo tanto, puede registrar un ataque en un giro dado, moverse y atacar la siguiente ronda, mientras reproduce el ataque registrado. \r\n Al activar este modo, el caballero desencadena la grabación del próximo ataque que realizará durante esta gira. Debe activar el modo antes de hacer su ataque. Se puede llevar a cabo con un arma o un módulo. En la siguiente ronda, puede llevar a cabo sus acciones normalmente y activar el modo de consumo de energía para reproducir exactamente su ataque realizado en la ronda anterior, un doble de sí mismo, como una remanencia, que parece golpear o disparar nuevamente. \r\n La acción de ataque registrada se reproduce de manera idéntica. Esto significa que el avión de ataque, la tirada de daño o violencia, el alcance y los efectos son exactamente los mismos (incluso si el jugador ha gastado un heroísmo para hacer el daño máximo). La energía gastada para aumentar el daño o agregar efectos, así como municiones, no debe deducirse nuevamente. Sin embargo, el ataque puede llevarse al mismo objetivo u otro. Como resultado, si el avión de ataque no es suficiente para tocar, el ataque simplemente falla y se ha registrado para nada. \r\n Reproducir un ataque no cuesta ninguna educación física. \r\n Grabar el ataque y reproducirlo no cuesta ninguna acción. Sin embargo, solo se puede registrar un ataque por turno. \r\n El ataque registrado durante una vuelta debe reproducirse en la siguiente ronda, de lo contrario y la energía se pierde."
+                  "Label": "Modo Grabación",
+                  "Description": "Gracias a este modo, el caballero puede controlar el tiempo para grabar un ataque que hará a continuación y hacer que un doble del pasado parezca fugazmente para reproducirlo hasta 6 segundos después. Por lo tanto, puede registrar un ataque en un turno, moverse y atacar el siguiente turno, mientras reproduce el ataque registrado. \r\n Al activar este modo, el caballero graba del próximo ataque que realice durante ese turno. Debe activar el modo antes de hacer el ataque. El ataque se puede hacer con un arma o un módulo. En el siguiente turno, puede hacer sus acciones con normalidad y activar el modo sin coste de energía adicional para reproducir exactamente su ataque realizado en el turno anterior, un doble de sí mismo, como una remanencia, que aparece para golpear o disparar nuevamente. \r\n La acción de ataque grabada se reproduce de manera idéntica. Esto significa que la tirada de ataque, la tirada de daño o violencia, el alcance y los efectos son exactamente los mismos (incluso si el jugador ha gastado un punto de heroísmo para hacer el daño máximo). La energía gastada para aumentar el daño o agregar efectos, así como munición, no se consume de nuevo. Además, el ataque puede realizarse al mismo objetivo u otro distinto. Por ello, si la tirada de ataque no es suficiente para acertar, el ataque simplemente falla y se ha registrado para nada. \r\n Reproducir un ataque grabado no cuesta PE. \r\n Grabar el ataque y reproducirlo no cuesta ninguna acción. Sin embargo, solo se puede grabar un ataque por turno. \r\n El ataque grabado durante un turno debe reproducirse en el siguiente, de lo contrario el grabación y la energía gastadad se pierden."
                },
                "REWIND": {
-                  "Label": "Modo rebobinado",
-                  "Description": "En un destello incoloro seguido de un movimiento rápido casi invisible, el meta-marmi (y, por lo tanto, su portador) puede desaparecer y regresar al estado y a la posición que tenía exactamente 6 segundos antes, recuperando lo que había perdido durante este período de tiempo o cancelando lo que le había infligido. El entorno alrededor no cambia, solo el brujo se somete a retorno de esta vez. \r\n La activación de esta capacidad permite obtener los siguientes efectos: \r\n - El regreso a los puntos de salud poseía menos de 6 segundos (o el giro de juego anterior), ya sea inferior o superior. \r\n - Regrese a los puntos de armadura que poseían menos de 6 segundos (o el giro de juego anterior), ya sea inferior o superior. \r\n - Cancelar una lesión grave recibida hace menos de 6 segundos (o en el turno anterior). \r\n - Recupere las municiones (s) de un módulo (y solo un módulo) utilizado (s) de menos de 6 segundos (o en el giro anterior). \r\n - Recupere un asentimiento (s) utilizado menos de 6 segundos (o en el giro anterior). \r\n - Muévase instantáneamente a su posición hace 6 segundos (o el giro de juego anterior). \r\n El conjunto de efectos se activa al mismo tiempo. Depende del PJ regular sus puntajes y equipos. La esperanza de los puntos y los puntos de energía no se ven afectados por estos efectos. Las armas rotas y todos los equipos que no sean los asentimientos y las municiones de los módulos utilizados tampoco se ven afectados. \r\n ** Atención **: El efecto es personal y está restringido a la meta marina misma, a su usuario, a sus brazos, a sus módulos y al equipo ubicado en su paquete. Lo que está presente alrededor del meta-marmi o en contacto con él (como un aliado) no se ve afectado. Si sucedió que un elemento evita el regreso del meta-marmi y su portador a su posición anterior, entonces simplemente se acercan lo más posible a esta posición sin chocar. \r\n El caballero debe activarlo en su turno en combate. Debe esperar 6s después de un rebobinado para activarlo nuevamente. Esto significa que en la fase de conflicto, solo puede hacer un rebobinado/gira."
+                  "Label": "Modo Rebobinado",
+                  "Description": "En un destello incoloro seguido de un movimiento rápido casi invisible, la meta-armadura (y, por lo tanto, su portador) puede desaparecer y regresar al estado y a la posición que tenía exactamente 6 segundos antes, recuperando todo lo que haya perdido durante este período de tiempo y anulando lo que había sufrido. El entorno alrededor no cambia, solo la Warlock se somete al retroceso temporal. \r\n Activar esta habilidad permite obtener los siguientes efectos: \r\n - Regresar a los puntos de salud poseía 6 segundos antes (o el turno anterior), ya sea inferior o superior. \r\n - Regrese a los puntos de armadura que poseían menos de 6 segundos (o el giro de juego anterior), ya sea inferior o superior. \r\n - Anular una herida grave recibida hace menos de 6 segundos (o en el turno anterior). \r\n - Recuperar la(s) munición(es) de un módulo (y solo un módulo) utilizado hace menos de 6 segundos (o en el turno anterior). \r\n - Recuperar los nodos usados hace menos de 6 segundos (o en el turno anterior). \r\n - Moverse instantáneamente a su posición hace 6 segundos (o el turno anterior). \r\n El conjunto de efectos se activa al mismo tiempo. Depende del PJ registrar sus puntuaciones y equipo. Los puntos de esperanza y los puntos de energía no se ven afectados por esta habilidad. Las armas rotas y todo el equipo que no sean nodos y municiones de los módulos utilizados tampoco se ven afectados. \r\n ** Atención **: El efecto es personal y está restringido a la propia meta-armadura, a su usuario, a sus brazos, a sus módulos y al equipo ubicado en su mochila. Lo que está alrededor de la meta-armadura o en contacto con ella (como un aliado) no se ve afectado. Si un objeto impide el regreso de la meta-armadura y su portador a su posición anterior, entonces simplemente se acercan lo más posible a esta posición sin chocar. \r\n El caballero debe activar el modo durante su turno en combate. Debe esperar 6s después de un rebobinado para activarlo nuevamente. Esto significa que en la fase de conflicto, solo puede hacer un rebobinado por turno."
                },
                "SARCOPHAGE": {
                   "Label": "Armadura Sarcófago",
@@ -1705,11 +1705,11 @@
                   }
                },
                "TOTEM": {
-                  "Label": "Modo de tótem",
-                  "Description": "El caballero puede materializar su IA en uno o más cuerpos. Estos son más o menos detallados y se asemejan al meta-marmi del caballero, pero en una versión pixelada o mal de forma. Estos cuerpos se llaman \"tótems\" y pueden ayudar al caballero en muchas tareas. Son enérgicamente muy caros de materializar y mantener en estado. AI puede, por supuesto, sufrir los efectos de la impregnación cuando se encuentra en uno o más tótems. Los tótems deben permanecer dentro del rango medio del caballero para existir. Pueden ayudarlo en todas las tareas, pero son extremadamente sensibles a todas las formas de agresión. El más mínimo shock violento los hace simplemente desaparecer. Los tótems pueden moverse, actuar con precisión, comunicarse, pero no pueden actuar sin orden por parte del Caballero, ni tomar una iniciativa. \r\n El caballero puede materializar los tótems. En términos de juego, un tótem es simplemente destruido por un ataque que lo ataca (los ataques que se dirigen a él tocan automáticamente, porque un tótem no se defiende). El Caballero puede usar sus tótems para agregar una de sus características adicionales por Totem, sin las sobremaratas, a una prueba que realiza. Como durante una ayuda mutua, las características deben ser diferentes cada vez. Se pueden usar en combate o para cualquier otra acción. Los tótems se pueden usar para la mayoría de las pruebas, pero el PJ siempre debe argumentar sobre su uso y usarlos con el acuerdo del MJ.",
+                  "Label": "Modo Tótem",
+                  "Description": "El caballero puede materializar su IA en uno o más cuerpos. Estos no son muy detallados y se asemejan a la meta-armadura del caballero, pero en una versión pixelada o mal formada. Estos cuerpos se llaman \"tótems\" y pueden ayudar al caballero en muchas tareas. Son energéticamente muy caros de materializar y mantener formados. La IA puede, por supuesto, sufrir los efectos de impregnación cuando se encuentra en uno o más tótems. Los tótems solo pueden existir a menos de distancia media del caballero. Pueden ayudarlo en todas las tareas, pero son extremadamente sensibles a toda forma de agresión. El más mínimo shock violento los hace desaparecer. Los tótems pueden moverse, actuar con precisión, comunicarse, pero no pueden actuar sin una orden por parte del caballero, ni tomar iniciativa. \r\n El caballero puede materializar los tótems. En términos de juego, un tótem es destruido por cualquier ataque (los ataques que se dirigen a él aciertan automáticamente, ya que un tótem no se defiende). El caballero puede usar sus tótems para agregar una características adicional por Totem, sin sobrecargas, a una prueba que realice. Igual que en las tiradas de ayuda, las características deben ser diferentes. Se pueden usar en combate o para cualquier otra acción. Los tótems se pueden usar para la mayoría de las pruebas, pero el PJ siempre debe explicar su uso y usarlos de acordando con el DJ.",
                   "Totem": "Tótem",
-                  "Totems": "Tótem (s)",
-                  "Nombre": "Tótem máximo",
+                  "Totems": "Tótem(s)",
+                  "Nombre": "Tótems máximos",
                   "ENERGIE": {
                      "Matérialiser": "Materializar",
                      "Prolonger": "Prolongar"
@@ -1786,18 +1786,18 @@
             },
             "SPECIAL": {
                "APEIRON": {
-                  "Label": "Núcleo de apeiron",
-                  "Description": "Mientras use el meta-ejército, el personaje aumenta su total de puntos de esperanza. Además, se reducen todas sus pérdidas de esperanza (aparte de las pérdidas causadas por las capacidades del meta-ejército). El efecto se puede combinar con otras ventajas o efectos."
+                  "Label": "Núcleo Apeiron",
+                  "Description": "Mientras use la meta-armadura, el personaje aumenta su total de puntos de esperanza. Además, se reducen todas sus pérdidas de esperanza (salvo las pérdidas causadas por las habilidades de la meta-armadura). El efecto se puede combinar con otras ventajas o efectos."
                },
                "CONTRECOUPS": {
                   "Label": "Consecuencias",
-                  "Description": "El poder del brujo no está exento de consecuencias. Estas dos consecuencias son acumulativas: una es constante, la otra puede activarse después de usar una de las capacidades de rebobinado, avance o registro. \r\n ** Falla del tiempo ** \r\n Todas las armas de proyectiles o un poco demasiado avanzado tecnológicamente sufre falla o incidentes graves cuando el transportista de meta-armadura de brujo usa sus capacidades. \r\n El Arsenal prohíbe el brujo de meta-armadura adquirir armas a distancia. Además, se les prohíbe recibir armas de contacto con 5 o más efectos, un efectos de mejora incluidos (aparte de las armas prestigiosas y los efectos ofrecidos por la fragua aplicada a la arma). \r\n ** Paradoja temporal ** \r\n El uso de las capacidades de este meta-margen socava la integridad temporal del personaje. Cada vez que activa una de sus tres capacidades meta-ejércicas durante una escena o una fase de conflicto, el personaje debe notarlo. Una vez que se completa la escena o la fase, puede borrar sus notas. \r\n Después del primer uso, cada vez que usa una de sus tres capacidades de meta-margen, el personaje debe realizar una prueba base _sang-Fresa_ o _hargne_, sin tener en cuenta las sobredrives, para resistir los efectos temporales. La dificultad de la prueba es igual al número de usos de las capacidades del meta-ejército durante la escena o la fase de conflicto. \r\n Si la prueba falla, el personaje debe iniciar 2d6 y consultar la tabla en el Atlas. \r\n - ** Lágrima **: El cuerpo del personaje está desgarrado en el tiempo. Recibe una lesión aleatoria grave que se aplica automáticamente. \r\n - ** FALLA **: El CDF de Meta-Army cae en 0 por 1d3 vueltas \r\n - ** Desactivación **: El meta-marmi del personaje sufre daño 3D6 sin CDF. La capacidad de rebobinar no puede cancelarlos. \r\n - ** Desorientación **: El caballero está mentalmente desorientado. Se sometió a una pérdida de 1d6 puntos de esperanza. \r\n - ** desaparición **: desaparición: en un instante, el personaje desaparece de la escena y vuelve a ella hasta el final. \r\n - ** Fragmentación **: El personaje sufre daños en su psique y olvida quién es por 1d6 vueltas. MJ y PJ para improvisar. \r\n - ** Incidente **: El personaje sufre 4d6 de daño directamente en la salud. La capacidad de rebobinado no puede cancelar estos daños. \r\n - ** Syphon **: La energía del personaje se reduce instantáneamente por 6d6 puntos. \r\n - ** Pequeño **: Para 1d6 vueltas, el meta-marmi salta constantemente con el tiempo. Debe retirar 2 éxitos de cada una de sus pruebas.",
+                  "Description": "El poder de la Warlock no está exento de consecuencias. Estas dos consecuencias son acumulativas: una es constante, la otra puede activarse después de usar una de las habilidades de rebobinado, aceleración o grabación. \r\n ** Falla temporal ** \r\n Todas las armas de proyectiles o demasiado avanzadas tecnológicamente sufren fallos o incidentes graves cuando el portador de la meta-armadura Warlock usa sus capacidades. \r\n El arsenal prohíbe a los portadores de meta-armadura Warlock adquirir armas a distancia. Además, se les prohíbe recibir armas de contacto con 5 o más efectos, efectos de mejora incluidos (excepto las armas de prestigio y los efectos añadidos por la Forja que apliquen al arma). \r\n ** Paradoja temporal ** \r\n El uso de las habilidades de esta meta-armadura desestabiliza la integridad temporal del personaje. Cada vez que activa una de sus tres habilidades de la meta-armadura durante una escena o una fase de conflicto, el personaje debe apuntarlo. Una vez termina la escena o la fase, puede borrar el conteo. \r\n Después del primer uso, cada vez que usa una de las tres habilidades de la meta-armadura, el personaje debe realizar una prueba con base _Compostura_ o _Agresividad_, sin contar las sobrecargas, para resistir los efectos temporales. La dificultad de la prueba es igual al número de veces que haya usado las habilidades de la meta-armadura durante la escena o la fase de conflicto. \r\n Si falla la prueba, el personaje debe tirar 2D6 y consultar la tabla en el Atlas. \r\n - ** Desgarradura **: El cuerpo del personaje es desgarrado en el tiempo. Recibe una herida grave aleatoria que se aplica automáticamente. \r\n - ** Falla **: El CdF de la meta-armadura cae a 0 durante 1D3 turnos. \r\n - ** Desintegración **: La meta-armadura del personaje sufre 3D6 daño sin CdF. La habilidad rebobinar no puede anularlo. \r\n - ** Desorientación **: El caballero está mentalmente desorientado. Sufre a una pérdida de 1D6 puntos de esperanza. \r\n - ** Desaparición **: En un destello, el personaje desaparece de la escena y reaparece al final de la misma. \r\n - ** Fragmentación **: El personaje sufre daños en su psique y olvida quién es durante 1D6 vueltas. El PJ y DJ deben improvisar. \r\n - ** Incidente **: El personaje sufre 4D6 de daño directamente a la salud. La habilidad rebobinar no puede anularlo. \r\n - ** Sifón **: La energía del personaje se reduce instantáneamente en 6D6 puntos. \r\n - ** Sobresalto **: Durante 1D6 turnos, la meta-armadura salta constantemente en el tiempo. Debe restar 2 éxitos en cada una de sus pruebas.",
                   "TABLEAU": {
-                     "Dechirure": "Desgarro",
+                     "Dechirure": "Desgarradura",
                      "Disparition": "Desaparición",
                      "Incident": "Incidente",
                      "Siphon": "Sifón",
-                     "Sursaut": "Asustar",
+                     "Sursaut": "Sobresalto",
                      "Fragmentation": "Fragmentación",
                      "Desorientation": "Desorientación",
                      "Desagregation": "Desintegración",
@@ -1815,7 +1815,7 @@
                },
                "IMPREGNATION": {
                   "Label": "Impregnación",
-                  "Description": "La IA corre el riesgo de sufrir impregnación y, por lo tanto, de no poder ser desposeídos del cuerpo en el que está incorporado. Estos puntos se acumulan. \r\n Después de la primera vez, el Caballero debe realizar una prueba para desplegar su IA con el riesgo mínimo. La dificultad de la prueba es igual al número de puntos acumulados por el MJ. \r\n Los puntos se pueden eliminar de este total si el caballero se encarga de su IA o si la IA no se despliega por un tiempo, a discreción del MJ. Los puntos acumulativos se dan a 0 al comienzo de la misión o intermedio."
+                  "Description": "La IA corre el riesgo de sufrir impregnación y, por lo tanto, de no poder separarse del cuerpo en el que está incorporada. Estos puntos se acumulan. \r\n Después de la primera vez, el caballero debe realizar una prueba para poder desplegar su IA con un mínimo riesgo. La dificultad de la prueba es igual al número de puntos acumulados por el DJ. \r\n Los puntos se pueden reducir de este total si el caballero toma cargo de su IA o si la IA no se despliega durante un tiempo, a discreción del DJ. Los puntos acumulativos empiezan a 0 al comienzo de la misión."
                },
                "LENTEETLOURDE": {
                   "Label": "Lenta y pesada",
@@ -1833,8 +1833,8 @@
                   }
                },
                "PORTEURLUMIERE": {
-                  "Label": "Portador de la luz",
-                  "Description": "Todos los ataques traídos por el Caballero del Meta-Army reciben efectos de bonificación."
+                  "Label": "Portador de la Luz",
+                  "Description": "Todos los ataques realizados por el caballero de la meta-armadura reciben efectos adicionales."
                },
                "RECOLTEFLUX": {
                   "Label": "Cosechar el flujo",
