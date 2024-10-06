@@ -90,7 +90,7 @@
          "Label": "Mecha-armadura",
          "Pilote": "Piloto",
          "Caracteristiques": "Características",
-         "PasPilote": "Arrastra y suelta un personaje para aádirlo a la mecha-armadura",
+         "PasPilote": "Arrastra y suelta un personaje para añadirlo a la mecha-armadura",
          "Puissance": "Potencia",
          "Senseurs": "Sensores",
          "Systemes": "Sistemas",
@@ -105,45 +105,45 @@
                "Label": "Módulos y armas básicas"
             },
             "VOLMARKIV": {
-               "Label": "Vuelo de Marcos IV",
-               "Description": "El Arcángel puede robar constantemente a una velocidad igual a 3 o en vuelo estacionario, sin gastar un núcleo de energía. Gracias a este módulo, puede aumentar hasta 3000 metros de altura. Mientras use este módulo, recibe una bonificación de 3 a su maniobrabilidad y puede moverse en un rango medio para una acción de movimiento simple."
+               "Label": "Vuelo Mark IV",
+               "Description": "La Arcángel puede volar constantemente a una velocidad igual a 3 o en vuelo estacionario, sin gastar núcleos de energía. Gracias a este módulo, puede ascender hasta los 3000 metros de altura. Mientras use este módulo, recibe una bonificación de 3 a su maniobrabilidad y puede moverse una distancia media con una simple acción de movimiento."
             },
             "SAUTMARKIV": {
-               "Label": "Marcos IV Jump",
-               "Description": "Gracias a este módulo, la armadura mecha-mecha puede saltar a una larga longitud y altura a largo plazo. El tiempo de salto es igual a un giro completo. Nephilim puede actuar perfectamente durante el salto. Cuando el armamento mecha aterriza, pierde automáticamente 1 punto de resistencia.",
+               "Label": "Salto Mark IV",
+               "Description": "Gracias a este módulo, la mecha-armadura puede saltar a una distancia y altura largas. El salto tarda un turno completo en completarse. La Nephilim puede actuar con normalidad durante el salto. Cuando la mecha-armadura aterriza, pierde automáticamente 1 punto de resistencia.",
                "Atterrissage": "Aterrizaje"
             },
             "VAGUESOIN": {
-               "Label": "Ola de cuidado",
-               "Description": "El Arcángel puede desplegar una ola de cuidado de rango largo. Cada aliado de la ola (aparte de un armadura mecha o un vehículo) recupera 40 ps. La onda de tratamiento puede apuntar a una banda aliada en su lugar para hacer 150 puntos de cohesión."
+               "Label": "Onda de tratamiento",
+               "Description": "La Arcángel puede desplegar una onda de tratamiento médico a larga distancia. Cada aliado afectado por la onda (salvo mecha-armaduras o vehículos) recupera 40 PS. En lugar de esto, la onda de tratamiento puede afectar a una banda aliada para hacerla recuperar 150 puntos de cohesión."
             },
             "CANONMETATRON": {
-               "Label": "Cañón de metatrón",
-               "Description": "Gracias a este cañón que lanza una nube de nanomachinas, el Arcángel puede apuntar a un enemigo con un largo alcance. Cuando el piloto ataca un armadura mecha con el barril y busca usar la resistencia de la ruptura, entonces la pérdida de los puntos de resistencia objetivo aumenta en 6. <br/> <br/> <b> Precaución: </b> El metatrón El cañón solo funciona contra los armaduras de mecha, vehículos, meta-marmi y enemigos con tecnología avanzada."
+               "Label": "Cañón Metatrón",
+               "Description": "Gracias a este cañón capaz de lanzar una nube de nanomáquinas, la Arcángel puede disparar a un enemigo a larga distancia. Cuando el piloto ataca a una mecha-armadura con el cañón y busca romper la resistencia, entonces aumenta en 6 la reducción de puntos de resistencia del objetivo. <br/> <br/> <b> Atención: </b> El cañón Metatrón solo funciona contra mecha-armaduras, vehículos, meta-armaduras y enemigos con tecnología avanzada."
             },
             "CANONNOE": {
-               "Label": "Mediodía",
-               "Description": "El Arcángel puede dibujar nanoc hasta largo alcance en una armadura mecha, un meta-army o vehículos aliados para que recuperen el blindaje o la PA. Se pueden atacar hasta seis caballeros o tres vehículos aliados. Los vehículos o los meta-armadores se recuperan automáticamente de 30 pa. Se puede dirigir un armadura mecha (y solo uno). En este caso, recupera 20 puntos de blindaje o 1d6 puntos de resistencia."
+               "Label": "Cañón Noé",
+               "Description": "La Arcángel puede desplegar nanoC dentro de una distancia larga en una mecha-armadura, una meta-armadura o vehículos aliados para que recuperen blindaje o los PA. Pueden afectar hasta a seis caballeros o tres vehículos aliados. Los vehículos y las meta-armaduras recuperan automáticamente 30 PA. Puede afectar a una mecha-armadura (y solo una). En este caso, recupera 20 puntos de blindaje o 1D6 puntos de resistencia."
             },
             "CANONMAGMA": {
-               "Label": "Magma canon",
-               "Description": "Nephilim tiene dos poderosos cañones capaces de verter plasma de fusión en sus enemigos. En términos de juego, Nephilim puede decidir disparar con sus cañones para infligir daño o violencia de manera normal. <br/> <br/> Sin embargo, utilizando una acción de combate y gastar 3 núcleos de energía adicionales, el piloto puede decidir hacerlo Vierta la furia de sus cañones de magma en una franja enemiga. Si decide realizar esta acción, entonces se elimina una tira de cohesión enemiga igual o menos de 300. con ambos.",
-               "AneantirBande": "Destruir una tira"
+               "Label": "Cañón Magma",
+               "Description": "La Nephilim tiene dos poderosos cañones capaces de lanzar plasma de fusión sobre sus enemigos. En términos de juego, la Nephilim puede decidir disparar con sus cañones para infligir daño o violencia de manera normal. <br/> <br/> Sin embargo, utilizando una acción de combate y usando 3 núcleos de energía adicionales, el piloto puede desatar la furia de los cañones Magma en una zona enemiga. Si decide realizar esta acción, entonces aniquila una banda enemiga con cohesión igual o menor a 300. <br/> <br/> Al tener dos cañones Magma el caballero puede usar una acción de combate con cada cañón y por lo tanto, disparar con ambos en un solo turno.",
+               "AneantirBande": "Aniquilar una banda"
             },
             "LAMESCINETIQUESGEANTES": {
-               "Label": "Cuchillas cinéticas gigantes",
-               "Description": "Dos hojas cinéticas retráctiles de 3 metros cada una están ocultas en los antebrazos de la marca de mecha y se pueden desplegar en un gesto. Estas son las principales armas de la mecha. El piloto puede usar cada cuchillas durante su turno gastando dos acciones. <br/> <br/> Especial-el armario mecha puede gastar 1 núcleo de energía para obtener el efecto penetrante 10. También puede gastar 2 para obtener el efecto ignorar CDF."
+               "Label": "Hojas cinéticas gigantes",
+               "Description": "Dos hojas cinéticas retráctiles de 3 metros cada una están ocultas en los antebrazos de la mecha-armadura y se pueden desplegar con un solo gesto. Estas son las armas principales de la Demonio. El piloto puede usar cada hoja durante su turno usando dos acciones. <br/> <br/> Especial - La mecha-armadura puede usar 1 núcleo de energía para obtener el efecto penetrante 10. También puede gastar 2 para obtener el efecto Ignora CdF."
             },
             "MITRAILLEUSESSURTUR": {
-               "Label": "Surtu Mement",
-               "Description": "Estas cuatro ametralladoras en pivote permiten limpiar un área en un rango medio y proteger el nephilim de las bandas. Cuando el piloto usa estas ametralladoras, todas las bandas medianas se ven afectadas."
+               "Label": "Ametralladoras Surtur",
+               "Description": "Estas cuatro ametralladoras en pivotes permiten limpiar un área a distancia media y proteger la Nephilim de las bandas. Cuando el piloto usa estas ametralladoras, todas las bandas a distancia media se ven afectadas."
             },
             "TOURELLESLASERSAUTOMATISEES": {
                "Label": "Torretas láser automatizadas",
-               "Description": "Estas dos torretas láser automatizadas limpian un área en un corto alcance y protegen al demonio de bandas y enemigos cercanos. El piloto activa los láseres de un simple pensamiento. Si lo hace, todas las bandas y enemigos de corto alcance sufren automáticamente 6d6 de daño o 10d6 puntos de violencia con el efecto anti-anatema."
+               "Description": "Estas dos torretas láser automatizadas limpian un área a corta distancia y protegen a la Demonio de bandas y enemigos cercanos. El piloto activa los láseres con un simple pensamiento. Si lo hace, todas las bandas y enemigos a corto alcance sufren automáticamente 6D6 de daño o 10D6 de violencia con el efecto Anti-Anathema."
             },
             "MISSILESJERICHO": {
-               "Label": "Misiles Jericho",
+               "Label": "Misiles Jericó",
                "Description": "La configuración de ANAK combina el Nephilim con cuatro lanzadores de misiles Jericho. El último nacido de la tecnología de Byrd Corporation son misiles inteligentes, lanzados por lotes de 10, que explotan dentro del rango promedio de su objetivo de dividirse en cientos de proyectiles autopropulsados, rastreando sus objetivos por kilómetros. br/> el caballero en el armure de mecha puede gastar 1 núcleo de energía para apuntar a un área externa a la que está presente. <br/> <br/> Cuando se usan los misiles Jericho, todos son enemigos de esta área, banda, hostiles, bastardos, patrones y colosis afectados.",
                "ZoneExterieure": "Área al aire libre"
             },
@@ -165,23 +165,23 @@
                "Duree": "Hasta la desactivación (la desactivación de Amrita Shields no cuesta ninguna acción)"
             },
             "OFFERING": {
-               "Label": "Ofrecimiento",
-               "Description": "Si bloquea una armadura mecha-mecha aliada, el Arcángel puede darle varias bonificaciones sacrificando parte de sus núcleos de energía. El aumento de la armadura de mecha puede actuar más rápido o ver sus capacidades reforzadas. Un Archangel no puede llevar a cabo la capacidad de oferta en otro Arcángel en la configuración de Gabriel. <br/> <br/> Precaución: </b> un Arcángel puede usar los efectos de ofrecer capacidad varias veces durante un mismo recorrido utilizando sus acciones de combate, pero Solo para aplicar diferentes efectos (y solo diferentes). <br/> <br/> <b> Efecto: </b> Al gastar núcleos de energía, el Arcángel en la configuración de Gabriel puede aplicar los siguientes efectos a uno o dos Armores Mecha-Mecha Aliado con rango promedio (1 para elegir entre la activación de la capacidad). Los efectos de la capacidad de oferta no se pueden acumular en el mismo mecha-armure. <br/> <br/> <b> 1 núcleo de energía: </b> aumenta el daño y la violencia de la armadura mecha aliada con 4d6. <Br/ > <b> 1 Núcleo de energía: </b> Aumente una puntuación característica entre maniobrabilidad, sensores, sistemas y potencia. <br/> 2 núcleo de núcleo de energía por 3 puntos.: </b> otorga una acción adicional a un aliado Mecha-Army. <br/> <b> 2 núcleo de energía: </b> Aumente el CDF de una armadura mecha aliada. <br /> <b> 1 a 5 núcleo de energía: </b> Concedir 1 a 5 Los núcleos de energía (dependiendo de los núcleos gastados) a un meta-army aliado."
+               "Label": "Ofrenda",
+               "Description": "Si fija una mecha-armadura aliada, la Arcángel puede darle varias bonificaciones sacrificando parte de sus núcleos de energía. La mecha-armadura escogida puede actuar más rápido o ver mejoradas sus habilidades. Una Arcángel no puede usar la habilidad Ofrenda en otra Arcángel con la configuración Gabriel. <br/> <br/> Atención: </b> una Arcángel puede usar los efectos de la habilidad Ofrenda varias veces en un mismo turno usando sus acciones de combate, pero solo puede aplicar efectos diferentes. <br/> <br/> <b> Efectos: </b> Al gastar núcleos de energía, la Arcángel con configuración Gabriel puede aplicar los siguientes efectos a una o dos mecha-armaduras aliadas a media distancia (1 efecto elegir en cada activación de la habilidad). Los efectos de la habilidad Ofrenda no se pueden acumular en la misma mecha-armadura. <br/> <br/> <b> 1 núcleo de energía: </b> Aumenta el daño y la violencia de la mecha-armadura aliada en 4D6. <Br/ > <b> 1 núcleo de energía: </b> Aumenta 3 puntos una característica entre maniobrabilidad, sensores, sistemas y potencia. <br/> 2 núcleos de energía: </b> Otorga una acción adicional a una mecha-armadura aliada. <br/> <b> 2 núcleos de energía: </b> Aumenta en 5 puntos el CdF de una mecha-armadura aliada. <br /> <b> 1 a 5 núcleos de energía: </b> Otorga de 1 a 5 núcleos de energía (dependiendo de los núcleos gastados) a una mecha-armadura aliada."
             },
             "CURSE": {
-               "Label": "Skinch",
-               "Description": "Al activar la capacidad maldita, el piloto elige perturbar un armamento mecha o un coloso enemigo. Luego sacrificará su energía para difuminar los sentidos enemigos o simplemente hará que su operación sea más peligrosa. <br/> <br/> <b> Tenga cuidado: </b> un Arcángel puede usar los efectos de la capacidad de la capacidad durante varias veces durante el mismo giro utilizando sus acciones de combate, pero solo para aplicar diferentes efectos (y solo diferentes). <br/> <br/> <b> Efecto: </b> Al gastar núcleos de energía, el Arcángel en la configuración de Gabriel puede Aplique los siguientes efectos en uno o dos armadores enemigos de mecha o un coloso de mediano alcance (1 para elegir entre la capacidad). Los efectos de la capacidad de la maldición no se pueden combinar en el mismo enemigo. <br/> <br/> <b> 1 núcleo de energía: </b> Reduce el daño y la violencia de una armadura mecha de 4d6. <Br/ > <b> 1 núcleo de energía: </b> Eliminar 4 éxitos de las pruebas objetivo durante su próxima ronda. <br/> <b> 2 núcleos de energía: </b> disminuyen automáticamente la resistencia de un almor enemigo de mecha 1d6 puntos o 3 puntos (como se desea), esta penalización no tiene límite de duración. <br/> <b> 3 núcleos de energía: </b> Cancelar el CDF de un mecanismo enemigo para 1 turno. <br/> <b> 5 Núcleos de energía: </b> Cancelar la resistencia de un armamento enemigo de mecha para 1 ronda. <b> 5 núcleos D 'Energía: </b> infligen automáticamente el efecto de choque 1D3 + 1 en un armadura mecha o un enemigo coloso.",
-               "DiminuerDegatsViolence": "Disminuir el daño y la violencia",
-               "DiminueDegatsViolence": "Disminuye el daño y la violencia",
-               "RetirerReussite": "Retirar",
-               "RetireReussite": "Retirar éxitos",
-               "BaisserResilience": "Grifo",
-               "BaisseResilience": "Disminución de la resistencia",
-               "AnnulerChampDeForce": "Cancelar la fuerza",
-               "AnnuleChampDeForce": "Cancela el campo de fuerza",
-               "AnnulerResilience": "Cancelar la resistencia",
-               "AnnuleResilience": "Cancelar la resistencia",
-               "Choc": "Infligir shock 1d3+1"
+               "Label": "Maldición",
+               "Description": "Al activar la habilidad Maldición, el piloto elige perturbar una meta-armadura o un coloso enemigo. Después sacrifica su energía para nublar los sentidos enemigos o simplemente hacer que su uso sea más peligroso. <br/> <br/> <b> Atención: </b> Una Arcángel puede usar los efectos de la habilidad Maldición varias veces en el mismo turno usando sus acciones de combate, pero solo para aplicar efectos diferentes. <br/> <br/> <b> Efectos: </b> Al gastar núcleos de energía, la Arcángel con configuración Gabriel puede aplicar los siguientes efectos en una o dos mecha-armaduras o un coloso enemigo a media distancia (1 efecto elegir en cada activación de la habilidad). Los efectos de la habilidad Maldición no se pueden combinar en el mismo enemigo. <br/> <br/> <b> 1 núcleo de energía: </b> Reduce el daño y la violencia de una mecha-armadura enemiga en 4D6. <br/> <b> 1 núcleo de energía: </b> Elimina 4 éxitos de las tiradas del objetivo durante su próximo turno. <br/> <b> 2 núcleos de energía: </b> Disminuye automáticamente la resistencia de una mecha-armadura enemiga 1D6 puntos o 3 puntos (como se desee), esta reducción no tiene límite de duración. <br/> <b> 3 núcleos de energía: </b> Anular el CdF de una mecha-armadura enemiga durante 1 turno. <br/> <b> 5 núcleos de energía: </b> Anula la resistencia de una mecha-armadura enemiga durante 1 turno. <b> 5 núcleos de energía: </b> Inflige automáticamente el efecto Aturdimiento 1D3 + 1 a una mecha-armadura o un coloso enemigo.",
+               "DiminuerDegatsViolence": "Reducir daño y violencia",
+               "DiminueDegatsViolence": "Reduce daño y violencia",
+               "RetirerReussite": "Eliminar éxitos",
+               "RetireReussite": "Elimina éxitos",
+               "BaisserResilience": "Reducir resistencia",
+               "BaisseResilience": "Reduce resistencia",
+               "AnnulerChampDeForce": "Anular CdF",
+               "AnnuleChampDeForce": "Anula CdF",
+               "AnnulerResilience": "Anular resistencia",
+               "AnnuleResilience": "Anula resistencia",
+               "Choc": "Aplicar Aturdimiento 1D3+1"
             },
             "PODMIRACLE": {
                "Label": "Pod Miracle",
@@ -211,9 +211,9 @@
                "Duree": "Especial: el efecto del emblema módula dura hasta que la atención de los enemigos se siente atraído por otra cosa"
             },
             "MODULEINFERNO": {
-               "Label": "Módulo de infierno",
-               "Description": "Si está acorralado por sus enemigos, el demonio puede desencadenar el módulo de infierno para causar a su alrededor una explosión de energía roja y ardiente en corto rango. <br/> <br/> <b> Efecto: </b> Enemigos de humanos Tamaño (tamaño de un meta-marmi de paladín máximo) sin CDF o escudo tomado en la explosión se aniquilan automáticamente. Los enemigos de tipo hostil del tipo hostil, de banda o bastardo que no son armaduras o colossi sufren automáticamente 10d6 + 20 daño o violencia sin CDF. El mecha y colossi a corto plazo son 10d6 + 20 puntos de daño. <br/> <br/> Precaución: cuando el piloto desencadena el módulo de infierno, su CDF se desactiva por 1d3 vueltas.",
-               "Cdf": "Deshabilitar el campo de fuerza"
+               "Label": "Módulo Infierno",
+               "Description": "Si está acorralado por sus enemigos, la Demonio puede desencadenar el módulo de Infierno para causar a su alrededor una explosión de energía roja y ardiente a corta distancia. <br/> <br/> <b> Efecto: </b> Los enemigos de tamaño humano (tamaño de una meta-armadura Paladín como máximo) sin CdF o escudo alcanzados por la explosión quedan aniquilados automáticamente. Los enemigos de mayor tamaño de tipo hostil, banda o salvaje que no son mecha-armaduras o colosos sufren automáticamente 10D6 + 20 de daño o violencia sin aplicar CdF. Las mecha-armaduras y colosos a corto a distancia sufren 10D6 + 20 puntos de daño. <br/> <br/> Atención: cuando el piloto desencadena el módulo Infierno, su CdF se desactiva durante 1D3 turnos.",
+               "Cdf": "Desactivar campo de fuerza"
             },
             "MODULEWRAITH": {
                "Label": "Módulo wraith",
@@ -253,7 +253,7 @@
          "MasqueDesavantage": "Ocultar esta desventaja al hacer tiradas de combate"
       },
       "ARMURE": {
-         "Label": "Meta-Armadura",
+         "Label": "Meta-armadura",
          "CreerArmure": "Crear Armadura",
          "Guardian": "Guardián",
          "TenueCivile": "Traje civil"
