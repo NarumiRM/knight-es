@@ -917,7 +917,7 @@
          },
          "SOUMISSION": {
             "Label": "Sumisión",
-            "Description": "Después de impactar al objetivo con este efecto, el atacante puede someter a su objetivo e inmovilizar o evitar que ataque a nadie que no sea el atacante, y solo a contacto. Para zafarse de este efecto, el enemigo debe, a su vez, tener éxito en una tirada con base de Movimiento o Combate (usando el aspecto de Cuerpo o Bestia) cuya dificultad se define por el número de exitos sacados por el atacante. Si el objetivo no ha podido zafarse, el atacante puede mantener la sumisión sin necesidad de volver a tirar los dados y infligir daño normalmente, o repite una tirada de ataque para aumentar su presa. Si la tirada vuelve a tener éxito,se inflige daño sin tener en cuenta el total del Campo de Fuerza o Escudo (en el caso de criaturas de la Anathema). Este efecto no puede aplicarse a los colosos."
+            "Description": "Después de impactar al objetivo con este efecto, el atacante puede someter a su objetivo e inmovilizar o evitar que ataque a nadie que no sea el atacante, y solo a contacto. Para zafarse de este efecto, el enemigo debe, a su vez, tener éxito en una tirada con base de Movimiento o Combate (usando el aspecto de Cuerpo o Bestia) cuya dificultad se define por el número de éxitos sacados por el atacante. Si el objetivo no ha podido zafarse, el atacante puede mantener la sumisión sin necesidad de volver a tirar los dados y infligir daño normalmente, o repite una tirada de ataque para aumentar su presa. Si la tirada vuelve a tener éxito,se inflige daño sin tener en cuenta el total del Campo de Fuerza o Escudo (en el caso de criaturas de la Anathema). Este efecto no puede aplicarse a los colosos."
          },
          "TENEBRICIDE": {
             "Label": "Tenebricida",
@@ -975,7 +975,7 @@
             "Description-short": "Los enemigos de la Anathema verán su Defensa y Reacción disminuida en tantos puntos como determine X hasta el final del próximo turno del PJ."
          },
          "ARMEAZURINE": {
-            "Label": "Arma azurina",
+            "Label": "Arma azurita",
             "Description": "El arma recibe una bonificación de 1D6 (3) puntos de daño y 1D6 (3) puntos de violencia cuando ataca a una criatura de la Dama.",
             "Description-short": "Cuando ataca a una criatura de la Dama."
          },
@@ -986,8 +986,8 @@
          },
          "ARMUREGRAVEE": {
             "Label": "Armadura grabada",
-            "Description": "Cuando el Caballero la tiene en la mano, el arma le otorga ahora un bonificador de 2 al CdF de su meta-armadura y su traje guardián.",
-            "Description-short": "Da una ventaja de 2 al CdF de su meta-marmadura y su traje guardián."
+            "Description": "Cuando el Caballero la tiene en la mano, el arma le otorga ahora un bonus de 2 al CdF de su meta-armadura y su traje guardián.",
+            "Description-short": "Da una ventaja de 2 al CdF de su meta-armadura y su traje guardián."
          },
          "ASSASSINE": {
             "Label": "Asesina",
@@ -1115,7 +1115,7 @@
          },
          "JUMELAGEAMBIDEXTRIE": {
             "Label": "Gemelas (Ambidiestro)",
-            "Description": "Las armas obtienen el efecto Gemelas (Ambidiesto) \r\n Cuando se usan dos armas con el efecto Gemelas (Ambidiestro), la penalización se reduce en 2 puntos (penalización de 1 en lugar de 3).",
+            "Description": "Las armas obtienen el efecto Gemelas (Ambidiestro) \r\n Cuando se usan dos armas con el efecto Gemelas (Ambidiestro), la penalización se reduce en 2 puntos (penalización de 1 en lugar de 3).",
             "Description-short": "Cuando se usan dos armas con el efecto Gemelas (Ambidiestro), la penalización se reduce en 2 puntos (penalización de 1 en lugar de 3).",
             "Active": "Gemelas (Ambidiestro) activado",
             "Desactive": "Gemelas (Ambidiestro) desactivado"
@@ -1137,7 +1137,7 @@
          },
          "MASSIVE": {
             "Label": "Masiva",
-            "Description": "El arma ahora tiene el efecto ponderada. Sin em bargo, cuando el arma está en mano, la defensa del caballero se reduce en 1 punto. \r\n Un arma con el efecto ponderada añade el doble su Fuerza al daño en lugar de solo Fuerza (o en el caso de un PNJ el total de Cuerpo). Solo los PJ con un valor de Fuerza de 4 o más o que posean sobrecargas en Fuerza pueden usar un arma con tal efecto.",
+            "Description": "El arma ahora tiene el efecto ponderada. Sin embargo, cuando el arma está en mano, la defensa del caballero se reduce en 1 punto. \r\n Un arma con el efecto ponderada añade el doble su Fuerza al daño en lugar de solo Fuerza (o en el caso de un PNJ el total de Cuerpo). Solo los PJ con un valor de Fuerza de 4 o más o que posean sobrecargas en Fuerza pueden usar un arma con tal efecto.",
             "Description-short": "Añade el doble su Fuerza al daño en lugar de solo Fuerza (o en el caso de un PNJ el total de Cuerpo). Además, la Defensa del caballero disminuye en 1."
          },
          "MUNITIONSDRONES": {
@@ -1170,16 +1170,16 @@
          },
          "MUNITIONSSUBSONIQUES": {
             "Label": "Munición subsónica",
-            "Description": "El arma obtiene el efecto Silenciador. \r\n El personaje no puede ser visto por otro personaje porque usa su arma. Cuando este efecto se usa durante un ataque sorpresa, una invisibilidad, un modo fantasma o un modo de cambio, la puntuación de la característica _discrecion_ (cuanto más posible) del PJ se agrega al daño. En el caso de los PNJ, es la mitad de la puntuación de _MASQUE_ (más la puntuación de un excepcional excepcional_) que se agrega al daño. Este efecto se puede agregar a los del modo fantasma y el nivel 2 del sobremarcha de _discrecion_.",
+            "Description": "El arma obtiene el efecto Silenciador. \r\n El personaje no puede ser visto por otro personaje porque usa su arma. Cuando este efecto se usa durante un ataque sorpresa, una invisibilidad, un modo fantasma o un modo de cambio, la puntuación de la característica _Sigilo_ (cuanto más posible) del PJ se agrega al daño. En el caso de los PNJ, es la mitad de la puntuación de _MASQUE_ (más la puntuación de un excepcional excepcional_) que se agrega al daño. Este efecto se puede agregar a los del modo fantasma y el nivel 2 del sobremarcha de _discrecion_.",
             "Description-short": "En caso de un ataque sorpresa.",
             "Active": "Munición subsónica activada",
             "Desactive": "Munición subsónica desactivada"
          },
          "POINTEURLASER": {
             "Label": "Puntero láser",
-            "Description": "El arma proporciona un bonus de 3D6 al ataque a corto alcance o menos.",
-            "Description-short": "+3D6 al ataque a corto alcance o menos.",
-            "Active":"Puntero láser activo (corto alcance o menos)",
+            "Description": "El arma proporciona un bonus de 3D6 al ataque a distancia corta o menor.",
+            "Description-short": "+3D6 al ataque a distancia corta o menor.",
+            "Active":"Puntero láser activo (a distancia corta o menor)",
             "Desactive":"Puntero láser desactivado"
          },
          "PROTECTIONARME": {
@@ -1631,9 +1631,9 @@
                },
                "RAGE": {
                   "Label": "Modo furia",
-                  "Description": "Para recuperar puntos de esperanza, el Caballero debe alimentar la luz de la meta-armadura. La energía del núcleo Apeiron solo puede ser alimentada por el sacrificio de una criatura de la Anathema o de otro tipo, como si el mero hecho de devorar algo pudiera hacerlo durar. \r\n Al activar este modo, el Caballero es invadido por la luz de la meta-armadura e intenta reavivar su propia esperanza, así como la energía del núcleo. Tras ello, entra en furia y es invadido por la luz que emana de él envuelto en un vapor ardiente y brillante. Este modo solo se puede activar durante una fase de conflicto. Los efectos del modo de Iluminación se pueden usar a la vez que el modo Furia. \r\n Al activar este modo, el personaje puede entrar en diferentes niveles de furia que lo hacen sufrir efectos cada vez más poderosos, pero también más y más peligrosos. Cada nivel de furia alcanzado tiene también los efectos del nivel anterior. Para alcanzar un nivel más alto de furia, el caballero debe matar a un enemigo o sacrificar 1D6 puntos de esperanza (sin reducción posible).",
+                  "Description": "Para recuperar puntos de esperanza, el caballero debe alimentar la luz de la meta-armadura. La energía del núcleo Apeiron solo puede ser alimentada por el sacrificio de una criatura de la Anathema o de otro tipo, como si el mero hecho de devorar algo pudiera hacerlo durar. \r\n Al activar este modo, el Caballero es invadido por la luz de la meta-armadura e intenta reavivar su propia esperanza, así como la energía del núcleo. Tras ello, entra en furia y es invadido por la luz que emana de él envuelto en un vapor ardiente y brillante. Este modo solo se puede activar durante una fase de conflicto. Los efectos del modo de Iluminación se pueden usar a la vez que el modo Furia. \r\n Al activar este modo, el personaje puede entrar en diferentes niveles de furia que lo hacen sufrir efectos cada vez más poderosos, pero también más y más peligrosos. Cada nivel de furia alcanzado tiene también los efectos del nivel anterior. Para alcanzar un nivel más alto de furia, el caballero debe matar a un enemigo o sacrificar 1D6 puntos de esperanza (sin reducción posible).",
                   "CoutEspoir": "Coste de esperanza para huir",
-                  "DegatsSubis": "Daño suufrido por turno",
+                  "DegatsSubis": "Daño sufrido por turno",
                   "CaracteristiqueInterdite": "Característica prohibida",
                   "SubirDegats": "Sufrir daño",
                   "TUE": {
@@ -1771,7 +1771,7 @@
                   "Description": "La meta-armadura puede desplegar dos módulos de estabilización en sus pies que le permiten disparar más rápidamente."
                },
                "WINDTALKER": {
-                  "Label": "Modo Windyalker",
+                  "Label": "Modo Windtalker",
                   "Description": "Al activar este modo, el caballero puede leer la corriente emitida por las criaturas de la Anathema, comprender sus tácticas y sus acciones futuras. \r\n ** Efecto **: Cuando el caballero activa este modo, se entera de las tácticas de un tipo de criatura de Anathema (banda, hostil, salvaje o jefe) presente en la escena o en la fase de conflicto. Además, en el turno en que se activa el modo, el DJ debe anunciar la siguiente acción (y sólo la siguiente) de cada criatura de la Anathema en la escena o fase de conflicto dentro de la del personaje."
                },
                "ZEN": {
@@ -2424,7 +2424,7 @@
             "2038": "Habilidades de armaduras de 2038",
             "Egide": "Acceso a Égida",
             "2038Hint": "Incluir habilidades especiales de armaduras de 2038 (excepto las habilidades especiales del Nigromante y Hechicero).",
-            "Codex": "Habilidade de armadura Codex 1.5",
+            "Codex": "Habilidades de armadura Codex 1.5",
             "CodexHint": "Incluir habilidades especiales de la armadura del Codex 1.5.",
             "Atlas": "Habilidades de armaduras de Atlas",
             "AtlasHint": "Incluir habilidades especiales de armaduras básicas del Atlas (excepto las habilidades especiales de la Berserk).",
