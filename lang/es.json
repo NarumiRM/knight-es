@@ -65,11 +65,11 @@
       "Age": "Edad",
       "Archetype": "Arquetipo",
       "HautFait": "Logro",
-      "Section": "Sección de Origen",
-      "Blason": "Escudo de Armas",
+      "Section": "Sección de origen",
+      "Blason": "Escudo de armas",
       "Description": "Descripción",
-      "DescriptionLimitee":"Descripción Limitada",
-      "PointsFaibles": "Punto Débil",
+      "DescriptionLimitee":"Descripción limitada",
+      "PointsFaibles": "Punto débil",
       "AjouterPF":"Añadir punto débil",
       "Tactique": "Táctica",
       "VEHICULE": {
@@ -144,12 +144,12 @@
             },
             "MISSILESJERICHO": {
                "Label": "Misiles Jericó",
-               "Description": "La configuración de ANAK combina el Nephilim con cuatro lanzadores de misiles Jericho. El último nacido de la tecnología de Byrd Corporation son misiles inteligentes, lanzados por lotes de 10, que explotan dentro del rango promedio de su objetivo de dividirse en cientos de proyectiles autopropulsados, rastreando sus objetivos por kilómetros. br/> el caballero en el armure de mecha puede gastar 1 núcleo de energía para apuntar a un área externa a la que está presente. <br/> <br/> Cuando se usan los misiles Jericho, todos son enemigos de esta área, banda, hostiles, bastardos, patrones y colosis afectados.",
-               "ZoneExterieure": "Área al aire libre"
+               "Description": "La configuración ANAK equipa la Nephilim con cuatro lanzadores de misiles Jericó. Estos misiles nacidos de la tecnología de Byrd Corporation son misiles inteligentes, lanzados en grupos de 10, que explotan dentro a una media distancia de su objetivo de dividirse en cientos de proyectiles autopropulsados, rastreando sus objetivos a kilómetros. <br/> El caballero en la mecha-armadura puede gastar 1 núcleo de energía para apuntar a un área distinta a una zona distinta a la que presente. <br/> <br/> Cuando se usan los misiles Jericó, todos son enemigos de esa zona, banda, hostiles, salvajes, jefes y colosos son afectados.",
+               "ZoneExterieure": "Zona al aire libre"
             },
             "SOUFFLEDEMONIAQUE": {
-               "Label": "Respiración demoníaca",
-               "Description": "Por la boca del demonio, el piloto puede liberar un poderoso respiración de nanomáquinas destinadas a romper la resistencia de los armadores mecha opuestos. <br/> <br/> <b> Efecto: </b> En el contacto, el demonio puede impulsar un poderoso respiración de nanomáquinas de su boca. Los sistemas de defensa de la armadura mecha o el vehículo objetivo se alteran y las placas de protección están distorsionadas bajo el efecto de la respiración."
+               "Label": "Aliento Demoníaco",
+               "Description": "Por la boca de la Demonio, el piloto puede liberar un poderoso aliento de nanomáquinas destinadas a romper la resistencia de las mecha-armaduras enemigas. <br/> <br/> <b> Efecto: </b> En contacto, el demonio puede lanar un poderoso aliento de nanomáquinas desde su boca. Los sistemas de defensa de la mecha-armadura o el vehículo objetivo se alteran y las placas de protección se distorsionan bajo el efecto de del aliento."
             },
             "POINGSSONIQUES": {
                "Label": "Puños sónicos",
@@ -184,31 +184,31 @@
                "Choc": "Aplicar Aturdimiento 1D3+1"
             },
             "PODMIRACLE": {
-               "Label": "Pod Miracle",
-               "Description": "La cápsula milagrosa permite que el Arcángel plantee una máquina en el suelo, similar a una pequeña torre de 6 metros de altura superada por un prisma, que se difunde en una superficie corta, una niebla de nanom y nanoc. Los aliados en el interior están ordenados y reparados para vueltas 2d6. <br/> <br/> <b> Efecto: </b> Todos los aliados tomados en la niebla recuperaron 3D6 PS y 3D6 PA. Las armaduras mechas en el área recuperan 1d6 puntos de blindaje y 1 resistencia por turno. El POD tiene 60 puntos de blindaje, 1 resistencia de 1 y un CDF de 10. Puede ser dirigido por un enemigo que lo afecta automáticamente si está dentro del rango. Una vez que se destruye la cápsula, el efecto desaparece. Los efectos de varias cápsulas milagrosas no se pueden combinar en el mismo objetivo.",
-               "RecuperationPS": "PS Recuperación",
+               "Label": "Cápsula Milagro",
+               "Description": "La Cápsula Milagro permite que la Arcángel ponga una máquina en el suelo, similar a una pequeña torre de 6 metros de altura con un prisma en lo alto, que difunde una niebla de nanoM y nanoC en un área de corto alcance. Los aliados en el interior se curan y reparan durante 2D6 turnos. <br/> <br/> <b> Efecto: </b> Todos los aliados dentro de la niebla recuperan 3D6 PS y 3D6 PA. Las mecha-armaduras en el área recuperan 1D6 puntos de blindaje y 1 de resistencia por turno. La cápsula tiene 60 puntos de blindaje, 1 de resistencia y un CdF de 10. Puede ser atacado por un enemigo que acierta automáticamente si está dentro del rango. Una vez que se destruye la cápsula, el efecto desaparece. Los efectos de varias Cápsulas Milagro no se pueden acumular en un mismo objetivo.",
+               "RecuperationPS": "Recuperación de PS",
                "RecuperationPA": "Recuperación de PA",
-               "RecuperationBlindage": "Protector",
+               "RecuperationBlindage": "Recuperación de blindaje",
                "RecuperationResilience": "Recuperación de resistencia",
                "Destruction": "Destrucción de la cápsula"
             },
             "PODINVULNERABILITE": {
-               "Label": "Invulnerabilidad",
-               "Description": "El módulo de invulnerabilidad permite a Nephilim desplegar una vaina a nivel del suelo (y solo a nivel del suelo) que puede generar un domo de fuerza que asegura una superficie cuyo tamaño es igual al corto rango. <br/> <br/> <b> Efectos: </b> Dentro de la cúpula, los aliados (el tamaño de un meta-marmi de paladín tanto como sea posible) están protegidos de la gran mayoría de los ataques de distancia. Solo los ataques de armas con violencia o daño superior a 12d6 pueden penetrar el domo. Además, los vehículos ubicados dentro de los cuales no tienen resistencia reciben 10 puntos de resistencia y la regla de invulnerabilidad. <br/> <br/> Los personajes que desean ingresar o salir deben manifestar una fuerza colosal (carne de aspecto o bestia de 14 o una carne de apariencia más o excepcional o estúpida de 8 como máximo) o simplemente ser armaduras mechas. Si un personaje entra o lo deja, la cápsula se destruye. La cúpula creada por la cápsula de invulnerabilidad puede durar hasta 2d6 vueltas, incluso si el armero mecha del piloto que lo lanzó es destruido o acordado. Solo el piloto, Merlín o Gauvain pueden decidir cancelarlo antes. <br/> <br/> Los efectos de varias cápsulas de invulnerabilidad no se pueden combinar."
+               "Label": "Cápsula de Invulnerabilidad",
+               "Description": "El módulo de Invulnerabilidad permite a la Nephilim desplegar una cápsula a nivel del suelo (y solo a nivel del suelo) que puede generar un campo de fuerza en forma de cúpula que asegura una superficie cuyo tamaño es igual a corta distancia. <br/> <br/> <b> Efectos: </b> Dentro de la cúpula, los aliados (tamaño de una meta-armadura Paladín como máximo) están protegidos de la gran mayoría de los ataques de distancia. Solo los ataques de armas con violencia o daño superior a 12D6 pueden penetrar la cúpula. Además, los vehículos ubicados dentro de los cuales no tengan resistencia reciben 10 puntos de resistencia y la regla Invulnerabilidad. <br/> <br/> Los personajes que quieran entrar o salir deben tener una fuerza colosal (aspecto Cuerpo o Bestia de 14 o superior, o un aspecto excepcional Cuerpo o Bestia de 8 o superior) o simplemente ser mecha-armaduras. Si un personaje entra o sale, la cápsula se destruye. La cúpula creada por la Cápsula de Invulnerabilidad puede durar hasta 2d6 turnos, incluso si la mecha-armadura del piloto que la lanzó es destruida o replegada. Solo el piloto, Merlín o Gawain pueden decidir desactivarla antes. <br/> <br/> Los efectos de varias Cápsulas de Invulnerabilidad no se pueden acumular."
             },
             "DRONESEVACUATION": {
                "Label": "Drones de evacuación",
-               "Description": "El Arcángel puede lanzar una serie de drones de evacuación, como una nube de 1 a 20 unidades. Permiten evacuar a los caballeros o civiles desde un área entera a un área segura aferrándoles y teletransportándolos. Los drones se despliegan desde la parte posterior de Mecha-Sharmure y vuelan muy rápidamente hacia su objetivo. <br/> <br/> <b> Efecto: </b> en un área completa, hasta 20 unidades de tamaño humano o ligeramente Más alto (tamaño de metaarmure de Paladin tanto como sea posible) se puede teletransportarse a un área de seguridad gracias a los drones. Estos se pueden usar una vez por turno solo fuera del recorrido por el PJ para evitar, por ejemplo, la muerte de civiles, caballeros y las pérdidas que resultarían de él.",
-               "Portee": "Área completa"
+               "Description": "La Arcángel puede lanzar una serie de drones de evacuación, como una nube de 1 a 20 unidades. Permiten evacuar a los caballeros o civiles de todo un área a una zona segura agarrándolos y teletransportándolos. Los drones se despliegan desde la parte posterior de la mecha-armadura y vuelan muy rápido hacia su objetivo. <br/> <br/> <b> Efecto: </b> En toda una zona, hasta 20 unidades de tamaño humano o ligeramente más alto (tamaño de meta-armadura de Paladín como máximo) se puede teletransportarse a una zona segura gracias a los drones. Estos solo se pueden usar una vez por turno fuera del turno del PJ para evitar, por ejemplo, la muerte de civiles, caballeros y las pérdidas resultantes.",
+               "Portee": "Zona completa"
             },
             "DRONESAIRAIN": {
-               "Label": "Drones de latón",
-               "Description": "Nephilim puede iniciar una serie de seis drones que despliegan cubiertos en una superficie corta en un rango corto, lo que permite que los caballeros y los soldados aliados tengan un lugar seguro. Otros seis drones volan y protegen las armaduras mechas aliadas cercanas mientras permanezcan en un efecto. Cuando se despliegan los drones de bronce, cada aliado de tamaño normal (el tamaño de un meta-marmi de paladín máximo) recibe una bonificación de 4 en reacción y 4 en defensa. Además, las armaduras aliadas de mecha reciben una bonificación de 4 a su resistencia total y ven su aumento de resistencia en 4. Las bandas aliadas ven su aumento de cohesión en 100 y su aumento de desbordamiento en 4. <br/> <br/> Varios drones de latón no se puede implementar en la misma área."
+               "Label": "Drones de bronce",
+               "Description": "La Nephilim puede lanzar una serie de seis drones que se despliegan cubriendo una superficie igual a una corta distancia, lo que permite que los caballeros y los soldados aliados tengan un lugar seguro. Otros seis drones vuelan y protegen las mecha-armaduras aliadas cercanas mientras dure el efecto. Cuando se despliegan los drones de bronce, cada aliado de tamaño normal (el tamaño de una meta-armadura Paladín como máximo) recibe una bonificación de 4 de reacción y 4 de defensa. Además, las mecha-armaduras aliadas reciben una bonificación de 4 a su resistencia total y aumentan en 4 su resistencia. Las bandas aliadas aumentan su cohesión en 100 y aumentan su paliza en 4. <br/> <br/> Varios drones de bronce no se pueden acumular en el mismo área."
             },
             "MODULEEMBLEM": {
-               "Label": "Módulo de emblema",
-               "Description": "El Nephilim puede activar el módulo de emblema para alentar a todos los enemigos ubicados a largo plazo y con una puntuación de máquina o máscara menos de 14 para atacarlo o dispararlo. Nephilim se convierte en el objetivo prioritario de todos los enemigos. Además, si una o más bandas están dentro del rango promedio de Nephilim, solo se sufre el desbordamiento. Se puede activar un solo módulo de emblema en la misma área.",
-               "Duree": "Especial: el efecto del emblema módula dura hasta que la atención de los enemigos se siente atraído por otra cosa"
+               "Label": "Módulo Emblema",
+               "Description": "La Nephilim puede activar el Módulo Emblema para incitar a todos los enemigos a larga distancia y con una puntuación de máquina o máscara menor de 14 a atacarla o dispararla. La Nephilim se convierte en el objetivo prioritario de todos los enemigos. Además, si una o más bandas están dentro de una media distancia de la Nephilim, solo ésta se sufre la paliza. Solo puede activar un Módulo Emblema en la misma área.",
+               "Duree": "Especial: el efecto del Módulo Emblema dura hasta que la atención de los enemigos se siente atraída por otra cosa"
             },
             "MODULEINFERNO": {
                "Label": "Módulo Infierno",
@@ -216,27 +216,27 @@
                "Cdf": "Desactivar campo de fuerza"
             },
             "MODULEWRAITH": {
-               "Label": "Módulo wraith",
-               "Description": "El módulo Wraith permite que el piloto haga que su armadura mecha sea casi invisible y desaparezca en los sistemas sensoriales de las armaduras mecha y el equipo opuesto en la fase. El demonio puede acercarse a suficientes enemigos para infligir un poderoso ataque contra ellos. Justo después de este ataque, la invisibilidad de Mecha-Sharmure se detiene. <br/> <br/> <b> Efecto: </b> El módulo Wraith funciona exactamente como el modo fantasma de la meta-armada deshonesta, excepto que las armas utilizadas Por el demonio no necesita el efecto silencioso para que se apliquen las bonificaciones otorgadas a las pruebas y el daño. Además, si el demonio logra sorprender a una armadura mecha o un coloso enemigo, inflige su daño máximo. Se puede solicitar una prueba de discreción base (a la que se agrega la maniobrabilidad). Para activar el módulo, debes estar fuera de la vista de los enemigos o al menos al menos.",
-               "Duree": "Hasta el comienzo de la próxima ronda del Caballero",
-               "PasMax": "No infligir el daño máximo",
-               "Max": "Inflige el daño máximo",
-               "CliquerMax":"Pulsar para infligir el daño máximo",
+               "Label": "Módulo Espectro",
+               "Description": "El módulo Espectro permite que el piloto haga que su mecha-armadura sea casi invisible y desaparezca de los sistemas sensoriales de las mecha-armaduras y equipos enemigos en la escena. La Demonio puede acercarse lo suficiente a los enemigos para asestar un poderoso ataque contra ellos. Justo después de este ataque, la invisibilidad de la mecha-armadura termina. <br/> <br/> <b> Efecto: </b> El módulo Espectro funciona exactamente igual que el modo Fantasma de la meta-armadura Pícaro, excepto que las armas utilizadas por el demonio no necesitan el efecto Silenciador para que se apliquen las bonificaciones otorgadas al ataque y al daño. Además, si la Demonio logra sorprender a una mecha-armadura o un coloso enemigo, inflige su daño máximo. Se puede requerir una prueba de base Sigilo (a la que se le suma la maniobrabilidad). Para activar el módulo, debes estar fuera de la vista de los enemigos o al menos a media distancia.",
+               "Duree": "Hasta el comienzo del próximo turrno del caballero",
+               "PasMax": "No inflige daño máximo",
+               "Max": "Inflige daño máximo",
+               "CliquerMax":"Pulsar para hacer el daño máximo",
                "CliquerPasMax":"Pulsar para no hacer el daño máximo"
             },
             "STATIONDEFENSEAUTOMATISE": {
-               "Label": "Estación de defensa automatizada",
-               "Description": "La configuración de OG también proporciona al piloto varios drones de implementación de complejo de defensa automatizado importantes destinados a fortalecer la potencia de fuego de los aliados durante una batalla. <br/> <br/> <b> Efectos: </b> Estas estaciones se pueden implementar en medio o Rango inferior y abiertas como flores hexagonales de 30 metros de diámetro provistas de seis bunkers blindados ultra resistentes, diez pesadas escopetas automáticas montadas en torreta inteligente, diez pistolas de ferrocarril en pivote, d 'un gran stock de municiones, asentimientos y granadas, una torre de comunicación, una torre de comunicación, una torre de comunicación, Un campo de santuario de fuerza, una estación médica y una estación de reparación. <br/> <br/> Gracias a este equipo, se considera que la estación tiene e inflige un desbordamiento de 10 a enemigos en medio rango. Además, cada vehículo enemigo y enemigo con resistencia y ubicado en el rango medio de la estación pierde 1 punto de resistencia por turno. <br/> <br/> Además, la estación tiene más de una artillería de torre que se puede controlar por el piloto. Está equipado con un misil POD y una cápsula de balancín que puede llegar a un largo alcance desde la estación y con municiones ilimitadas. Una vez por turno en la fase de conflicto, el piloto de armadura mecha puede decidir disparar sin gastar una acción con una de las dos vainas en la estación. El disparo se toca automáticamente. Se considera que ordena a la estación que dispare. No es necesario que esté en la misma área para usar esta capacidad. <br/> <br/> La estación tiene 80 puntos de protección, una resistencia de 1 y un CDF de 10. Puede ser dirigido por un enemigo que toca automáticamente Si está dentro del rango. Una vez que la estación es destruida, el efecto desaparece. Se puede implementar una sola estación al mismo tiempo. Para desplegar uno nuevo, la antigua estación de defensa debe ser destruida.",
-               "Destruction": "Destrucción de la estación"
+               "Label": "Estación de Defensa Automatizada",
+               "Description": "La configuración OG también proporciona al piloto varios drones de despliegue de Estación de Defensa Automatizada destinados a fortalecer la potencia de fuego de los aliados durante una batalla. <br/> <br/> <b> Efectos: </b> Estas estaciones se pueden implementar a distancia media o inferior y se abren como flores hexagonales de 30 metros de diámetro provistas de seis bunkers blindados ultra resistentes, diez escopetas pesadas automáticas montadas en torretas inteligentes, diez cañones de rieles en pivotes, un enorme almacén de municiones, nodos y granadas, una torre de comunicaciones, un campo de fuerza Santuario, una estación médica y una estación de reparación. <br/> <br/> Gracias a este equipo, se considera que la estación tiene e inflige una paliza de 10 a enemigos a media distancia. Además, cada vehículo enemigo y enemigo con resistencia y a media distancia de la estación pierde 1 punto de resistencia por turno. <br/> <br/> Además, la estación tiene más de una torre de artillería que se puede controlar por el piloto. Está equipada con una cápsula de misiles y una cápsula de cohetes que pueden llegar a una distancia larga desde la estación y con municiones ilimitadas. Una vez por turno en la fase de conflicto, el piloto de la mecha-armadura puede decidir disparar una de las dos cápsulas de la estación sin gastar ninguna acción. El disparo acierta automáticamente. Se considera que ordena a la estación que dispare. No es necesario que esté en la misma área para usar esta habilidad. <br/> <br/> La estación tiene 80 puntos de blindaje, una resistencia de 1 y un CdF de 10. Puede ser atacada por un enemigo y acierta automáticamente si está dentro del rango. Una vez que la estación es destruida, el efecto desaparece. Solo se puede desplegar una estación al mismo tiempo. Para desplegar una nueva, la antigua estación de defensa debe ser destruida.",
+               "Destruction": "Destrucción de la Estación"
             },
             "MODESIEGETOWER": {
-               "Label": "Modo de torre de asedio",
-               "Description": "La configuración de ANAK permite a Nephilim anclar en el suelo, como el meta-army de Paladin, para dibujar de manera más efectiva de los poderosos cañones que lo erguen. Cuando el modo de la torre de Siege está activado, el Mecha-Armor ya no puede realizar una acción de desplazamiento como caminar o saltar, sin embargo, puede lograr con más frecuencia gracias al comienzo de los sistemas de enfriamiento de la última generación. Además, Nephilim se vuelve casi indelocable porque, en su estructura, enormes placas de blindaje aparecen en elemento alfa, casi imposible de destruir. <br/> <br/> <b> Efectos: </b> Cuando la torre del modo de asedio está comprometida, La armadura mecha ya no puede moverse, de ninguna manera. A cambio, recibe una acción de combate adicional, para gastar para usar los misiles Jericho o los cañones de magma, que no ingresa al límite de uso de armas durante la misma gira de conflictos. Además, siempre que esté en el modo de asedio de la torre, el Mécha-Sharmure gana 10 puntos de resistencia para aumentar su máximo. Mientras esté en este modo, la armadura mecha no puede recuperar la resistencia.",
-               "Duree": "Sin límite, pero la desactivación del modo de torre de asedio se lleva a cabo al final de una gira y debe anunciarse claramente. El caballero no puede reactivar el modo de la torre de asedio durante el turno que sigue su desactivación. Debe esperar al menos un giro completo."
+               "Label": "Modo Torre de Asedio",
+               "Description": "La configuración ANAK permite a la Nephilim anclarse en el suelo, como la meta-armadura Paladín, para disparar de manera más efectiva sus poderosos cañones. Cuando el Modo Torre de Asedio está activado, la mecha-armadura no puede realizar acciones de desplazamiento como caminar o saltar, sin embargo, puede disparar con más frecuencia gracias al redireccionamiento de los sistemas de refrigeración de la última generación. Además, la Nephilim se vuelve casi inamovible porque, en su estructura, aparecen enormes placas de blindaje de elemento alfa, casi imposibles de destruir. <br/> <br/> <b> Efectos: </b> Cuando el modo Torre de Asedio está activado, la mecha-armadura ya no puede moverse, de ninguna manera. A cambio, recibe una acción de combate adicional, para gastar usando los misiles Jericó o los cañones de Magma, que no cuentan para el límite de uso de armas durante el mismo turno de fase de conflictos. Además, siempre que esté en modo Torre de Asedio, la mecha-armadura gana 10 puntos de resistencia aumentando su máximo. Mientras esté en este modo, la mecha-armadura no puede recuperar resistencia.",
+               "Duree": "Sin límite, pero la desactivación del modo Torre de Asedio se lleva a cabo al final del turno y debe anunciarse claramente. El caballero no puede reactivar el modo Torre de Asedio durante el turno siguiente a su desactivación. Debe esperar al menos un turno completo."
             },
             "NANOBRUME": {
-               "Label": "Nanobrume",
-               "Description": "La configuración de Djinn también permite desplegar nanomachinas en un rango de corto rango que se dispersa en una niebla que perfora la vista y los sistemas enemigos: una herramienta ideal para desconectarse de una lucha y nuevamente invisible. <br/> <br/> <b> Efecto: < /b> nanobrume permite que el demonio reciba una bonificación temporal de 3 en defensa y en reacción siempre que esté dentro. Además, siempre que esté en Nanobrume, el demonio puede usar su módulo Wraith como si estuviera fuera de la vista de los enemigos."
+               "Label": "Nanobruma",
+               "Description": "La configuración Djinn también permite desplegar nanomáquinas en un rango corto que se dispersan en una niebla que empeoran la vista y los sistemas enemigos: una herramienta ideal para retirarse de una lucha y regresar invisible. <br/> <br/> <b> Efecto: < /b> Nanobruma permite que la Demonio reciba una bonificación temporal de 3 en defensa y en reacción siempre que esté dentro. Además, siempre que esté en la Nanobruma, la Demonio puede usar su módulo Espectro como si estuviera fuera de la vista de los enemigos."
             }
          }
       },
@@ -530,7 +530,7 @@
          "ARMES": {
             "Label": "Armas",
             "Equiper": "Equipar arma",
-            "Desequiper": "Enfundar el arma",
+            "Desequiper": "Enfundar arma",
             "Poser": "Dejar arma en el arsenal",
             "Prendre": "Tomar arma del arsenal",
             "Rack": "Armero",
