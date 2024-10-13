@@ -153,16 +153,16 @@
             },
             "POINGSSONIQUES": {
                "Label": "Puños sónicos",
-               "Description": "Se agrega un par de brazos al cofre de la mecanismo para darle un impacto aún mayor en el combate. Cada brazo adicional está terminado con un enorme puño sonoro que libera en las ondas de sonido de contacto en contacto capaz de romper las paredes y vehículos más resistentes. <br/> <br/> <b> Efecto: </b> con su mecha -remor, Al gastar los núcleos de energía apropiados, el piloto a su vez puede realizar una acción libre con los brazos adicionales para usar los puños sonoros (y solo con ellos). Además, el caballero puede activar sus puños sonoros nuevamente gracias a una acción de combate normal."
+               "Description": "Un par de brazos agregados al mecanismo del torso le dan un impacto aún mayor en el combate. Cada brazo adicional termina en un enorme puño sónico que libera ondas de sonido al contacto capaz de romper paredes y los vehículos más resistentes. <br/> <br/> <b> Efecto: </b> Con su mecha-armadura, al gastar los núcleos de energía correspondientes, el piloto puede realizar una acción gratuita con los brazos adicionales para usar los puños sónicos (y solo con ellos). Además, el caballero puede activar sus puños sónicos nuevamente usando una acción de combate normal."
             },
             "CHOCSONIQUE": {
                "Label": "Shock sónico",
-               "Description": "Al golpear en el suelo, con sus puños sonoros, Mechaarmure libera una onda de sonido capaz de paralizar a la mayoría de los enemigos."
+               "Description": "Al golpear en el suelo con sus puños sónicos, la mecha-armadura libera una onda de sonido capaz de paralizar a la mayoría de los enemigos."
             },
             "BOUCLIERAMRITA": {
-               "Label": "Escudos de amrita",
-               "Description": "En los brazos adicionales de la armadura mecha se pueden desplegar dos escudos retráctiles de 6 metros de altura durante 3 metros de ancho. Compuestas de placas alfa de panal y proporcionados con su propio campo de fuerza, estos dos escudos son casi indestructibles. <br/> <br/> <b> Efecto: </b> Cuando el demonio activa los escudos de Amrita, ya no puede usar su Armas adicionales para atacar y ya no se benefician de la acción de combate de bonificación otorgada por los puños sonoros. Sin embargo, recibe una bonificación de 4 con su máxima resistencia, de 4 a su defensa, de 4 a su reacción y de 4 a su CDF.",
-               "Duree": "Hasta la desactivación (la desactivación de Amrita Shields no cuesta ninguna acción)"
+               "Label": "Escudos de Amrita",
+               "Description": "En los brazos adicionales de la mecha-armadura se pueden desplegar dos escudos retráctiles de 6 metros de altura durante 3 metros de ancho. Compuestas de placas de elemento alpha y equipados con su propio campo de fuerza, estos dos escudos son casi indestructibles. <br/> <br/> <b> Efecto: </b> Cuando el demonio activa los escudos de Amrita, ya no puede usar su brazos adicionales para atacar y ya no se benefician de la acción de combate bonus otorgada por los puños sónicos. Sin embargo, recibe una bonificación de 4 a su resistencia máxima, 4 a su defensa, 4 a su reacción y 4 a su CdF.",
+               "Duree": "Hasta la desactivación (la desactivación de los escudos de Amrita no cuesta ninguna acción)"
             },
             "OFFERING": {
                "Label": "Ofrenda",
@@ -521,7 +521,7 @@
             "SUPPRESSION": {
                "FullLabel": "Estilo Supresión",
                "Label": "Supresión",
-               "Info": "<b> Limitaciones: </b> Solo armas a distancia con el efecto Pesado. <br/> <br/> <b> Bonificación: </b> Opción 1: puede sacrificar 2D6 de daño para eliminar 1D6 de daño de los ataques de un enemigo. (Max 6D6 sacrificados) / Opción 2: puede sacrificar 2D6 de violencia para eliminiar 1 de paliza de los ataques de una banda. (Max 8D6 sacrificados)",
+               "Info": "<b> Limitaciones: </b> Solo armas a distancia con el efecto Pesado. <br/> <br/> <b> Bonificación: </b> Opción 1: puede sacrificar 2D6 de daño para eliminar 1D6 de daño de los ataques de un enemigo. (Max 6D6 sacrificados) / Opción 2: puede sacrificar 2D6 de violencia para eliminar 1 de paliza de los ataques de una banda. (Max 8D6 sacrificados)",
                "Sacrifice": "Dados sacrificados",
                "Info-short-degats": "La mitad de estos dados se restan del daño del objetivo",
                "Info-short-violence": "La mitad de estos dados se restan de la paliza del objetivo"
@@ -1163,14 +1163,14 @@
          },
          "MUNITIONSNONLETALES": {
             "Label": "Munición no letal",
-            "Description": "El fuego del arma no puede matar al objetivo.",
+            "Description": "Los disparos del arma no pueden matar al objetivo.",
             "Description-short": "Los disparos de armas no pueden matar al objetivo.",
             "Active": "Munición no letal activada",
             "Desactive": "Munición no letal desactivada"
          },
          "MUNITIONSSUBSONIQUES": {
             "Label": "Munición subsónica",
-            "Description": "El arma obtiene el efecto Silenciador. \r\n El personaje no puede ser visto por otro personaje porque usa su arma. Cuando este efecto se usa durante un ataque sorpresa, una invisibilidad, un modo fantasma o un modo de cambio, la puntuación de la característica _Sigilo_ (cuanto más posible) del PJ se agrega al daño. En el caso de los PNJ, es la mitad de la puntuación de _MASQUE_ (más la puntuación de un excepcional excepcional_) que se agrega al daño. Este efecto se puede agregar a los del modo fantasma y el nivel 2 del sobremarcha de _discrecion_.",
+            "Description": "El arma obtiene el efecto Silenciador. \r\n El personaje no puede ser localizado por el sonido del arma. Aplica durante un ataque sorpresa o si el usuario entra en Modo Fantasma. Se añade su característica de Sigilo (+1 por sobrecarga) al daño. En el caso de los PNJ, es la mitad de la puntuación de _Máscara_ (más la puntuación de aspecto excepcional) la que se agrega al daño. Este efecto se puede acumular a los del modo Fantasma y el nivel 2 de sobrecarga de _Sigilo_.",
             "Description-short": "En caso de un ataque sorpresa.",
             "Active": "Munición subsónica activada",
             "Desactive": "Munición subsónica desactivada"
