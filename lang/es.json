@@ -72,6 +72,8 @@
       "PointsFaibles": "Punto débil",
       "AjouterPF":"Añadir punto débil",
       "Tactique": "Táctica",
+      "Colosse":"Coloso",
+      "Patron":"Jefe",
       "VEHICULE": {
          "Manoeuvrabilite": "Maniobrabilidad",
          "Vitesse": "Velocidad",
@@ -551,7 +553,8 @@
             "Autrui": "Para otros",
             "Soin": "Salud",
             "Armure": "Armadura",
-            "Energie": "Energía"
+            "Energie": "Energía",
+            "JetParDefaut":"Valor por defecto de tiradas de nodos"
          },
          "GRENADES": {
             "Label": "Granadas",
@@ -811,6 +814,9 @@
             "Description": "Cuando se realice una prueba de habilidad exitosa para disparar con esta arma, cada éxito que sobrepase la dificultad causará 2 de daño o de violencia extra.",
             "Description-short": "+2 al daño por exceso de éxitos en el ataque."
          },
+         "FUMIGENE":{
+            "Label":"Humo"
+         },
          "FUREUR": {
             "Label": "Furia",
             "Description": "Cuando se usa contra una banda con una puntuación del aspecto _Cuerpo_ de 10 o más, la violencia del arma aumenta en 4D6.",
@@ -832,9 +838,6 @@
             "Label": "Ignora CdF",
             "Description": "El arma ignora el Campo de Fuerza del objetivo.",
             "Description-short": "El arma ignora el Campo de Fuerza del objetivo."
-         },
-         "IMMOBILISATION":{
-            "Label":"Inmovilización"
          },
          "JUMELEAKIMBO": {
             "Label": "Gemelas (akimbo)",
@@ -941,6 +944,46 @@
             "Label": "Ultraviolencia",
             "Description": "Cualquier arma con este efecto que se utilice contra una banda cuyo aspecto de _Cuerpo_ sea 10 o menos, la violencia se incrementa en 2D6.",
             "Description-short": "Cuando el arma se usa contra una banda con un aspecto de _Cuerpo_ menor de 10."
+         },
+         "IMMOBILISATION":{
+            "Label":"Inmovilización",
+            "Description":"Après avoir touché une cible avec une arme possédant l’effet immobilisation X, celle-ci est entravée et ne peut plus se déplacer. Pour se libérer de l’effet Immobilisation, la cible touchée doit, à son tour, au prix d’une action de déplacement, réussir un test base Déplacement ou Dextérité (aspect Chair ou Masque) difficulté X.",
+            "Description-short":"La cible est immobilisée. A son tour, elle doit faire une action de déplacement et réussir un jet Déplacement ou Dextérité (aspect Chair ou Masque) difficulté X."
+         },
+         "BOOSTDEGATS":{
+            "Label":"Amplificación (daño)",
+            "Description":"El caballero añade 1D6 de daño por cada PE utilizado para este efecto hasta XD6 por acción.",
+            "Description-short":"El caballero añade 1D6 de daño por cada PE utilizado para este efecto hasta XD6 por acción."
+         },
+         "BOOSTVIOLENCE":{
+            "Label":"Amplificación (violencia)",
+            "Description":"El caballero añade 1D6 de violencia por cada PE utilizado para este efecto hasta XD6 por acción.",
+            "Description-short":"El caballero añade 1D6 de violencia por cada PE utilizado para este efecto hasta XD6 por acción."
+         },
+         "INTIMIDANTEHUMAINS":{
+            "Label":"Intimidante (humanos)",
+            "Description":"Cuando el arma se usa contra bandas de humanos, la puntuación de la característica Aura (más SC) del PJ se suma a la violencia. En el caso de los PNJ, la mitad de la puntuación de Dama (más aspecto excepcional de Dama) se añade a la violencia.",
+            "Description-short":"Cuando se usa contra bandas humanas, añade Aura (+SC) o Dama/2 (+Aspecto Excepcional) a la violencia."
+         },
+         "INTIMIDANTEANATHEME":{
+            "Label":"Intimidante (Anathema)",
+            "Description":"Cuando el arma se usa contra bandas de la Anathema, la puntuación de la característica Aura (más SC) del PJ se suma a la violencia. En el caso de los PNJ, la mitad de la puntuación de Dama (más aspecto excepcional de Dama) se añade a la violencia.",
+            "Description-short":"Cuando se usa contra bandas de la Anathema, añade Aura (+SC) o Dama/2 (+Aspecto Excepcional) a la violencia."
+         },
+         "CDF":{
+            "Label":"CdF",
+            "Description":"El usuario recibe un modificador al CdF, donde X representa este valor, siempre que use este arma o módulo. Los modificadores recibidos se añaden al posible CdF de una meta-armadura o un traje Guardián y se pueden combinar con posibles módulos o habilidades de meta-armadura.",
+            "Description-short":"Añade una bonificación igual a X al CdF de la armadura o del Guardián."
+         },
+         "RETOURFLAMME":{
+            "Label":"Retroceso",
+            "Description":"Si el usuario no logra acertar en su tirada de ataque, recibe el daño del arma en lugar de su objetivo.",
+            "Description-short":"Si el usuario no logra acertar en su tirada de ataque, recibe el daño del arma en lugar de su objetivo."
+         },
+         "SANSARMURE":{
+            "Label":"Sin armadura",
+            "Description":"El arma se puede utilizar sin meta-armadura.",
+            "Description-short":"El arma se puede utilizar sin meta-armadura."
          }
       },
       "AMELIORATIONS": {
@@ -1525,7 +1568,7 @@
                   },
                   "PROJECTOR": {
                      "Label": "Proyector",
-                     "Description": "La luz que emana del núcleo de la meta-armadura se puede concentrar en una criatura de la Anathema como poderoso haz. Ante la luz, la horrible naturaleza del objetivo cambia, parece volverse más hermoso y alejarse de la oscuridad. \r\n\r\n Mientras el efecto esté activo, la criatura escogida a corta distancia, hostil o salvaje, ya no puede usar una de sus habilidades. El caballero puede elegir la habilidad, pero debe haberla identificado y poder describir los efectos. De lo contrario, el DM quien elige."
+                     "Description": "La luz que emana del núcleo de la meta-armadura se puede concentrar en una criatura de la Anathema como poderoso haz. Ante la luz, la horrible naturaleza del objetivo cambia, parece volverse más hermoso y alejarse de la oscuridad. \r\n\r\n Mientras el efecto esté activo, la criatura escogida a corta distancia, hostil o salvaje, ya no puede usar una de sus habilidades. El caballero puede elegir la habilidad, pero debe haberla identificado y poder describir los efectos. De lo contrario, el DJ quien elige."
                   },
                   "LIGHTHOUSE": {
                      "Label": "Faro",
@@ -2169,14 +2212,27 @@
          "Nodssoin": "Nodos de Curación",
          "Nodsarmure": "Nodos de Armadura",
          "Nodsenergie": "Nodos de Energía",
+         "NotNods":"No quedan nodos",
          "JetPilotage": "Tirada de pilotaje",
          "AttackSurprise":"Ataque sorpresa",
+         "MaximizeDegats":"Maximizar daño",
+         "MaximizeViolence":"Maximizar violence",
+         "MaximizeDegatsTag":"Daño máximo",
+         "MaximizeViolenceTag":"Violencia máxima",
+         "JetReussi":"Tirada exitosa",
+         "JetEchoue":"Tirada fallida",
+         "AugmenterDebordement":"Aumentar la paliza",
+         "DebordementAugmente":"La paliza aumenta...",
          "RESULTATS":{
+            "Affecte":"Afectado",
+            "PasAffecte":"No afectado",
             "Touche":"Acierto",
             "Manque":"Fallo",
             "VsReaction":"vs Reacción",
             "VsDefense":"vs Defensa",
-            "PFTarget":"¡Apuntado a punto débil!"
+            "PFTarget":"¡Apuntado a punto débil!",
+            "DegatsAvec":"Daño con {avec}",
+            "ProtegePar":"Protegido por {aspect}"
          },
          "CHAIRD2": {
             "Has": "Agregar Cuerpo entre 2 al daño",
@@ -2185,6 +2241,10 @@
          "BETE": {
             "Mineur": "Bestia menor",
             "Majeur": "Bestia mayor"
+         },
+         "CHAIR":{
+            "Mineur":"Cuerpo menor",
+            "Majeur":"Cuerpo mayor"
          }
       },
       "AUTRE": {
@@ -2248,6 +2308,10 @@
          "NonNomme": "Sin nombre",
          "Confirmation": "¿Estás seguro?",
          "ConfirmationSuppression": "¿Estás seguro de que quieres eliminar este objeto?",
+         "ConfirmationEnergie":"¿Estás seguro de que quieres recuperar toda la energía?",
+         "ConfirmationArmure":"¿Estás seguro de que quieres recuperar toda la armadura?",
+         "ConfirmationSante":"¿Estás seguro de que quieres recuperar toda la salud?",
+         "ConfirmationEspoir":"¿Estás seguro de que quieres recuperar toda la esperanza?",
          "Reset":"Reiniciar",
          "Difficulte":"Dificultad",
          "MJOnly":"Solo DJ",
@@ -2308,6 +2372,7 @@
          "ConflitScene": "Una fase de conflicto o una escena",
          "ConflitTuer": "Hasta el final de la fase de conflicto o hasta que el caballero logre matar a un enemigo.",
          "ConflitSceneProlonger": "Una escena o una fase de conflicto puede extenderse manteniendo exactamente el mismo valor de PE otorgado.",
+         "Heure":"1 heroísmo",
          "Permanent": "Permanente",
          "Sanslimite": "Sin límite"
       },
@@ -2323,6 +2388,7 @@
          "Combat6Sec": "Acción de combate / 6 segundos",
          "Tour": "1 turno",
          "Tour6Sec": "1 turno / 6 segundos",
+         "DeplacementCombat": "Acción de combate o movimiento",
          "Toutes": "Acción de movimiento, combate o 1 turno",
          "TourComplet": "Turno completo"
       },
@@ -2449,12 +2515,20 @@
             "Version3":"Versión 3"
          },
          "CODEXFM4":{
-            "Label":"Agregar estados de token del Codex Fan Made 4",
-            "Hint":"Agrega el estado de token 'Inmovilizado'"
+            "Label":"Añadir Codex Fan Made 4",
+            "Hint":"Añadir los efectos de token y estado 'Inmovilización', 'Amplificación', 'CdF', 'Intimidante', 'Retroceso', 'Sin armadura'."
          },
          "OLDROLL":{
             "Label":"Lanza daño y violencia al mismo tiempo que el ataque.",
             "Hint":"Si está deshabilitado, habrá botones en las tiradas de ataque para tirar daño y/o violencia."
+         },
+         "CANEDITNODS":{
+            "Label":"Permitir editar libremente los valores predeterminados de los dados de nodos",
+            "Hint":"Añade un pequeño cuadro en las fichas junto a los nodos que permite editar los valores. Ten en cuenta que, incluso si esta casilla se desmarca posteriormente, las modificaciones realizadas se mantienen."
+         },
+         "CANPJRESTAURE":{
+            "Label":"Permitir a los jugadores tener acceso a los botones de recuperación de Salud/Armadura/Energía/Esperanza.",
+            "Hint":"Si esta casilla no está marcada, estas opciones no estarán disponibles para los PJ y el DJ será el único que podrá hacer click en ellas."
          }
       },
       "GM": {

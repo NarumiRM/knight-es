@@ -1,7 +1,7 @@
 {
   "id": "knight-es",
   "title": "Translation: Spanish [Knight]",
-  "version": "1.0",
+  "version": "1.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -12,7 +12,7 @@
         "id": "knight",
         "type": "system",
         "compatibility": {
-          "verified": "3.29.6"
+          "verified": "3.31.6"
         }
       }
     ]
@@ -34,8 +34,8 @@
     }
   ],
   "url": "https://github.com/NarumiRM/knight-es",
-  "manifest": "https://github.com/NarumiRM/knight-es/releases/download/1.0/module.json",
-  "download": "https://github.com/NarumiRM/knight-es/releases/download/1.0/knight-es.zip",
+  "manifest": "https://github.com/NarumiRM/knight-es/releases/download/1.1/module.json",
+  "download": "https://github.com/NarumiRM/knight-es/releases/download/1.1/knight-es.zip",
   "license": "https://raw.githubusercontent.com/NarumiRM/knight-es/main/LICENSE",
   "readme": "https://raw.githubusercontent.com/NarumiRM/knight-es/main/README.md"
 }
