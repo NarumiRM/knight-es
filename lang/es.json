@@ -538,13 +538,13 @@
             "Rack": "Armero",
             "Armoury": "Arsenal",
             "CONTACT": {
-               "Label": "Armas de contacto"
+               "Label": "Arma de contacto"
             },
             "DISTANCE": {
-               "Label": "Armas a distancia"
+               "Label": "Arma a distancia"
             },
             "TOURELLE": {
-               "Label": "Armas de torreta"
+               "Label": "Arma de torreta"
             }
          },
          "NODS": {
@@ -1296,7 +1296,9 @@
             "RecuperationEspoir": "Bonus de recuperación de esperanza",
             "DiminutionCout": "Reducción de costes en XP",
             "Diviser": "Dividido por",
-            "Diminuer": "Disminuido en"
+            "Diminuer": "Disminuido en",
+            "Infatigable": "Incansable",
+            "NoDmgSante": "No pierde puntos de vida por daño causado a su armadura (normalmente 1 PS / 5 PA)"
          },
          "DESAVANTAGE": {
             "MalusSante": "Malus de salud",
@@ -2216,7 +2218,7 @@
          "JetPilotage": "Tirada de pilotaje",
          "AttackSurprise":"Ataque sorpresa",
          "MaximizeDegats":"Maximizar daño",
-         "MaximizeViolence":"Maximizar violence",
+         "MaximizeViolence":"Maximizar violencia",
          "MaximizeDegatsTag":"Daño máximo",
          "MaximizeViolenceTag":"Violencia máxima",
          "JetReussi":"Tirada exitosa",
@@ -2245,9 +2247,41 @@
          "CHAIR":{
             "Mineur":"Cuerpo menor",
             "Majeur":"Cuerpo mayor"
+         },
+         "DEGATSAUTO": {
+            "TargetDead": "El objetivo ha muerto",
+            "TargetAlreadyDead": "El objetivo ya está muerto",
+            "DamageOnAndRest": "<p>El objetivo sufre <b>{dmg}</b> daño a la <u>{valueName}</u> y le quedan <b>{dmgRest}</b>.</p>",
+            "DamageReceived": "Daño recibido",
+            "DamageMixed": "Daño mixto",
+            "PjDamageMessageStart": "Con <b>{damageTotal}</b> de daño, <u>{actorName}</u> pierde",
+            "PjDamageMessageArmorChocHealth": "dont {dmg} lié au choc de l'armure",
+            "HeHad": "Tenía",
+            "HeHasLeft": "Quedan",
+            "ArmorFolds": "La armadura se repliega",
+            "GuardianDontProtect": "El traje Guardián ya no protege",
+            "PjDead": "<u>{name}</u> está <b>gravemente herido y cae al suelo</b>",
+            "PjHopeless": "¡<u>{name}</u> <b>sucumbe a la DESESPERANZA!</b>",
+            "ToPj": "a jugador",
+            "ToPnj": "a PNJ",
+            "ViolencePnj": "Violencia a PNJ",
+            "TrueDamageReceived": "Daño bruto recibido",
+            "DamageBonus": "Daño bonus",
+            "DamageOn": "Daños en",
+            "IgnoreAegis": "Ignora égida",
+            "Calculate": "Calcular",
+            "Cancel": "Cancelar",
+            "TargetNotYetvalid": "Ese tipo de objetivo ya no se tiene en cuenta",
+            "DamageForAllTargets": "Daño a todos los objetivos",
+            "ViolenceForAllTargets": "Violencia a todos los objetivos",
+            "DebordementForAllTargets": "Paliza a todos los objetivos",
+            "SetDamages": "Aplicar daño",
+            "SetViolence": "Aplicar violencia",
+            "SetDebordement": "Aplicar paliza"
          }
       },
       "AUTRE": {
+         "And": "y",
          "Label": "Otro",
          "Standard": "Estándar",
          "Base": "Base",
@@ -2281,6 +2315,7 @@
          "EnergieSupplementaireComplet": "Energía adicional",
          "EspoirSupplementaireComplet": "Esperanza adicional",
          "PointEnergie-short": "PE",
+         "PointEspoir-short": "PEs",
          "PointGloire": "Puntos de gloria",
          "PointGloire-short": "PG",
          "PointSante-short": "PV",
