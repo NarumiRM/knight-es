@@ -771,7 +771,7 @@
          },
          "DEMORALISANT": {
             "Label": "Desmoralizante",
-            "Description": "Con un ataque exitoso, el arma resta 2 puntos de _Paliza_ que infligen las bandas formadas por humanos. Este efecto puede ser acumulativo para la misma banda. \r\n ** Aclaración **: Si el efecto _Desmoralinzante_ se aplica varias veces, se acumula agregando un turno de duración (y no restando puntos adicionales a la Paliza de la banda específica).",
+            "Description": "Con un ataque exitoso, el arma resta 2 puntos de Paliza que infligen las bandas formadas por humanos. Este efecto puede ser acumulativo para la misma banda. \r\n**Aclaración**: Si el efecto _Desmoralinzante_ se aplica varias veces, se acumula agregando un turno de duración (y no restando puntos adicionales a la Paliza de la banda específica).",
             "Description-short": "Si el ataque es exitoso, resta 2 puntos de Paliza de la banda."
          },
          "DEUXMAINS": {
@@ -796,7 +796,7 @@
          },
          "DISPERSION": {
             "Label": "Dispersión",
-            "Description": "Un arma con este efecto puede golpear a varios enemigos siempre y cuando no estén a más de 2 metros el uno del otro. El número de enemigos golpeados como máximo se determina por el valor X. Solo se requiere una prueba de Habilidad exitosa para golpear a un enemigo. Los blancos cercanos reciben el daño y efectos adicionales que el arma pueda poseer siempre y cuando la prueba de habilidad supere su Defensa o Reacción (para armas cuerpo a cuerpo y a distancia respectivamente).  \r\n ** Aviso **: Puede afectar a aliados que estén cerca del objetivo.",
+            "Description": "Un arma con este efecto puede golpear a varios enemigos siempre y cuando no estén a más de 2 metros el uno del otro. El número de enemigos golpeados como máximo se determina por el valor X. Solo se requiere una prueba de Habilidad exitosa para golpear a un enemigo. Los blancos cercanos reciben el daño y efectos adicionales que el arma pueda poseer siempre y cuando la prueba de habilidad supere su Defensa o Reacción (para armas cuerpo a cuerpo y a distancia respectivamente). \r\n**Aviso**: Puede afectar a aliados que estén cerca del objetivo.",
             "Description-short": "El arma puede golpear a varios enemigos siempre y cuando no estén a más de 2 metros el uno del otro. X representa el número de enemigos."
          },
          "ENCHAINE": {
