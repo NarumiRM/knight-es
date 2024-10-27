@@ -117,7 +117,7 @@
             },
             "VAGUESOIN": {
                "Label": "Onda de tratamiento",
-               "Description": "La Arcángel puede desplegar una onda de tratamiento médico a larga distancia. Cada aliado afectado por la onda (salvo mecha-armaduras o vehículos) recupera 40 PS. En lugar de esto, la onda de tratamiento puede afectar a una banda aliada para hacerla recuperar 150 puntos de cohesión."
+               "Description": "La Arcángel puede desplegar una onda de tratamiento médico a larga distancia. Cada aliado afectado por la onda (salvo mecha-armaduras o vehículos) recupera 40 PV. En lugar de esto, la onda de tratamiento puede afectar a una banda aliada para hacerla recuperar 150 puntos de cohesión."
             },
             "CANONMETATRON": {
                "Label": "Cañón Metatrón",
@@ -187,8 +187,8 @@
             },
             "PODMIRACLE": {
                "Label": "Cápsula Milagro",
-               "Description": "La Cápsula Milagro permite que la Arcángel ponga una máquina en el suelo, similar a una pequeña torre de 6 metros de altura con un prisma en lo alto, que difunde una niebla de nanoM y nanoC en un área de corto alcance. Los aliados en el interior se curan y reparan durante 2D6 turnos. <br/> <br/> <b> Efecto: </b> Todos los aliados dentro de la niebla recuperan 3D6 PS y 3D6 PA. Las mecha-armaduras en el área recuperan 1D6 puntos de blindaje y 1 de resistencia por turno. La cápsula tiene 60 puntos de blindaje, 1 de resistencia y un CdF de 10. Puede ser atacado por un enemigo que acierta automáticamente si está dentro del rango. Una vez que se destruye la cápsula, el efecto desaparece. Los efectos de varias Cápsulas Milagro no se pueden acumular en un mismo objetivo.",
-               "RecuperationPS": "Recuperación de PS",
+               "Description": "La Cápsula Milagro permite que la Arcángel ponga una máquina en el suelo, similar a una pequeña torre de 6 metros de altura con un prisma en lo alto, que difunde una niebla de nanoM y nanoC en un área de corto alcance. Los aliados en el interior se curan y reparan durante 2D6 turnos. <br/> <br/> <b> Efecto: </b> Todos los aliados dentro de la niebla recuperan 3D6 PV y 3D6 PA. Las mecha-armaduras en el área recuperan 1D6 puntos de blindaje y 1 de resistencia por turno. La cápsula tiene 60 puntos de blindaje, 1 de resistencia y un CdF de 10. Puede ser atacado por un enemigo que acierta automáticamente si está dentro del rango. Una vez que se destruye la cápsula, el efecto desaparece. Los efectos de varias Cápsulas Milagro no se pueden acumular en un mismo objetivo.",
+               "RecuperationPS": "Recuperación de PV",
                "RecuperationPA": "Recuperación de PA",
                "RecuperationBlindage": "Recuperación de blindaje",
                "RecuperationResilience": "Recuperación de resistencia",
@@ -261,7 +261,7 @@
          "TenueCivile": "Traje civil"
       },
       "LATERAL": {
-         "Sante": "Salud",
+         "Sante": "Vida",
          "Armure": "Armadura",
          "Cohesion": "Cohesión",
          "Energie": "Energía",
@@ -551,7 +551,7 @@
             "Label": "Nodos",
             "SoiMeme": "Para ti mismo",
             "Autrui": "Para otros",
-            "Soin": "Salud",
+            "Soin": "Vida",
             "Armure": "Armadura",
             "Energie": "Energía",
             "JetParDefaut":"Valor por defecto de tiradas de nodos"
@@ -632,8 +632,8 @@
             "Hasnt": "No tiene campo de fuerza"
          },
          "SANTE": {
-            "Has": "Tiene salud",
-            "Hasnt": "No tiene salud"
+            "Has": "Tiene vida",
+            "Hasnt": "No tiene vida"
          },
          "RESILIENCE": {
             "Has": "Tiene resistencia",
@@ -687,7 +687,7 @@
          },
          "ANTIANATHEME": {
             "Label": "Anti-anathema",
-            "Description": "Si el enemigo es de la Anathema, el arma ignora el escudo y la reducción de daño del aspecto _Cuerpo_ (ya sea mayor o menor). La PA y la salud del objetivo se ven directamente afectadas. Cuando un arma de este tipo afecta a una banda de criaturas de Anathema, se ignoran sus puntuaciones excepcionales de escudo y Cuerpo.",
+            "Description": "Si el enemigo es de la Anathema, el arma ignora el escudo y la reducción de daño del aspecto _Cuerpo_ (ya sea mayor o menor). La PA y la vida del objetivo se ven directamente afectadas. Cuando un arma de este tipo afecta a una banda de criaturas de Anathema, se ignoran sus puntuaciones excepcionales de escudo y Cuerpo.",
             "Description-short": "Si el enemigo es de la Anathema, el arma ignora el escudo y la reducción de daño por aspectos excepcionales de Cuerpo."
          },
          "ANTIVEHICULE": {
@@ -869,7 +869,7 @@
          "MEURTRIER": {
             "Label": "Herida",
             "Description": "Cuando causa daño a los PV añade 2D6 de daño adicional al daño causado. El efecto se activará siempre y cuando quede un punto de PV.",
-            "Description-short": "Cuando el daño afecta la salud del objetivo."
+            "Description-short": "Cuando el daño afecta la vida del objetivo."
          },
          "OBLITERATION": {
             "Label": "Obliteración",
@@ -1040,7 +1040,7 @@
          "BARBELEE": {
             "Label": "Púas",
             "Description": "El arma gana el efecto herida. \r\n Cuando causa daño a los PV añade 2D6 de daño adicional al daño causado. El efecto se activará siempre y cuando quede un punto de PV.",
-            "Description-short": "Cuando el daño afecta la salud del objetivo."
+            "Description-short": "Cuando el daño afecta la vida del objetivo."
          },
          "BLASONCHEVALIER": {
             "Label": "Escudo de armas del caballero",
@@ -1124,7 +1124,7 @@
          },
          "FAUCONPLUMESLUMINESCENTES": {
             "Label": "Halcón y plumas luminiscentes",
-            "Description": "El arma ahora tiene el efecto Anti-Anathema. \r\n Si el enemigo es de la Anathema, el arma ignora el escudo y la reducción de daño del aspecto _Cuerpo_ (ya sea mayor o menor). La PA y la salud del objetivo se ven directamente afectadas. Cuando un arma de este tipo afecta a una banda de criaturas de Anathema, se ignoran sus puntuaciones excepcionales de escudo y Cuerpo.",
+            "Description": "El arma ahora tiene el efecto Anti-Anathema. \r\n Si el enemigo es de la Anathema, el arma ignora el escudo y la reducción de daño del aspecto _Cuerpo_ (ya sea mayor o menor). La PA y la vida del objetivo se ven directamente afectadas. Cuando un arma de este tipo afecta a una banda de criaturas de Anathema, se ignoran sus puntuaciones excepcionales de escudo y Cuerpo.",
             "Description-short": "Si el enemigo es de la Anathema, el arma ignora el escudo y la reducción de daño por aspectos excepcionales de Cuerpo."
          },
          "FLAMMESSTYLISEES": {
@@ -1286,11 +1286,11 @@
          "Caracteristique": "Característica",
          "Caracteristiques": "Características",
          "AVANTAGE": {
-            "BonusSante": "Bonus de salud",
+            "BonusSante": "Bonus de vida",
             "BonusEspoir": "Bonus de esperanza",
             "BonusInitiative": "Bonus de iniciativa",
             "BonusEmbuscade": "Bonus si cae en una emboscada",
-            "RecuperationSante": "Bonus de recuperación de salud",
+            "RecuperationSante": "Bonus de recuperación de vida",
             "RecuperationArmure": "Bonus de recuperación de armadura",
             "RecuperationEnergie": "Bonus de recuperación de energía",
             "RecuperationEspoir": "Bonus de recuperación de esperanza",
@@ -1298,14 +1298,14 @@
             "Diviser": "Dividido por",
             "Diminuer": "Disminuido en",
             "Infatigable": "Incansable",
-            "NoDmgSante": "No pierde puntos de vida por daño causado a su armadura (normalmente 1 PS / 5 PA)"
+            "NoDmgSante": "No pierde puntos de vida por daño causado a su armadura (normalmente 1 PV / 5 PA)"
          },
          "DESAVANTAGE": {
-            "MalusSante": "Malus de salud",
+            "MalusSante": "Malus de vida",
             "MalusEspoir": "Malus de esperanza",
             "MalusInitiative": "Malus de iniciativa",
             "MalusEmbuscade": "Malus si cae en una emboscada",
-            "RecuperationSante": "Malus de recuperación de salud",
+            "RecuperationSante": "Malus de recuperación de vida",
             "RecuperationArmure": "Malus de recuperación de armadura",
             "RecuperationEnergie": "Malus de recuperación de energía",
             "RecuperationEspoir": "Malus de recuperación de esperanza",
@@ -1373,7 +1373,7 @@
             "CAPACITES": {
                "ASCENSION": {
                   "Label": "Modo Ascensión",
-                  "Description": "El caballero puede materializar su IA en un cuerpo llamado \"Ascensión\". Este cuerpo es una réplica exacta de la meta-armadura del caballero, con sus módulos, sus valores totales y actuales, pero sin sus armas. \r\n El caballero puede materializar su IA en modo Ascensión. Para materializarlo, debe otorgarle parte de su propia energía que se resta temporalmente de su total. El valor total de PE del caballero se reduce por esta cantidad durante la materialización de la IA. La IS en modo Ascensión tiene la misma ficha de personaje que el caballero (mismos aspectos, características, sobrecargas, valores derivados, puntuación total, CdF, etc.), pero no tiene puntuación de salud y se destruye cuando su PA cae a 0. Por supuesto, se puede reparar antes de que sus PA lleguen a 0. \r\n Tiene los mismos módulos que el caballero (que pueden ser módulos de armas), el mismo número de nodos actuales y munición, pero no sus armas o sus granadas inteligentes. La IA incorporada en un cuerpo actúa de forma independiente, sin ningún límite de distancia, y obedece las órdenes del caballero si las considera justificados. Ella puede rechazar una orden que le parezca injusta o fuera de propósito. No es el DJ quien usa esta IA, sino el PJ que debe tratar de interpretarla de la manera más apropiada, dependiendo de la personalidad de la IA.",
+                  "Description": "El caballero puede materializar su IA en un cuerpo llamado \"Ascensión\". Este cuerpo es una réplica exacta de la meta-armadura del caballero, con sus módulos, sus valores totales y actuales, pero sin sus armas. \r\n El caballero puede materializar su IA en modo Ascensión. Para materializarlo, debe otorgarle parte de su propia energía que se resta temporalmente de su total. El valor total de PE del caballero se reduce por esta cantidad durante la materialización de la IA. La IS en modo Ascensión tiene la misma ficha de personaje que el caballero (mismos aspectos, características, sobrecargas, valores derivados, puntuación total, CdF, etc.), pero no tiene puntuación de vida y se destruye cuando su PA cae a 0. Por supuesto, se puede reparar antes de que sus PA lleguen a 0. \r\n Tiene los mismos módulos que el caballero (que pueden ser módulos de armas), el mismo número de nodos actuales y munición, pero no sus armas o sus granadas inteligentes. La IA incorporada en un cuerpo actúa de forma independiente, sin ningún límite de distancia, y obedece las órdenes del caballero si las considera justificados. Ella puede rechazar una orden que le parezca injusta o fuera de propósito. No es el DJ quien usa esta IA, sino el PJ que debe tratar de interpretarla de la manera más apropiada, dependiendo de la personalidad de la IA.",
                   "SansArmure": "Activable si la armadura está plegada",
                   "NoSansArmure": "No activable si la armadura está plegada"
                },
@@ -1719,7 +1719,7 @@
                },
                "REWIND": {
                   "Label": "Modo Rebobinado",
-                  "Description": "En un destello incoloro seguido de un movimiento rápido casi invisible, la meta-armadura (y, por lo tanto, su portador) puede desaparecer y regresar al estado y a la posición que tenía exactamente 6 segundos antes, recuperando todo lo que haya perdido durante este período de tiempo y anulando lo que había sufrido. El entorno alrededor no cambia, solo la Warlock se somete al retroceso temporal. \r\n Activar esta habilidad permite obtener los siguientes efectos: \r\n - Regresar a los puntos de salud poseía 6 segundos antes (o el turno anterior), ya sea inferior o superior. \r\n - Regrese a los puntos de armadura que poseían menos de 6 segundos (o el giro de juego anterior), ya sea inferior o superior. \r\n - Anular una herida grave recibida hace menos de 6 segundos (o en el turno anterior). \r\n - Recuperar la(s) munición(es) de un módulo (y solo un módulo) utilizado hace menos de 6 segundos (o en el turno anterior). \r\n - Recuperar los nodos usados hace menos de 6 segundos (o en el turno anterior). \r\n - Moverse instantáneamente a su posición hace 6 segundos (o el turno anterior). \r\n El conjunto de efectos se activa al mismo tiempo. Depende del PJ registrar sus puntuaciones y equipo. Los puntos de esperanza y los puntos de energía no se ven afectados por esta habilidad. Las armas rotas y todo el equipo que no sean nodos y municiones de los módulos utilizados tampoco se ven afectados. \r\n ** Atención **: El efecto es personal y está restringido a la propia meta-armadura, a su usuario, a sus brazos, a sus módulos y al equipo ubicado en su mochila. Lo que está alrededor de la meta-armadura o en contacto con ella (como un aliado) no se ve afectado. Si un objeto impide el regreso de la meta-armadura y su portador a su posición anterior, entonces simplemente se acercan lo más posible a esta posición sin chocar. \r\n El caballero debe activar el modo durante su turno en combate. Debe esperar 6s después de un rebobinado para activarlo nuevamente. Esto significa que en la fase de conflicto, solo puede hacer un rebobinado por turno."
+                  "Description": "En un destello incoloro seguido de un movimiento rápido casi invisible, la meta-armadura (y, por lo tanto, su portador) puede desaparecer y regresar al estado y a la posición que tenía exactamente 6 segundos antes, recuperando todo lo que haya perdido durante este período de tiempo y anulando lo que había sufrido. El entorno alrededor no cambia, solo la Warlock se somete al retroceso temporal. \r\n Activar esta habilidad permite obtener los siguientes efectos: \r\n - Regresar a los puntos de vida poseía 6 segundos antes (o el turno anterior), ya sea inferior o superior. \r\n - Regrese a los puntos de armadura que poseían menos de 6 segundos (o el giro de juego anterior), ya sea inferior o superior. \r\n - Anular una herida grave recibida hace menos de 6 segundos (o en el turno anterior). \r\n - Recuperar la(s) munición(es) de un módulo (y solo un módulo) utilizado hace menos de 6 segundos (o en el turno anterior). \r\n - Recuperar los nodos usados hace menos de 6 segundos (o en el turno anterior). \r\n - Moverse instantáneamente a su posición hace 6 segundos (o el turno anterior). \r\n El conjunto de efectos se activa al mismo tiempo. Depende del PJ registrar sus puntuaciones y equipo. Los puntos de esperanza y los puntos de energía no se ven afectados por esta habilidad. Las armas rotas y todo el equipo que no sean nodos y municiones de los módulos utilizados tampoco se ven afectados. \r\n ** Atención **: El efecto es personal y está restringido a la propia meta-armadura, a su usuario, a sus brazos, a sus módulos y al equipo ubicado en su mochila. Lo que está alrededor de la meta-armadura o en contacto con ella (como un aliado) no se ve afectado. Si un objeto impide el regreso de la meta-armadura y su portador a su posición anterior, entonces simplemente se acercan lo más posible a esta posición sin chocar. \r\n El caballero debe activar el modo durante su turno en combate. Debe esperar 6s después de un rebobinado para activarlo nuevamente. Esto significa que en la fase de conflicto, solo puede hacer un rebobinado por turno."
                },
                "SARCOPHAGE": {
                   "Label": "Armadura Sarcófago",
@@ -1836,7 +1836,7 @@
                },
                "CONTRECOUPS": {
                   "Label": "Consecuencias",
-                  "Description": "El poder de la Warlock no está exento de consecuencias. Estas dos consecuencias son acumulativas: una es constante, la otra puede activarse después de usar una de las habilidades de rebobinado, aceleración o grabación. \r\n ** Falla temporal ** \r\n Todas las armas de proyectiles o demasiado avanzadas tecnológicamente sufren fallos o incidentes graves cuando el portador de la meta-armadura Warlock usa sus capacidades. \r\n El arsenal prohíbe a los portadores de meta-armadura Warlock adquirir armas a distancia. Además, se les prohíbe recibir armas de contacto con 5 o más efectos, efectos de mejora incluidos (excepto las armas de prestigio y los efectos añadidos por la Forja que apliquen al arma). \r\n ** Paradoja temporal ** \r\n El uso de las habilidades de esta meta-armadura desestabiliza la integridad temporal del personaje. Cada vez que activa una de sus tres habilidades de la meta-armadura durante una escena o una fase de conflicto, el personaje debe apuntarlo. Una vez termina la escena o la fase, puede borrar el conteo. \r\n Después del primer uso, cada vez que usa una de las tres habilidades de la meta-armadura, el personaje debe realizar una prueba con base _Compostura_ o _Agresividad_, sin contar las sobrecargas, para resistir los efectos temporales. La dificultad de la prueba es igual al número de veces que haya usado las habilidades de la meta-armadura durante la escena o la fase de conflicto. \r\n Si falla la prueba, el personaje debe tirar 2D6 y consultar la tabla en el Atlas. \r\n - ** Desgarradura **: El cuerpo del personaje es desgarrado en el tiempo. Recibe una herida grave aleatoria que se aplica automáticamente. \r\n - ** Falla **: El CdF de la meta-armadura cae a 0 durante 1D3 turnos. \r\n - ** Desintegración **: La meta-armadura del personaje sufre 3D6 daño sin CdF. La habilidad rebobinar no puede anularlo. \r\n - ** Desorientación **: El caballero está mentalmente desorientado. Sufre a una pérdida de 1D6 puntos de esperanza. \r\n - ** Desaparición **: En un destello, el personaje desaparece de la escena y reaparece al final de la misma. \r\n - ** Fragmentación **: El personaje sufre daños en su psique y olvida quién es durante 1D6 vueltas. El PJ y DJ deben improvisar. \r\n - ** Incidente **: El personaje sufre 4D6 de daño directamente a la salud. La habilidad rebobinar no puede anularlo. \r\n - ** Sifón **: La energía del personaje se reduce instantáneamente en 6D6 puntos. \r\n - ** Sobresalto **: Durante 1D6 turnos, la meta-armadura salta constantemente en el tiempo. Debe restar 2 éxitos en cada una de sus pruebas.",
+                  "Description": "El poder de la Warlock no está exento de consecuencias. Estas dos consecuencias son acumulativas: una es constante, la otra puede activarse después de usar una de las habilidades de rebobinado, aceleración o grabación. \r\n ** Falla temporal ** \r\n Todas las armas de proyectiles o demasiado avanzadas tecnológicamente sufren fallos o incidentes graves cuando el portador de la meta-armadura Warlock usa sus capacidades. \r\n El arsenal prohíbe a los portadores de meta-armadura Warlock adquirir armas a distancia. Además, se les prohíbe recibir armas de contacto con 5 o más efectos, efectos de mejora incluidos (excepto las armas de prestigio y los efectos añadidos por la Forja que apliquen al arma). \r\n ** Paradoja temporal ** \r\n El uso de las habilidades de esta meta-armadura desestabiliza la integridad temporal del personaje. Cada vez que activa una de sus tres habilidades de la meta-armadura durante una escena o una fase de conflicto, el personaje debe apuntarlo. Una vez termina la escena o la fase, puede borrar el conteo. \r\n Después del primer uso, cada vez que usa una de las tres habilidades de la meta-armadura, el personaje debe realizar una prueba con base _Compostura_ o _Agresividad_, sin contar las sobrecargas, para resistir los efectos temporales. La dificultad de la prueba es igual al número de veces que haya usado las habilidades de la meta-armadura durante la escena o la fase de conflicto. \r\n Si falla la prueba, el personaje debe tirar 2D6 y consultar la tabla en el Atlas. \r\n - ** Desgarradura **: El cuerpo del personaje es desgarrado en el tiempo. Recibe una herida grave aleatoria que se aplica automáticamente. \r\n - ** Falla **: El CdF de la meta-armadura cae a 0 durante 1D3 turnos. \r\n - ** Desintegración **: La meta-armadura del personaje sufre 3D6 daño sin CdF. La habilidad rebobinar no puede anularlo. \r\n - ** Desorientación **: El caballero está mentalmente desorientado. Sufre a una pérdida de 1D6 puntos de esperanza. \r\n - ** Desaparición **: En un destello, el personaje desaparece de la escena y reaparece al final de la misma. \r\n - ** Fragmentación **: El personaje sufre daños en su psique y olvida quién es durante 1D6 vueltas. El PJ y DJ deben improvisar. \r\n - ** Incidente **: El personaje sufre 4D6 de daño directamente a la vida. La habilidad rebobinar no puede anularlo. \r\n - ** Sifón **: La energía del personaje se reduce instantáneamente en 6D6 puntos. \r\n - ** Sobresalto **: Durante 1D6 turnos, la meta-armadura salta constantemente en el tiempo. Debe restar 2 éxitos en cada una de sus pruebas.",
                   "TABLEAU": {
                      "Dechirure": "Desgarradura",
                      "Disparition": "Desaparición",
@@ -2029,8 +2029,8 @@
                "NoPredefini": "Tirada no predefinida"
             },
             "SANTE":{
-               "Bonus":"Bonus a salud",
-               "NoBonus":"Sin bonus a salud"
+               "Bonus":"Bonus a vida",
+               "NoBonus":"Sin bonus a vida"
             },
             "ARMURE": {
                "Bonus": "Bonus a Armadura",
@@ -2151,8 +2151,8 @@
                "Hasnt": "No grega aspecto a las habilidades vinculadas al aspecto"
             },
             "SANTE": {
-               "Has": "Da bonus a la salud",
-               "Hasnt": "No da bonus a la salud"
+               "Has": "Da bonus a la vida",
+               "Hasnt": "No da bonus a la vida"
             },
             "ARMURE": {
                "Has": "Da bonus a la armadura",
@@ -2225,6 +2225,13 @@
          "JetEchoue":"Tirada fallida",
          "AugmenterDebordement":"Aumentar la paliza",
          "DebordementAugmente":"La paliza aumenta...",
+         "AppliquerNods":"Administrar Nodo",
+         "PluralRecupereArmure":"Recupera {value} puntos de armadura",
+         "PluralRecupereEnergie":"Recupera {value} puntos de energía",
+         "PluralRecupereSoin":"Recupera {value} puntos de vida",
+         "SingularRecupereArmure":"Recupera {value} punto de armadura",
+         "SingularRecupereEnergie":"Recupera {value} punto de energía",
+         "SingularRecupereSante":"Recupera {value} punto de vida",
          "RESULTATS":{
             "Affecte":"Afectado",
             "PasAffecte":"No afectado",
@@ -2277,7 +2284,8 @@
             "DebordementForAllTargets": "Paliza a todos los objetivos",
             "SetDamages": "Aplicar daño",
             "SetViolence": "Aplicar violencia",
-            "SetDebordement": "Aplicar paliza"
+            "SetDebordement": "Aplicar paliza",
+            "NoDamageOnTarget": "No se ha hecho suficiente daño/violencia al objetivo"
          }
       },
       "AUTRE": {
@@ -2345,7 +2353,7 @@
          "ConfirmationSuppression": "¿Estás seguro de que quieres eliminar este objeto?",
          "ConfirmationEnergie":"¿Estás seguro de que quieres recuperar toda la energía?",
          "ConfirmationArmure":"¿Estás seguro de que quieres recuperar toda la armadura?",
-         "ConfirmationSante":"¿Estás seguro de que quieres recuperar toda la salud?",
+         "ConfirmationSante":"¿Estás seguro de que quieres recuperar toda la vida?",
          "ConfirmationEspoir":"¿Estás seguro de que quieres recuperar toda la esperanza?",
          "Reset":"Reiniciar",
          "Difficulte":"Dificultad",
@@ -2459,7 +2467,7 @@
          "Reparation": "Bonus a reparaciones",
          "Reaction": "Bonus a reacción",
          "Reussites": "Éxitos automáticos",
-         "Sante": "Bonus de salud",
+         "Sante": "Bonus de vida",
          "Soins": "Bonus a la curación",
          "Succes": "Éxitos automáticos",
          "Violence": "Bonus a violencia",
@@ -2562,7 +2570,7 @@
             "Hint":"Añade un pequeño cuadro en las fichas junto a los nodos que permite editar los valores. Ten en cuenta que, incluso si esta casilla se desmarca posteriormente, las modificaciones realizadas se mantienen."
          },
          "CANPJRESTAURE":{
-            "Label":"Permitir a los jugadores tener acceso a los botones de recuperación de Salud/Armadura/Energía/Esperanza.",
+            "Label":"Permitir a los jugadores tener acceso a los botones de recuperación de Vida/Armadura/Energía/Esperanza.",
             "Hint":"Si esta casilla no está marcada, estas opciones no estarán disponibles para los PJ y el DJ será el único que podrá hacer click en ellas."
          }
       },
@@ -2623,8 +2631,8 @@
          "Condition": "Condición",
          "Description": "Descripción",
          "PASSIVE": {
-            "Sante": "Aumenta la salud en un 50%",
-            "NotSante": "No aumenta la salud en un 50%",
+            "Sante": "Aumenta la vida en un 50%",
+            "NotSante": "No aumenta la vida en un 50%",
             "Contact": "Bonus de puntos de contacto",
             "NotContact": "No otorga bonus de puntos de contacto",
             "Capacites": "Da un bonus a las habilidades de armadura",
@@ -2733,8 +2741,8 @@
             "RECUPERATION": {
                "Pa": "Recupera toda la armadura",
                "NotPa": "No recupera toda la armadura",
-               "Ps": "Recupera toda la salud",
-               "NotPs": "No recupera toda la salud",
+               "Ps": "Recupera toda la vida",
+               "NotPs": "No recupera toda la vida",
                "Pe": "Recupera toda la energía",
                "NotPe": "No recupera toda la energía"
             },
