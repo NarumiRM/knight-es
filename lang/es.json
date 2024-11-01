@@ -2232,6 +2232,9 @@
          "SingularRecupereArmure":"Recupera {value} punto de armadura",
          "SingularRecupereEnergie":"Recupera {value} punto de energía",
          "SingularRecupereSante":"Recupera {value} punto de vida",
+         "ModeHeroique":"Modo Heroico",
+         "AppliquerEffets":"Aplicar todos los efectos",
+         "AppliquerEffetsAll":"Aplicar efectos a todos los objetivos",
          "RESULTATS":{
             "Affecte":"Afectado",
             "PasAffecte":"No afectado",
@@ -2241,6 +2244,7 @@
             "VsDefense":"vs Defensa",
             "PFTarget":"¡Apuntado a punto débil!",
             "DegatsAvec":"Daño con {avec}",
+            "ViolenceAvec":"Violencia con {avec}",
             "ProtegePar":"Protegido por {aspect}"
          },
          "CHAIRD2": {
