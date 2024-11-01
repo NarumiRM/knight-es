@@ -1,96 +1,96 @@
 {
-  "label": "Disadvantages - AI",
+  "label": "Desventajas - IA",
   "mapping": {
     "description": "system.description"
   },
   "entries": {
     "Aucun": {
-      "name": "None",
-      "description": "<p>The AI does not wish to help its wearer and therefore offers no disadvantage.</p>\n"
+      "name": "Ninguno",
+      "description": "<p>Como la IA no desea ayudar a su portador, no ofrece ningún penalizador.</p>\n"
     },
     "Bornée": {
-      "name": "Stubborn",
-      "description": "<p>The AI of the armour is resistant to change, especially if it concerns itself, and takes longer to adapt to new equipment or the addition of modules. In game terms, purchasing new equipment or modules for the character costs 5 additional PG.</p>\n"
+      "name": "Tozudo",
+      "description": "<p>La IA de la armadura se resiste a los cambios, especialmente si le afectan a ella misma, y tarda más en adaptarse a un cambio de equipo o a la adición de módulos. En términos de juego, comprar nuevo equipo o módulos para el personaje cuesta 5 PG extra.</p>\n"
     },
     "Curieuse": {
-      "name": "Curious",
-      "description": "<p>The AI can sometimes address an interlocutor on behalf of the player to interrogate them. It then takes the voice of the knight wearing the armour through the voice synthesizer. In this case, the AI does not hesitate to ask disturbing questions, similar to those that young children ask, which, although naive in their mouths, may not be so in the mouth of a knight.</p>\n"
+      "name": "Curioso",
+      "description": "<p>De vez en cuando, la IA puede hablar con alguien en el lugar del PJ para interrogarle. En ese caso, adopta la voz del caballero que lleva la armadura mediante el sintetizador de voz. En este caso, la IA no duda en hacer preguntas inquietantes, como las que hacen los niños pequeños, aunque sean ingenuas en su propia boca, pero no necesariamente en la de un caballero.</p>\n"
     },
     "Encline au désespoir": {
-      "name": "Prone to Despair",
-      "description": "<p>The AI of the armour is sensitive, perhaps too much so. When everything is going well, it remains true to itself, but if it encounters too much despair, it will also succumb to it, taking its wearer with it. In game terms, when the knight must make a test to resist despair, the difficulty increases by 1.</p>\n"
+      "name": "Llevar a la desesperanza",
+      "description": "<p>La IA de la armadura es sensible, demasiado sensible, de hecho. Cuando todo va bien, se mantiene fiel a sí misma, pero si se acerca demasiado a la desesperanza, acaba hundiéndose también en ella, llevándose consigo a su portador. En términos de juego, cuando el caballero tiene que hacer una tirada para resistir la desesperanza, su dificultad aumenta en 1.</p>\n"
     },
     "Excès": {
-      "name": "Excess",
-      "description": "<p>The AI 'pushes to crime': as soon as the knight finds themselves in a situation where they can give in to excess, the armour automatically unfolds and pushes them towards this flaw. In game terms, any test to resist loss of self-control, intoxication, drugs, sex, gluttony, etc., is resolved with a penalty of 2 dice (minimum 1).</p>\n"
+      "name": "Exceso",
+      "description": "<p>La IA «empuja al crimen»: tan pronto como el caballero se encuentra en una situación en la que puede permitirse excesos, la armadura se desplega automáticamente y le empuja hacia ello. En términos de juego, cualquier tirada para resistir una pérdida de autocontrol, embriaguez, drogas, sexo, gula, etc. se resuelve con un malus de 2 dados (mínimo 1).</p>\n"
     },
     "Gesticulation constante": {
-      "name": "Constant Gesturing",
-      "description": "<p>The AI of the armour needs to be in constant motion, otherwise it becomes unbearable for the knight to the point of eventually making a mistake. In game terms, the armour moves continuously, and this affects all tests based on the <em>Discretion</em> characteristic, which then receive a penalty of 1.</p>\n"
+      "name": "Gesticulación constante",
+      "description": "<p>La IA de la armadura necesita estar en constante movimiento, de lo contrario se volverá insoportable para el caballero y acabará haciendo alguna estupidez. En términos de juego, la armadura se mueve continuamente y hace que la dificultad de todas las tiradas basadas en la característica <em>Sigilo</em> aumente en 1.</p>\n"
     },
     "Illusion": {
-      "name": "Illusion",
-      "description": "<p>The AI seeks above all to protect its wearer and sometimes, when it is unfolded, it ensures to mask unpleasant things or potential dangers so that its knight does not throw themselves into them. In game terms, if the armour is unfolded, tests based on <em>Perception</em> to detect a danger or discover a horrible scene see their difficulty increase by 1.</p>\n"
+      "name": "Ilusión",
+      "description": "<p>El objetivo principal de la IA es proteger a su portador y, a veces, cuando está desplegada, intenta ocultar cosas desagradables o peligros potenciales para que su caballero no se abalance sobre ellos. En términos de juego, si la armadura está desplegada, las tiradas basadas en la característica <em>Percepción</em> para detectar un peligro o descubrir una escena horrible aumentan su dificultad en 1.</p>\n"
     },
     "Impétuosité": {
-      "name": "Impetuosity",
-      "description": "<p>The AI is fearless and fights to the death if necessary. In game terms, as long as the armour is unfolded, it is impossible for the knight to flee from a combat or altercation.</p>\n"
+      "name": "Impetuosidad",
+      "description": "<p>La IA no teme a nada ni a nadie, y luchará hasta la muerte si es necesario. En términos de juego, mientras la armadura esté desplegada, es imposible que el caballero huya de una pelea o altercado.</p>\n"
     },
     "Interdiction de mentir": {
-      "name": "Prohibition of Lying",
-      "description": "<p>The AI abhors lying more than anything and ensures that its knight does not use it. Therefore, it scrambles the vocalisers of the armour if the knight attempts to lie. In game terms, all tests aimed at deceiving someone receive a penalty of 1.</p>\n"
+      "name": "Prohibición a mentir",
+      "description": "<p>La IA aborrece la mentira más que cualquier otra cosa y se asegura de que sus caballeros no la utilicen. Por ello, desordena los vocalizadores de la armadura si el caballero intenta mentir. En términos de juego, todas las tiradas diseñadas para engañar a una persona reciben un malus de 1.</p>\n"
     },
     "Invasive": {
-      "name": "Invasive",
-      "description": "<p>The AI of the armour is in love with its wearer. It can show jealousy if the character encounters someone with whom they form romantic bonds. In game terms, anyone who gets too close to the knight, in a carnal or emotional way, is rejected by the AI passively or actively, even to the point of a frontal attack.</p>\n"
+      "name": "Invasivo",
+      "description": "<p>la IA de la armadura está enamorada de su portador. Puede volverse celosa si el personaje conoce a alguien con quien mantiene una relación amorosa. En términos de juego, cualquiera que se acerque demasiado al caballero, desde un punto de vista carnal o emocional, es rechazado por la IA pasiva o activamente, hasta llegar a un ataque frontal.</p>\n"
     },
     "Jugement informatique": {
-      "name": "Computer Judgment",
-      "description": "<p>The AI of the armour is very critical of the knight who is not allowed to make mistakes. When they make a mistake or do not follow the AI's advice, it applies a sanction. In game terms, if the knight fails two consecutive tests (same base, whatever it may be), the armour folds for 1 turn or about ten seconds.</p>\n"
+      "name": "Juicio informático",
+      "description": "<p>La IA de la armadura es muy crítica con el caballero, que no tiene derecho a cometer errores. Si comete un error o no sigue los consejos de la IA, ésta le aplicará una penalización. En términos de juego, si el caballero falla la misma tirada dos veces seguidas (en la misma base, sea cual sea), la armadura se pliega durante 1 turno o unos diez segundos.</p>\n"
     },
     "Libertine": {
-      "name": "Libertine",
-      "description": "<p>The AI of the armour overflows with sensuality and tries by all means to live a carnal love by proxy through its wearer. If it senses that its knight is about to have a sensual or sexual exchange, it unfolds the meta-armour itself to cover the knight's body and feel a little of the human warmth it seeks. In game terms, the knight must manage an armour that does its own thing when physical relationships become more intimate.</p>\n"
+      "name": "Libertino",
+      "description": "<p>La IA de la armadura rebosa sensualidad e intenta por todos los medios experimentar el amor carnal por medio de su portador. Si detecta que su caballero está a punto de tener un intercambio sensual o sexual, despliega la propia meta-armadura para cubrir el cuerpo del caballero y sentir un poco del calor humano que busca. En términos de juego, el caballero tiene que lidiar con una armadura que hace lo que quiere cuando las relaciones físicas se vuelven más íntimas.</p>\n"
     },
     "Négociateur": {
-      "name": "Negotiator",
-      "description": "<p>The AI of the armour does not like conflicts, imbalance, or 'non-symmetry'. It always does its best to smooth things over or bring a solution that engages in dialogue. In game terms, the AI of the armour can decide to discuss before acting. During its first turn in a conflict phase, the character always acts last, and its movement action is dedicated to an opening phrase for dialogue.</p>\n"
+      "name": "Negociador",
+      "description": "<p>A la IA de la armadura no le gustan los conflictos, el desequilibrio o la «asimetría». Siempre hace todo lo posible para suavizar las cosas o llegar a una solución que implique el diálogo. En términos de juego, la IA de la armadura puede decidir discutir las cosas antes de pasar a la acción. En su primer turno en la fase de conflicto, el personaje siempre actúa el último y su acción de movimiento se dedica a una frase que abre un diálogo.</p>\n"
     },
     "Orgueilleux": {
-      "name": "Proud",
-      "description": "<p>The AI of the armour is proud. It thinks it is the best and that its knight is also the best, distinguishing themselves on the battlefield like a true hero! Thus, it refuses to be helped. Without being solitary, it does not tolerate assistance. In game terms, the knight cannot benefit from help from other PCs. This does not apply to heroic mode since the knight is at the heart of the action.</p>\n"
+      "name": "Orgulloso",
+      "description": "<p>La IA de la armadura es orgullosa. Piensa que es la mejor y que su caballero también lo es, ¡que destaca en el campo de batalla como un verdadero héroe! Por eso se niega a que la ayuden. No es una solitaria, pero no soporta que la ayuden. En términos de juego, el caballero no puede ser ayudado por los demás personajes. Esto no se aplica al modo heroico, ya que el caballero está en el centro de la acción.</p>\n"
     },
     "Pessimiste": {
-      "name": "Pessimistic",
-      "description": "<p>When the situation seems badly engaged, the AI of the armour begins to lose courage and combativeness, which affects its functionalities. In game terms, twice only per conflict phase, as long as the enemies are more numerous or have more HP than the knights of the coterie, the GM can force a player to reroll a successful dice roll.</p>\n"
+      "name": "Pesimista",
+      "description": "<p>Cuando la situación parece ir mal, la IA de la armadura empieza a perder valor y espíritu de lucha, lo que se refleja en su funcionalidad. En términos de juego, sólo dos veces por fase de conflicto, siempre que los enemigos sean superados en número o tengan más PV que los caballeros de la cota, el DJ puede obligar a un jugador a repetir una tirada de dados exitosa.</p>\n"
     },
     "Prisonnier": {
-      "name": "Prisoner",
-      "description": "<p>The AI desires above all to become complete and, for this, it needs its other, the knight, to unite with it definitively. It never folds, except if by mutual agreement the knight and the machine consider that the situation requires the armour to be folded. But as soon as this situation has passed, the armour automatically returns to its place. In game terms, the player cannot fold as they wish.</p>\n"
+      "name": "Prisionero",
+      "description": "<p>La IA desea por encima de todo llegar a ser completa y, para ello, necesita que su otro, el caballero, se una a ella definitivamente. Nunca se pliega, a menos que el caballero y la máquina estén de acuerdo en que la situación requiere que la armadura lo haga. Sin embargo, una vez superada esta situación, la armadura vuelve automáticamente a su sitio. En términos de juego, el jugador no puede plegarla a su antojo.</p>\n"
     },
     "Psychorigide": {
-      "name": "Psychorigid",
-      "description": "<p>The AI of the armour is obsessed with purity and virtue, to the point of becoming rigid towards everything and anything. The knight no longer has the possibility to make a mistake or deviate from the right path. In game terms, as soon as the knight ventures onto the path of vice (alcohol, sex, gluttony, hatred, etc.), the armour automatically unfolds and is reluctant to move. All tests performed in these cases see their difficulty increase by 1.</p>\n"
+      "name": "Psicorrígido",
+      "description": "<p>La IA de la armadura está obsesionada con la pureza y la virtud, hasta el punto de volverse rígida hacia todo y cualquier cosa. El caballero ya no puede cometer errores ni desviarse del camino recto. En términos de juego, en cuanto el caballero se aventura por el camino del vicio (alcohol, sexo, gula, odio, etc.), la armadura pierde automáticamente su color y se vuelve reacia a moverse. Todas las tiradas realizadas en estas situaciones aumentan su dificultad en 1.</p>\n"
     },
     "Réflexion intense": {
-      "name": "Intense Reflection",
-      "description": "<p>The AI constantly analyzes its surroundings to calculate an ideal approach and takes time before launching into action. In game terms, when the armour is unfolded, the character loses 2 in <em>Initiative</em>.</p>\n"
+      "name": "Reflexión intensa",
+      "description": "<p>La IA analiza constantemente su entorno para calcular una aproximación ideal y se toma su tiempo antes de lanzarse a la acción. En términos de juego, cuando la armadura está desplegada, el personaje pierde 2 de <em>iniciativa</em>.</p>\n"
     },
     "Sacrifice": {
-      "name": "Sacrifice",
-      "description": "<p>The AI's tendencies towards sacrifice and the quest for a higher ideal are such that it leads its knight on this same path, whether they wish it or not. In game terms, during combat, if the armour is unfolded, it can interpose itself to receive an attack in place of another knight that it judges to be in need (at the GM's discretion, of course).</p>\n"
+      "name": "Sacrificio",
+      "description": "<p>La tendencia de la IA hacia el sacrificio y la búsqueda de un ideal superior es tal que arrastra a sus caballeros por este camino, lo quieran o no. En términos de juego, durante una batalla, si la armadura se despliega, puede intervenir para recibir un ataque en lugar de otro caballero que considere necesitado (a discreción del DJ, por supuesto).</p>\n"
     },
     "Silence": {
-      "name": "Silence",
-      "description": "<p>The AI of the armour cannot stand useless and sterile chatter. Consequently, when a discussion goes in circles or becomes boring, it cuts the microphones and speakers to avoid polluting the knight's mind with nonsense. In game terms, once per scenario, the knight can no longer hear or communicate with their surroundings until the armour decides that the discussion deserves its attention.</p>\n"
+      "name": "Silencio",
+      "description": "<p>La IA de la armadura no soporta la charla estéril y sin sentido. Como resultado, cuando una discusión se va por las ramas o le molesta, apaga los micrófonos y los altavoces. En términos de juego, una vez por escenario, el caballero ya no puede oír ni comunicarse con los que le rodean hasta que la armadura decida que la discusión merece su atención.</p>\n"
     },
     "Somnambule": {
-      "name": "Sleepwalker",
-      "description": "<p>The AI of the armour, although aware of the natural and obligatory need for rest of its knight, arranges to continue making discoveries during their sleep. In game terms, once per game, when the knight falls asleep or rests, the armour unfolds and explores the area where it is located for one to two hours before returning to its place. If it encounters people, it communicates as if it were the knight and, if it must take action, it does so. If it triggers a lively action scene, such as a combat, for example, its wearer must succeed in a base <em>Endurance</em> test with a difficult difficulty (4) to wake up.</p>\n"
+      "name": "Sonambulismo",
+      "description": "<p>La IA de la armadura, aunque es consciente de la necesidad natural y obligatoria de descansar de su caballero, consigue seguir haciendo descubrimientos mientras éste duerme. En términos de juego, una vez por partida, cuando el caballero se duerme o descansa, la armadura se despliega y explora la zona donde se encuentra durante una o dos horas antes de volver a su posición original. Si se encuentra con personas, se comunica como si fuera el caballero y, si tiene que actuar, lo hace. Si desencadena una escena de acción trepidante, como una pelea por ejemplo, el portador debe superar una tirada básica de <em>Aguante</em> con una dificultad difícil (4) para poder despertarse.</p>\n"
     },
     "Terreur": {
       "name": "Terror",
-      "description": "<p>The AI knows by what type of creature the knight it believes itself to be was killed. If it must face this type of being, it risks dramatically losing its means. In game terms, at the creation of the AI, the GM secretly chooses a type of creature; if the knight fights a similar entity, all their tests against it or aimed at allowing them to flee from it see their difficulty increase by 1.</p>\n"
+      "description": "<p>La IA sabe qué tipo de criatura ha matado al caballero que cree que es. Si tiene que enfrentarse a este tipo de ser, corre el riesgo de perder dramáticamente sus facultades. En términos de juego, cuando se crea la IA, el DJ elige en secreto un tipo de criatura. Si el caballero lucha contra una entidad similar, todas sus tiradas contra ella o diseñadas para permitirle escapar de ella aumentan su dificultad en 1.</p>\n"
     }
   }
 }
