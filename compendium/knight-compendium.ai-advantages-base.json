@@ -1,95 +1,95 @@
 {
-  "label": "Advantages - AI",
+  "label": "Ventajas - AI",
   "mapping": {
     "description": "system.description"
   },
   "entries": {"À l'unisson": {
-      "name": "In Unison",
-      "description": "<p>The AI of the armour appreciates the knight and feels complete when it is unfolded. All its actions are then fluid, man and machine becoming one. In game terms, the knight gains an additional movement action each turn, as long as the armour is unfolded and as long as they spend 4 energy points to use this additional action.</p>\n"
+      "name": "Al unísono",
+      "description": "<p>la IA de la armadura aprecia al caballero y se siente completa cuando se despliega. Todas sus acciones son entonces fluidas, hombre y máquina se convierten en uno. En términos de juego, el caballero gana una acción de movimiento extra cada turno, mientras la armadura esté desplegada y mientras gaste 4 de energía para usar este movimiento extra.</p>\n"
     },
     "Abnégation": {
-      "name": "Selflessness",
-      "description": "<p>The AI of the armour is capable of going very far to save the life of its knight, even to the point of shutting down to achieve it. In game terms, if the character is at death's door and as long as the armour has energy points, it spends them to transform the nanoC that compose it into nanoM to heal the knight. It can use up to 3D6 per turn, as long as it has energy points left. However, each health point restored reduces the armour points by one (in addition to the energy point that the maneuver costs), because the armour decomposes to heal the knight.</p>\n"
+      "name": "Abnegación",
+      "description": "<p>La IA de la armadura es capaz de hacer todo lo posible por salvar la vida de su caballero, aunque para ello tenga que morir. En términos de juego, si el personaje se está muriendo y mientras la armadura tenga puntos de energía, los utilizará para transformar los nanoCs que componen la armadura en nanoMs para curar al personaje. Puede utilizar un máximo de 3D6 por turno, mientras le queden puntos de energía. Sin embargo, cada punto de salud devuelto reduce los puntos de armadura en uno (además del coste en puntos de energía de la maniobra), ya que la armadura se descompone para curar al caballero.</p>\n"
     },
     "Amoureuse": {
-      "name": "In Love",
-      "description": "<p>The AI of the armour feels a sense of love towards its knight and tries by all means to anticipate their reactions to become one with them. In game terms, the knight gains a bonus of 1 in <em>Initiative</em>.</p>\n"
+      "name": "Enamorada",
+      "description": "<p>La IA de la armadura se siente enamorada de su caballero y hace todo lo posible por anticipar sus reacciones para convertirse en uno con él. En términos de juego, el caballero obtiene una bonificación de 1 en su <em>Iniciativa</em>.</p>\n"
     },
     "Aucun": {
-      "name": "None",
-      "description": "<p>The AI does not wish to help its wearer and therefore offers no advantage.</p>\n"
+      "name": "Ninguna",
+      "description": "<p>Como la IA no desea ayudar a su portador, no ofrece ninguna ventaja.</p>\n"
     },
     "Combative": {
-      "name": "Combative",
-      "description": "<p>The AI of the armour optimizes its combat capabilities to help its knight. As a result, the knight benefits from a difficulty reduction of 1 for tests based on the <em>Shooting</em> or <em>Combat</em> characteristic (to be determined when creating the AI), as long as the armour is unfolded.</p>\n"
+      "name": "Combativo",
+      "description": "<p>La IA de la armadura optimiza sus capacidades de combate para ayudar a su caballero. Como resultado, el caballero se beneficia de una reducción de dificultad de 1 en sus tiradas con base <em>A Distancia</em> o <em>Combate</em> (a elegir cuando se cree la IA), siempre que la armadura esté desplegada.</p>\n"
     },
     "Connaissances": {
-      "name": "Knowledge",
-      "description": "<p>The AI accumulates a lot of knowledge in its memory components. Tests based on the character's Knowledge characteristic are performed with a reduced difficulty of 1 when the armour is unfolded.</p>\n"
+      "name": "Conocimiento",
+      "description": "<p>La IA acumula una gran cantidad de conocimientos en sus componentes de memoria. Las tiradas basadas en la característica Conocimiento del personaje se realizan con dificultad reducida en 1 cuando la armadura está desplegada.</p>\n"
     },
     "Créative": {
-      "name": "Creative",
-      "description": "<p>The AI's questions can help the knight advance in their reflection on the current investigation or be of a more trivial nature. In game terms, at the GM's discretion, the AI can ask the player a question to guide them in a direction favorable to the advancement of the scenario.</p>\n"
+      "name": "Creativo",
+      "description": "<p>Las preguntas de la IA pueden ayudar al caballero a reflexionar sobre la investigación en curso, o ser de naturaleza más trivial. En términos de juego, el DJ puede utilizar la IA para hacer una pregunta al jugador para dirigirlo en una dirección que haga avanzar la trama.</p>\n"
     },
     "Détection de la vérité": {
-      "name": "Truth Detection",
-      "description": "<p>The AI has conditioned the sound amplifiers of the meta-armour to capture even the slightest differences in vocal intonations in its interlocutors and to perceive if they are lying. In game terms, all the knight's tests aimed at guessing if someone is lying to them see their difficulty reduced by 1.</p>\n"
+      "name": "Detectar la verdad",
+      "description": "<p>La IA ha acondicionado los amplificadores de sonido de la meta-armadura para captar hasta las más mínimas diferencias en las entonaciones vocales de sus interlocutores y detectar si mienten. En términos de juego, todas las tiradas del caballero para adivinar si alguien le está mintiendo ven reducida su dificultad en 1.</p>\n"
     },
     "Force morale": {
-      "name": "Moral Strength",
-      "description": "<p>The AI of the armour brings strength of character and composure to the knight in moments of doubt and stress. In game terms, during tests based on the <em>Composure</em> characteristic, the difficulty is reduced by 1.</p>\n"
+      "name": "Fortaleza",
+      "description": "<p>TLa IA de la armadura da al caballero fuerza de carácter y compostura en momentos de duda y estrés. En términos de juego, cuando las tiradas se basan en la característica <em>Compostura</em>, la dificultad se reduce en 1.</p>\n"
     },
     "Impétueuse": {
-      "name": "Impetuous",
-      "description": "<p>The AI of the knight's armour loves combat and proving its worth is very important to it. It engages in combat with ferocity and vigor. In game terms, when the meta-armour is unfolded, all tests based on the <em>Ferocity</em> characteristic see their difficulty reduced by 1.</p>\n"
+      "name": "Impetuosa",
+      "description": "<p>A la IA en la armadura del caballero le encanta una buena pelea y demostrar su valía es muy importante para ella. Se lanza a la batalla con fiereza y pasión. En términos de juego, cuando se despliega la meta-armadura, la dificultad de todas las tiradas basadas en la característica <em>Agresividad</em> se reduce en 1.</p>\n"
     },
     "Jugement de la lumière": {
-      "name": "Judgment of Light",
-      "description": "<p>The AI has succeeded in magnifying certain components of the armour so that they provide a special effect to an attack carried out by the knight when it is unfolded. In game terms, once per conflict phase, the attacks carried out by the knight (in melee or at range) during a turn benefit from the <em><em>anti-Anathema</em></em> effect.</p>\n"
+      "name": "Juicio de la luz",
+      "description": "<p>La IA ha conseguido magnificar algunos de los componentes de la armadura para que proporcionen un efecto especial a un ataque que lleve el caballero cuando se despliega. En términos de juego, una vez por fase de conflicto, los ataques realizados por el caballero (cuerpo a cuerpo o a distancia) durante un turno se benefician del efecto <em>Anti-Anathema</em>.</p>\n"
     },
     "Lueur d'espoir": {
-      "name": "Glimmer of Hope",
-      "description": "<p>The AI manages to magnify the armour so that it shines like a beacon in the night. The knight seems to impose their will on the darkness itself. In game terms, once per game, if the armour is unfolded and the knight is part of a group that gains hope, this gain is increased by two points for the allies (PCs and NPCs).</p>\n"
+      "name": "Destello de esperanza",
+      "description": "<p>La IA consigue magnificar la armadura para que brille como un faro en la noche. El caballero parece imponer su ley a la propia oscuridad. En términos de juego, una vez por partida, si la armadura se despliega y el caballero forma parte de un grupo que gana esperanza, esta ganancia se incrementa en dos puntos para los aliados (PJs y PNJs).</p>\n"
     },
     "Lumière": {
-      "name": "Radiance",
-      "description": "<p>The AI guides the knight in the darkness, no matter what. To do this, it magnifies their armour and moves in such a way as to always reflect a little light. In game terms, the knight always benefits from the light aspect 1 for their attacks against the creatures of the Anathema.</p>\n"
+      "name": "Luz",
+      "description": "<p>La IA guía al caballero a través de la oscuridad, pase lo que pase. Para ello, amplía su armadura y se mueve de forma que siempre refleje un poco de luz. En términos de juego, el caballero siempre se beneficia del efecto Luz 1 para sus ataques contra criaturas de la Anathema.</p>\n"
     },
     "Mémoire du chevalier": {
-      "name": "Knight's Memory",
-      "description": "<p>The AI is so convinced of being a knight who died in combat that it has scanned all possible databases and even the most secret files of the Knight. It has therefore built up a large stock of memories and experiences. In game terms, once per game, the knight can obtain 2 automatic successes on one of their tests, whatever it may be, in addition to those they can obtain through possible overdrives: the AI recognizes a situation 'that it has already experienced'.</p>\n"
+      "name": "Memoria de caballero",
+      "description": "<p>La IA está tan convencida de que es un caballero que ha muerto en combate que ha escaneado todas las bases de datos posibles e incluso los archivos más secretos de Knight. Como resultado, ha acumulado una gran cantidad de recuerdos y experiencias. En términos de juego, una vez por partida, el caballero puede obtener 2 éxitos automáticos en cualquiera de sus tiradas, además de los que pueda obtener mediante sobrecargas: la IA reconoce una situación «que ya ha experimentado».</p>\n"
     },
     "Noble conseiller": {
-      "name": "Noble Advisor",
-      "description": "<p>The AI greatly enhances the character's decision-making and provides them with a majesty that they may not possess without their armour. As a result, all tests based on the <em>Aura</em> characteristic have a reduced difficulty of 1.</p>\n"
+      "name": "Consejero noble",
+      "description": "<p>La IA mejora en gran medida la toma de decisiones del personaje y le da una majestuosidad que tal vez no tendría sin su armadura. Como resultado, todas las tiradas basadas en la característica <em>Aura</em> ven reducida su dificultad en 1.</p>\n"
     },
     "Passionnée": {
-      "name": "Passionate",
-      "description": "<p>The AI of the armour is passionate and a risk-taker. It intends for its knight to follow it even into hell if necessary to win the battle. For this reason, when the player attempts an extremely perilous action, the AI does everything in its power to ensure they emerge victorious. In game terms, when the GM deems that the player is attempting a reckless or extreme action, the AI draws on its energy to support its knight: for every 4 EP spent, the knight can add 1 die to one of their rolls (within the energy limit of the meta-armour).</p>\n"
+      "name": "Apasionada",
+      "description": "<p>La IA de la armadura es apasionada y arriesgada. Quiere que su caballero la siga incluso hasta el infierno y vuelva si es necesario para ganar la batalla. Por esta razón, cuando el PJ intenta una acción extremadamente peligrosa, la IA hace todo lo posible para que salga victorioso. En términos de juego, cuando el DJ considera que el jugador está intentando una locura o una acción extrema, la IA recurre a su energía para apoyar al caballero: por cada 4 PE gastados, el caballero puede añadir 1 dado a una de sus tiradas (dentro del límite de energía de la meta-armadura).</p>\n"
     },
     "Protection maternelle": {
-      "name": "Maternal Protection",
-      "description": "<p>The AI of the armour considers its wearer as its child and does everything in its power to keep them alive. It can therefore take the initiative to automatically administer a care nod and/or armour (without costing the knight any action) if it considers that the character is in danger (and all the more so if they are unconscious). Furthermore, it is able to trigger the alert beacon to Camelot so that reinforcements are sent if necessary.</p>\n"
+      "name": "Protección maternal",
+      "description": "<p>La IA de la armadura considera a su portador como su hijo y hace todo lo que está en su mano para mantenerlo con vida. Por lo tanto, puede tomar la iniciativa y administrar automáticamente nodos de curación y/o de armadura (sin que al caballero le cueste ninguna acción) si considera que el personaje está en peligro (especialmente si está inconsciente). Además, puede activar la baliza de aviso a Camelot para que se envíen refuerzos si es necesario.</p>\n"
     },
     "Relais": {
-      "name": "Relay",
-      "description": "<p>The AI understands that there are times when the knight must sleep and rest, voluntarily or forced by injuries or shocks. Once per mission, if the knight falls unconscious for any reason (sleeping pill, agony, shock, etc.) and the armour is unfolded, it continues the action until their awakening at a cost of 3 energy points per turn (or 10-second interval) and until the armour has no more energy. It then takes full control of the armour and what it holds to continue the action in which it was engaged (finish a combat, a verbal joust, etc...). As soon as the knight regains consciousness, control of the armour is returned to them.</p>\n"
+      "name": "Relevo",
+      "description": "<p>La IA entiende que hay momentos en los que el caballero debe dormir y descansar, voluntariamente o forzado por una herida o un shock. Una vez por misión, si el caballero cae inconsciente por un motivo u otro (somnífero, agonía, conmoción, etc.) y la armadura está desplegada, continúa la acción esperando a que despierte a un coste de 3 puntos de energía por turno (o cada 10 segundos) hasta que la armadura se quede sin energía. Entonces toma el control total de la armadura y de lo que esté sujetando para continuar la acción en la que estaba inmerso (finalizar un combate, una justa verbal, etc.). Tan pronto como el caballero recupere la consciencia, el control de la armadura se restablece.</p>\n"
     },
     "Rêve prémonitoire": {
-      "name": "Prophetic dreams",
-      "description": "<p>The AI firmly believes in premonitory dreams and this is one of the reasons why it often analyzes those of its knight. It records many details and can occasionally find similarities or impressions of 'déjà-vu' in reality. It is then able to adapt the reactions of the armour accordingly. In game terms, the AI allows the knight to avoid a normally fatal blow once per scenario (the attack is simply canceled, as if it had not been made).</p>\n"
+      "name": "Sueño premonitorio",
+      "description": "<p>La IA cree sinceramente en los sueños premonitorios, que es una de las razones por las que a menudo analiza los sueños de su caballero. Registra muchos detalles y, en ocasiones, puede encontrar similitudes o impresiones de «déjà vu» en la realidad. Así, puede adaptar las reacciones de la armadura en consecuencia. En términos de juego, la IA permite al caballero evitar un golpe normalmente mortal una vez por escenario (el ataque simplemente se cancela, como si no se hubiera realizado).</p>\n"
     },
     "Roue de la fortune": {
-      "name": "Wheel of Fortune",
-      "description": "<p>The AI of the armour firmly believes in luck, but a controlled luck. In game terms, twice per game, the player can completely reroll a dice roll but must accept the result of this new roll, even if it is worse.</p>\n"
+      "name": "Rueda de la fortuna",
+      "description": "<p>La IA de la armadura cree firmemente en la suerte, pero en una suerte controlada. En términos de juego, dos veces por partida, el jugador puede repetir completamente una tirada de dados, pero tendrá que aceptar el resultado de esta nueva tirada, aunque no sea tan bueno.</p>\n"
     },
     "Trouver l'étoile": {
-      "name": "Find the Star",
-      "description": "<p>The AI is connected to the sky and the stars, even when they are not visible to the naked eye or in the darkest obscurity. It is impossible for the knight to get lost, even in the deepest darkness: they always know the direction of the North Star and consequently the north, even under the darkness.</p>\n"
+      "name": "Encontrar la estrella",
+      "description": "<p>la AI está conectada con el cielo y las estrellas, incluso cuando no son visibles a simple vista o en la más terrible oscuridad. Es imposible que el caballero se pierda, incluso en la más profunda oscuridad: siempre conoce la dirección de la estrella polar y, por tanto, el norte, incluso al amparo de la oscuridad.</p>\n"
     },
     "Vertueuse": {
-      "name": "Virtuous",
-      "description": "<p>The AI of the armour watches over the soul of its knight to keep them on the right path. It is more difficult to take control of their mind or make them do something reprehensible. In game terms, all tests aimed at resisting mental control or deception see their difficulty reduced by 1.</p>\n"
+      "name": "Virtuoso",
+      "description": "<p>La IA de la armadura vela por el alma de su caballero para mantenerlo en el buen camino. Es más difícil tomar el control de su mente o hacerle hacer algo reprobable. En términos de juego, todas las tiradas destinadas a resistir el control mental o los engaños tienen su dificultad reducida en 1.</p>\n"
     }
   }
 }
