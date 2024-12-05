@@ -747,7 +747,10 @@
          "CHARGEUR": {
             "Label": "Cargador",
             "Description": "El arma o módulo se puede usar X veces por misión. Una vez se llega al número de usos indicados ya no se puede activar o utilizar. Se recarga gratis en Camelot.",
-            "Description-short": "El arma o módulo se puede usar X veces por misión."
+            "Description-short": "El arma o módulo se puede usar X veces por misión.",
+            "Restaurer":"Restaurar todos los usos de Cargador",
+            "RemplirChargeur":"Recuperar 1 uso de Cargador",
+            "ViderChargeur":"Eliminar 1 uso de Cargador"
          },
          "CHOC": {
             "Label": "Aturdimiento",
@@ -2235,6 +2238,10 @@
          "ModeHeroique":"Modo Heroico",
          "AppliquerEffets":"Aplicar todos los efectos",
          "AppliquerEffetsAll":"Aplicar efectos a todos los objetivos",
+         "ChargeurVide":"Cargador vacío",
+         "RemplirChargeur":"Recuperar todos los Cargadores",
+         "Remet1Charge":"Recuperar 1 carga",
+         "Retire1Charge":"Eliminar 1 carga",
          "RESULTATS":{
             "Affecte":"Afectado",
             "PasAffecte":"No afectado",
@@ -2359,6 +2366,8 @@
          "ConfirmationArmure":"¿Estás seguro de que quieres recuperar toda la armadura?",
          "ConfirmationSante":"¿Estás seguro de que quieres recuperar toda la vida?",
          "ConfirmationEspoir":"¿Estás seguro de que quieres recuperar toda la esperanza?",
+         "ConfirmationChargeur":"¿Estás seguro de que quieres recuperar todos los cargadores?",
+         "ConfirmationContacts":"¿Estás seguro de que quieres recuperar todos los puntos de contacto?",
          "Reset":"Reiniciar",
          "Difficulte":"Dificultad",
          "MJOnly":"Solo DJ",
@@ -2796,7 +2805,8 @@
          "Armure": "Restaurar armadura",
          "Energie": "Restaurar energía",
          "Grenades": "Restaurar granadas",
-         "Nods": "Restaurar nodos"
+         "Nods": "Restaurar nodos",
+         "Contacts":"Restaurar puntos de contacto"
       },
       "HIDESHOW":{
          "Hide":"Pulsar para ocultar este apartado cuando la visión de la ficha está limitada.",
