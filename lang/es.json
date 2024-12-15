@@ -2108,7 +2108,8 @@
                "Has":"Aplica/Tiene efectos",
                "Hasnt":"No aplica/No tiene efectos"
             },
-            "CoutAugmentation": "Energía por aumento"
+            "CoutAugmentation": "Energía por aumento",
+            "CoutAttaque":"Energía por ataque"
          },
          "ARME": {
             "Nom": "Nombre de arma",
@@ -2195,7 +2196,7 @@
          "Exploit": "Abierta",
          "EchecCritique": "Pifia",
          "Des-short": "D",
-         "Modificateur": "Dados adicionales",
+         "Modificateur": "Modificador",
          "ModificateurDegats": "Modificador de daño",
          "ModificateurViolence": "Modificador de violencia",
          "JetEspoir": "Tirada de esperanza",

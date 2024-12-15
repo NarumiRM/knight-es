@@ -13,7 +13,7 @@
         "id": "knight",
         "type": "system",
         "compatibility": {
-          "verified": "3.39.1"
+          "verified": "3.40.0"
         }
       }
     ]
