@@ -1,6 +1,6 @@
 Hooks.on('init', () => {
     const module = {
-        module: 'knight-compendium',
+        module: 'knight-es',
         lang: 'es',
         dir: 'compendium',
     };
