@@ -1,5 +1,5 @@
 {
-  "label": "Human and creatures weapons",
+  "label": "Armas de humanos y criaturas",
   "mapping": {
     "description": "system.description",
     "m0Nom": "system.optionsmunitions.liste.0.nom",
@@ -9,91 +9,91 @@
   },
   "entries": {
     "Aiguilles de ténèbres": {
-      "name": "Dark needles",
+      "name": "Agujas de oscuridad",
       "description": ""
     },
     "Arbalète watson": {
-      "name": "Watson crossbow",
+      "name": "Ballesta de Watson",
       "description": ""
     },
     "Arc": {
-      "name": "Bow",
+      "name": "Arco",
       "description": ""
     },
     "Arc de puissance ténébreuse": {
-      "name": "Arc of dark power",
+      "name": "Arco de poder oscuro",
       "description": ""
     },
     "Arme antique": {
-      "name": "Ancient weapon",
+      "name": "Arma antigua",
       "description": ""
     },
     "Arme blanche": {
-      "name": "Bladed weapon",
+      "name": "Arma blanca",
       "description": ""
     },
     "Arme de lumiere": {
-      "name": "Radiant weapon",
+      "name": "Arma luminosa",
       "description": ""
     },
     "Arme improvisée": {
-      "name": "Improvised weapon",
+      "name": "Arma improvisada",
       "description": ""
     },
     "Arme lourde": {
-      "name": "Heavy weapon",
+      "name": "Arma pesada",
       "description": ""
     },
     "Arme lourde du faune": {
-      "name": "Fauns's heavy weapon",
+      "name": "Arma pesada de fauno",
       "description": ""
     },
     "Arme polymorphe de Rubilacxe (Contact)": {
-      "name": "Rubilacxe polymorphic weapon (Melee)",
-      "description": "<p><strong>Effect:</strong> <em>ignore armour</em>, <em>ignore FF</em> or <em>anti-vehicle</em>.</p>"
+      "name": "Arma polimórfica de Rubilax (Contacto)",
+      "description": "<p><strong>Efecto:</strong> <em>ignora armadura</em>, <em>ignora CdF</em> o <em>anti-vehículo</em>.</p>"
     },
     "Arme polymorphe de Rubilacxe (Tir)": {
-      "name": "Rubilacxe polymorphic weapon (Ranged)",
-      "description": "<p><strong>Effect:</strong> <em>scatter 6</em>, <em>stun 2</em> or <em>barrage 6</em>.</p>"
+      "name": "Arma polimórfica de Rubilax (A distancia)",
+      "description": "<p><strong>Efecto:</strong> <em>dispersión 6</em>, <em>aturdimiento 2</em> o <em>bombardeo 6</em>.</p>"
     },
     "Armes de chair et d'os": {
-      "name": "Weapons of flesh and bone",
-      "description": "<p><strong>Effects:</strong> <em>ignore armour</em> or <em>ignore FF</em></p>"
+      "name": "Arma de carne y hueso",
+      "description": "<p><strong>Efecto:</strong> <em>ignora armadura</em> o <em>ignora CdF</em></p>"
     },
     "Arquebuse": {
-      "name": "Arquebus",
+      "name": "Arcabuz",
       "description": ""
     },
     "Branche de chair": {
-      "name": "Flesh branch",
+      "name": "Rama de carne",
       "description": ""
     },
     "Canon à graviton": {
-      "name": "Graviton cannon",
-      "description": "<p><strong>Energy:</strong> 20 per shot</p>\n<p><strong>Effects:</strong> Doubles the damage against buildings and infrastructure, requires being held by the mecha.</p>"
+      "name": "Cañón de gravitación",
+      "description": "<p><strong>Energía:</strong> 20 por disparo</p>\n<p><strong>Efectos:</strong> Dobla de la violencia contra los edificios e infraestructura, tiene que ser sostenido en la mano por el mecha.</p>"
     },
     "Canon à plasma": {
-      "name": "Plasma cannon",
+      "name": "Cañón de plasma",
       "description": ""
     },
     "Canon de bras": {
-      "name": "Arm cannon",
+      "name": "Cañón de brazo",
       "description": ""
     },
     "Cantique de souffrance": {
-      "name": "Song of suffering",
+      "name": "Canción de sufrimiento",
       "description": ""
     },
     "Chant du désespoir": {
-      "name": "Song of despair",
+      "name": "Canción de desesperación",
       "description": ""
     },
     "Cimeterre": {
-      "name": "Scimitar",
+      "name": "Cimitarra",
       "description": ""
     },
     "Colonne de lumière": {
-      "name": "Light column",
+      "name": "Columna luminosa",
       "description": ""
     },
     "Colts": {
@@ -101,163 +101,163 @@
       "description": ""
     },
     "Coup d'ombre": {
-      "name": "Shadow stroke",
+      "name": "Disparo sombrío",
       "description": ""
     },
     "Couronne du prince de la Chasse": {
-      "name": "Crown of the Prince of the Hunt",
+      "name": "Corona del príncipe de la Caza",
       "description": ""
     },
     "Cri": {
-      "name": "Scream ",
+      "name": "Grito",
       "description": ""
     },
     "Crocs": {
-      "name": "Fangs",
+      "name": "Colmillos",
       "description": ""
     },
     "Crocs titanesques": {
-      "name": "Titanic fangs",
+      "name": "Colmillos titánicos",
       "description": ""
     },
     "Dague serpent": {
-      "name": "Snake dagger",
+      "name": "Daga serpiente",
       "description": ""
     },
     "Deluge de coup": {
-      "name": "Deluge of blows",
+      "name": "Aluvión de golpes",
       "description": ""
     },
     "Dents et ongles": {
-      "name": "Tooth and nail",
+      "name": "Dientes y uñas",
       "description": ""
     },
     "Éclats d'abysse": {
-      "name": "Shards of abyss",
+      "name": "Fragmentos del abismo",
       "description": ""
     },
     "Éclats d'ombre": {
-      "name": "Shards of shadow",
+      "name": "Fragmentos sombríos",
       "description": ""
     },
     "Eclats d'abysse": {
-      "name": "Shards of abyss",
+      "name": "Fragmentos del abismo",
       "description": ""
     },
     "Eclats d'ombre": {
-      "name": "Shards of shadow",
+      "name": "Fragmentos sombríos",
       "description": ""
     },
     "Épée": {
-      "name": "Sword",
+      "name": "Espada",
       "description": ""
     },
     "Épée d'Excalibur corrompue": {
-      "name": "Corrupted Excalibur's sword",
+      "name": "Espada Excalibur corrupta",
       "description": ""
     },
     "Épée d'Excalibure": {
-      "name": "Excalibur's sword",
+      "name": "Espada Excalibur",
       "description": ""
     },
     "Épée prisme": {
-      "name": "Prism sword",
+      "name": "Espada prismática",
       "description": ""
     },
     "Épines d'os": {
-      "name": "Bone spines",
+      "name": "Espinas óseas",
       "description": ""
     },
     "épines d'os": {
-      "name": "Bone spines",
+      "name": "Espinas óseas",
       "description": ""
     },
     "Explosion d'Anathème": {
-      "name": "Anathema blast",
+      "name": "Explosión de Anathema",
       "description": ""
     },
     "Faille de défense": {
-      "name": "Defence breach",
+      "name": "Brecha de defensa",
       "description": ""
     },
     "Failles Explosives": {
-      "name": "Explosive rifts",
+      "name": "Brechas Explosivas",
       "description": ""
     },
     "Faisceau de lumière": {
-      "name": "Radiant beam",
+      "name": "Rayo de luz",
       "description": ""
     },
     "Fléau de guerre Apophis": {
-      "name": "Apophis war flail",
-      "description": "<p>when wielded on a Steed bike, the Apophis war flail deals double its usual damage dice (16D6 instead of 8D6).</p>"
+      "name": "Mayal de guerra Apofis",
+      "description": "<p>Manejado desde una moto steed, Apofis inflige el doble de sus dados de daño (16D6 en vez de 8D6).</p>"
     },
     "Frappe de ki": {
-      "name": "Ki strike",
+      "name": "Golpe de Ki",
       "description": ""
     },
     "Fureur de Raijin": {
-      "name": "Raijin's wrath",
-      "description": "<p>Twin fracture cesti</p>"
+      "name": "Furia de Raijin",
+      "description": "<p>Par de caestus destructivos</p>"
     },
     "Fusil": {
-      "name": "Rifle",
+      "name": "Fusil",
       "description": ""
     },
     "Fusil d'Excalibur corrompu": {
-      "name": "Corrupted excalibur's rifle",
+      "name": "Fusil Excalibur corrupto",
       "description": ""
     },
     "Fusil d'Excalibure": {
-      "name": "Excalibur's rifle",
+      "name": "Fusil Excalibur",
       "description": ""
     },
     "Grenade de spores": {
-      "name": "Spore grenades",
-      "description": "<p><strong>Effects:</strong> <em>Ignore FF</em>, <em>ignore armour</em> or <em>stun 2</em></p>"
+      "name": "Granadas de esporas",
+      "description": "<p><strong>Efectos:</strong> <em>Ignora CdF</em>, <em>ignora armaduras</em> o <em>aturdimiento 2</em></p>"
     },
     "Griffes de titan": {
-      "name": "Titan claws",
+      "name": "Garras titánicas",
       "description": ""
     },
     "Griffes en élément alpha": {
-      "name": "Alpha element claws",
+      "name": "Garras de elemento alpha",
       "description": ""
     },
     "Gueule de serpent": {
-      "name": "Snake maw",
+      "name": "Mandíbula de serpiente",
       "description": ""
     },
     "Gueule du vide": {
-      "name": "Empty maw",
+      "name": "Mandíbula de vacío",
       "description": ""
     },
     "ARMES EMPOISONNÉES": {
-      "name": "Poisoned weapons",
+      "name": "Armas envenenadas",
       "description": ""
     },
     "PROJECTILES EMPOISONNÉS": {
-      "name": "Poisoned projectiles",
+      "name": "Proyectiles envenenados",
       "description": ""
     },
     "Gungir, la lance d'Odin (contact)": {
-      "name": "Gungir, Odin's spear (melee)",
+      "name": "Gungir, lanza de Odín (contacto)",
       "description": ""
     },
     "Gungir, la lance d'Odin (distance)": {
-      "name": "Gungir, Odin's spear (ranged)",
+      "name": "Gungir, lanza de Odín (a distancia)",
       "description": ""
     },
     "Hache": {
-      "name": "Axe",
+      "name": "Hacha",
       "description": ""
     },
     "Haut pavois": {
-      "name": "Greatshield",
+      "name": "Escudo pavés",
       "description": ""
     },
     "Jet de soie": {
-      "name": "Silk spurt",
+      "name": "Brote de seda",
       "description": ""
     },
     "Katana": {
@@ -265,187 +265,187 @@
       "description": ""
     },
     "Katana cinétique": {
-      "name": "Kinetic Katana",
+      "name": "Katana cinética",
       "description": ""
     },
     "Katana cinétique géant": {
-      "name": "Giant kinetic katana",
+      "name": "Katana cinética gigante",
       "description": ""
     },
     "La foreuse": {
-      "name": "The Drill",
-      "description": "<p>If the drill inflicts damage on an enemy (to their AP or their HP), the GM chooses one of the following: one of the target NPC‘s weapons or modules is destroyed, one of their abilities cannot be used for the next two turns, or the target no longer has a FF or shielding score for the next two turns. Several of these effects can stack on the same enemy.</p>"
+      "name": "El Taladro",
+      "description": "<p>Si el Taladro inflige daño a un enemigo (afectando a sus PV o PA), entonces el DJ elige uno de los siguientes efectos: el arma o módulo de un PNJ es destruido, la habilidad de un PNJ no puede ser usada durante los dos turnos siguientes, o el personaje objetivo ya no tiene CdF o escudo durante los dos turnos siguientes. Este efecto puede repetirse varias veces sobre el mismo enemigo.</p>"
     },
     "La voix": {
-      "name": "Chilling voice",
+      "name": "La voz",
       "description": ""
     },
     "Lame d'abysse": {
-      "name": "Abyssal blade",
+      "name": "Hoja del abismo",
       "description": ""
     },
     "Lame d'élément alpha": {
-      "name": "Alpha element blade",
+      "name": "Hoja de elemento alpha",
       "description": ""
     },
     "Lame de bras": {
-      "name": "Arm blade",
+      "name": "Hoja de brazo",
       "description": ""
     },
     "Lame de glace": {
-      "name": "Ice blade",
+      "name": "Hoja de hielo",
       "description": ""
     },
     "Lame et pics": {
-      "name": "Blades and spikes",
+      "name": "Espadas y picas",
       "description": ""
     },
     "Lance": {
-      "name": "Spear",
+      "name": "Lanza",
       "description": ""
     },
     "Maison-Dieu": {
-      "name": "Tower",
+      "name": "Torre",
       "description": ""
     },
     "Mandibules": {
-      "name": "Mandibles",
+      "name": "Mandíbulas",
       "description": ""
     },
     "Masque de bronze": {
-      "name": "Bronze mask",
+      "name": "Máscara de bronce",
       "description": ""
     },
     "Mecha-mitrailleuse": {
-      "name": "Mecha-machine gun",
+      "name": "Mecha-ametralladora",
       "description": ""
     },
     "Mélodie froide": {
-      "name": "Cold melody",
+      "name": "Melodía helada",
       "description": ""
     },
     "Membres multiples": {
-      "name": "Multiple members",
+      "name": "Miembros múltiples",
       "description": ""
     },
     "Nodachi cinétique géant": {
-      "name": "Giant kinetic nodachi",
+      "name": "Nodachi cinética gigante",
       "description": ""
     },
     "Nodachi du shogun": {
-      "name": "Shogun's Nodachi",
-      "description": "<p><strong>Damage:</strong> 4D6 + 18 (+1D6 per 1 per 1 energy point spent, 10D6 max)</p>\n<p><strong>Violence:</strong> 4D6 ( 1D6 per 1 energy point spent, 10D6 max)</p>"
+      "name": "Nodachi del shogun",
+      "description": "<p><strong>Daño:</strong> 4D6 + 18 (+1D6 por 1 punto de energía gastado, 10D6 máx)</p>\n<p><strong>Violencia:</strong> 4D6 ( 1D6 por 1 punto de energía gastado, 10D6 máx)</p>"
     },
     "Os taillé": {
-      "name": "Sharpened bone",
+      "name": "Hueso tallado",
       "description": ""
     },
     "Paire de hache a réaction attila et genghis": {
-      "name": "Twin rocket axes ‘Attila‘ and ‘Genghis‘",
+      "name": "Par de hachas a reacción ‘Atila‘ y ‘Genghis‘",
       "description": ""
     },
     "Paume vibratoire": {
-      "name": "Vibratory palm",
+      "name": "Palma vibratoria",
       "description": ""
     },
     "Pistolet de gros calibre": {
-      "name": "Large-calibre pistol",
+      "name": "Pistola de gran calibre",
       "description": ""
     },
     "Poings": {
-      "name": "Fists",
+      "name": "Puños",
       "description": ""
     },
     "Projection de corps": {
-      "name": "Body throw",
+      "name": "Lanzamiento de cuerpos",
       "description": ""
     },
     "Projection de métal": {
-      "name": "Metal launcher",
+      "name": "Lanzamiento de metal",
       "description": ""
     },
     "Projection de sang": {
-      "name": "Blood spraying",
+      "name": "Lanzamiento de sangre",
       "description": ""
     },
     "Prothèse taser": {
-      "name": "Taser prosthesis",
+      "name": "Prótesis taser",
       "description": ""
     },
     "Queue de scorpion": {
-      "name": "Scorpion tail",
+      "name": "Cola escorpión",
       "description": ""
     },
     "Railgun baliste": {
-      "name": "Balista railgun",
+      "name": "Balista de riel",
       "description": ""
     },
     "Railgun de poing": {
-      "name": "Handheld railgun",
+      "name": "Cañón de riel manual",
       "description": ""
     },
     "Rapière": {
-      "name": "Rapier",
+      "name": "Estoque",
       "description": ""
     },
     "Rayon": {
-      "name": "Beam",
-      "description": "<p>Requires 30 energy points</p>"
+      "name": "Rayo",
+      "description": "<p>Requiere 30 puntos de energía</p>"
     },
     "Serre du faucon (paire de lame de bras)": {
-      "name": "Claws of the hawk (twin arm blades)",
+      "name": "Garras de halcón (par de hojas de brazo)",
       "description": ""
     },
     "Tentacules": {
-      "name": "Tentacle",
+      "name": "Tentánculos",
       "description": ""
     },
     "Tetsubo de fracture géant": {
-      "name": "Giant fracture tetsubo",
-      "description": "<p><strong>Energy:</strong> 10 per attack</p>"
+      "name": "Tetsubo destructivo gigante",
+      "description": "<p><strong>Energía:</strong> 10 por ataque</p>"
     },
     "Tomahawk": {
       "name": "Tomahawk",
       "description": ""
     },
     "Touché glacial": {
-      "name": "Icy touch",
+      "name": "Toque glacial",
       "description": ""
     },
     "Tronçonneuse géante": {
-      "name": "Giant chainsaw",
+      "name": "Motosierra gigante",
       "description": ""
     },
     "Vague d'énergie alpha": {
-      "name": "Alpha energy wave",
+      "name": "Onda de energía alpha",
       "description": ""
     },
     "Vague de lumière": {
-      "name": "Radiant wave",
+      "name": "Onda luminosa",
       "description": ""
     },
     "Venin abyssal": {
-      "name": "Abyssal venom",
+      "name": "Veneno abisal",
       "description": ""
     },
     "Venin de l'ophidien": {
-      "name": "Ophidian venom",
+      "name": "Veneno del Ofidio",
       "description": ""
     },
     "Vision d'horreur": {
-      "name": "Vision of horror",
+      "name": "Visión terrorífica",
       "description": ""
     },
     "Vision désespérées": {
-      "name": "Desperate visions",
+      "name": "Visión desesperante",
       "description": ""
     },
     "Voix du désespoir": {
-      "name": "Voice of despair",
+      "name": "Voz de la desesperanza",
       "description": ""
     },
     "Wakizashi cinétique": {
-      "name": "Kinetic wakizashi",
+      "name": "Wakizashi cinética",
       "description": ""
     }
   }
