@@ -278,7 +278,8 @@
          "Resilience": "Resistencia",
          "Bouclier": "Escudo",
          "Noyaux": "Núcleos de Energía",
-         "Noyau": "Núcleo de Energía"
+         "Noyau": "Núcleo de Energía",
+         "ReductionPEs":"Reducción de pérdidas de esperanza"
       },
       "PERSONNAGE": {
          "Label": "Personaje",
@@ -785,7 +786,8 @@
          "DESIGNATION": {
             "Label": "Marcado",
             "Description": "El caballero que porte un arma con este efecto podrá designar a un blanco para marcarlo una vez por turno. El enemigo marcado no puede ser una banda. El usuario y los aliados consiguen un éxito automático en cualquier tirada de habilidad para impactar con armas a distancia al personaje marcado e ignoran las pifias de esa tirada. Activar el marcado no requiere de tirada de habilidad, pero debe estar en el alcance del arma. Permanecerá marcado durante la duración de la escena o fase de conflicto.",
-            "Description-short": "El arma podrá marcar un blanco una vez por turno. El enemigo marcado no puede ser una banda. El usuario y los aliados consiguen un éxito automático en cualquier tirada de habilidad para impactar con armas a distancia al personaje marcado e ignoran las pifias de esa tirada."
+            "Description-short": "El arma podrá marcar un blanco una vez por turno. El enemigo marcado no puede ser una banda. El usuario y los aliados consiguen un éxito automático en cualquier tirada de habilidad para impactar con armas a distancia al personaje marcado e ignoran las pifias de esa tirada.",
+            "IgnoreEpicFail":"Ignora las pifias"
          },
          "DESTRUCTEUR": {
             "Label": "Destructiva",
@@ -1426,6 +1428,7 @@
                   "TransformationPersonnelle": "Personal",
                   "TransformationEtendue": "Extensa",
                   "FauxEtres": "Falso ser",
+
                   "ENERGIE": {
                      "Personnelle": "Transformación personal",
                      "Etendue": "Transformación extensa",
@@ -1444,6 +1447,10 @@
                   "AspectsExceptionnelsRepartir": "Aspectos excepcionales a repartir",
                   "AspectsExceptionnelsRestantRepartir": "Aspectos excepcionales restantes a repartir",
                   "NiveauConfigurationRestant": "Nivel restante a repartir",
+                  "Invocation":"Invocación : {type}",
+                  "Revocation":"Desactivación : {type}",
+                  "Change":"Cambio de configuración",
+                  "Use":"Uso de configuración",
                   "ENERGIE": {
                      "Base": "Crear un compañero",
                      "Prolonger": "Prolongar un compañero",
@@ -1470,6 +1477,8 @@
                      "CONFIGURATIONS": {
                         "Label": "Configuraciones",
                         "Active": "Configuración activa",
+                        "Utiliser":"Usar la configuración",
+                        "Utiliser-hint":"Gasta los PE por usar la configuración actual en todos los lobos.",
                         "Disponible": "Configuraciones disponibles",
                         "LABOR": {
                            "Label": "Mula",
