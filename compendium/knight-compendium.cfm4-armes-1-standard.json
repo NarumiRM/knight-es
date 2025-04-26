@@ -1,5 +1,5 @@
 {
-  "label": "Weapons - 1. Standard",
+  "label": "Armas - 1. Estándar",
   "mapping": {
     "description": "system.description",
     "m0Nom": "system.optionsmunitions.liste.0.nom",

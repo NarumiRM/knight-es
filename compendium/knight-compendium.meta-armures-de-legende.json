@@ -1,5 +1,5 @@
 {
-  "label": "Legendary Meta-Armours",
+  "label": "Meta-armaduras legendarias",
   "mapping": {
     "changelingDescription": "system.capacites.selected.changeling.description",
     "changelingDuration": "system.capacites.selected.changeling.duree",

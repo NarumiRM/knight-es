@@ -1,5 +1,5 @@
 {
-  "label": "Overdrive modules",
+  "label": "Módulos de sobrecargas",
   "mapping": {
     "description": "system.description",
     "n1EnergieTourLabel": "system.niveau.details.n1.energie.tour.label",
