@@ -278,7 +278,8 @@
          "Resilience": "Resistencia",
          "Bouclier": "Escudo",
          "Noyaux": "Núcleos de Energía",
-         "Noyau": "Núcleo de Energía"
+         "Noyau": "Núcleo de Energía",
+         "ReductionPEs":"Reducción de pérdidas de esperanza"
       },
       "PERSONNAGE": {
          "Label": "Personaje",
@@ -747,7 +748,10 @@
          "CHARGEUR": {
             "Label": "Cargador",
             "Description": "El arma o módulo se puede usar X veces por misión. Una vez se llega al número de usos indicados ya no se puede activar o utilizar. Se recarga gratis en Camelot.",
-            "Description-short": "El arma o módulo se puede usar X veces por misión."
+            "Description-short": "El arma o módulo se puede usar X veces por misión.",
+            "Restaurer":"Restaurar todos los usos de Cargador",
+            "RemplirChargeur":"Recuperar 1 uso de Cargador",
+            "ViderChargeur":"Eliminar 1 uso de Cargador"
          },
          "CHOC": {
             "Label": "Aturdimiento",
@@ -782,7 +786,8 @@
          "DESIGNATION": {
             "Label": "Marcado",
             "Description": "El caballero que porte un arma con este efecto podrá designar a un blanco para marcarlo una vez por turno. El enemigo marcado no puede ser una banda. El usuario y los aliados consiguen un éxito automático en cualquier tirada de habilidad para impactar con armas a distancia al personaje marcado e ignoran las pifias de esa tirada. Activar el marcado no requiere de tirada de habilidad, pero debe estar en el alcance del arma. Permanecerá marcado durante la duración de la escena o fase de conflicto.",
-            "Description-short": "El arma podrá marcar un blanco una vez por turno. El enemigo marcado no puede ser una banda. El usuario y los aliados consiguen un éxito automático en cualquier tirada de habilidad para impactar con armas a distancia al personaje marcado e ignoran las pifias de esa tirada."
+            "Description-short": "El arma podrá marcar un blanco una vez por turno. El enemigo marcado no puede ser una banda. El usuario y los aliados consiguen un éxito automático en cualquier tirada de habilidad para impactar con armas a distancia al personaje marcado e ignoran las pifias de esa tirada.",
+            "IgnoreEpicFail":"Ignora las pifias"
          },
          "DESTRUCTEUR": {
             "Label": "Destructiva",
@@ -1423,6 +1428,7 @@
                   "TransformationPersonnelle": "Personal",
                   "TransformationEtendue": "Extensa",
                   "FauxEtres": "Falso ser",
+
                   "ENERGIE": {
                      "Personnelle": "Transformación personal",
                      "Etendue": "Transformación extensa",
@@ -1441,6 +1447,10 @@
                   "AspectsExceptionnelsRepartir": "Aspectos excepcionales a repartir",
                   "AspectsExceptionnelsRestantRepartir": "Aspectos excepcionales restantes a repartir",
                   "NiveauConfigurationRestant": "Nivel restante a repartir",
+                  "Invocation":"Invocación : {type}",
+                  "Revocation":"Desactivación : {type}",
+                  "Change":"Cambio de configuración",
+                  "Use":"Uso de configuración",
                   "ENERGIE": {
                      "Base": "Crear un compañero",
                      "Prolonger": "Prolongar un compañero",
@@ -1467,6 +1477,8 @@
                      "CONFIGURATIONS": {
                         "Label": "Configuraciones",
                         "Active": "Configuración activa",
+                        "Utiliser":"Usar la configuración",
+                        "Utiliser-hint":"Gasta los PE por usar la configuración actual en todos los lobos.",
                         "Disponible": "Configuraciones disponibles",
                         "LABOR": {
                            "Label": "Mula",
@@ -2105,7 +2117,8 @@
                "Has":"Aplica/Tiene efectos",
                "Hasnt":"No aplica/No tiene efectos"
             },
-            "CoutAugmentation": "Energía por aumento"
+            "CoutAugmentation": "Energía por aumento",
+            "CoutAttaque":"Energía por ataque"
          },
          "ARME": {
             "Nom": "Nombre de arma",
@@ -2192,7 +2205,7 @@
          "Exploit": "Abierta",
          "EchecCritique": "Pifia",
          "Des-short": "D",
-         "Modificateur": "Dados adicionales",
+         "Modificateur": "Modificador",
          "ModificateurDegats": "Modificador de daño",
          "ModificateurViolence": "Modificador de violencia",
          "JetEspoir": "Tirada de esperanza",
@@ -2235,6 +2248,10 @@
          "ModeHeroique":"Modo Heroico",
          "AppliquerEffets":"Aplicar todos los efectos",
          "AppliquerEffetsAll":"Aplicar efectos a todos los objetivos",
+         "ChargeurVide":"Cargador vacío",
+         "RemplirChargeur":"Recuperar todos los Cargadores",
+         "Remet1Charge":"Recuperar 1 carga",
+         "Retire1Charge":"Eliminar 1 carga",
          "RESULTATS":{
             "Affecte":"Afectado",
             "PasAffecte":"No afectado",
@@ -2359,6 +2376,8 @@
          "ConfirmationArmure":"¿Estás seguro de que quieres recuperar toda la armadura?",
          "ConfirmationSante":"¿Estás seguro de que quieres recuperar toda la vida?",
          "ConfirmationEspoir":"¿Estás seguro de que quieres recuperar toda la esperanza?",
+         "ConfirmationChargeur":"¿Estás seguro de que quieres recuperar todos los cargadores?",
+         "ConfirmationContacts":"¿Estás seguro de que quieres recuperar todos los puntos de contacto?",
          "Reset":"Reiniciar",
          "Difficulte":"Dificultad",
          "MJOnly":"Solo DJ",
@@ -2796,7 +2815,8 @@
          "Armure": "Restaurar armadura",
          "Energie": "Restaurar energía",
          "Grenades": "Restaurar granadas",
-         "Nods": "Restaurar nodos"
+         "Nods": "Restaurar nodos",
+         "Contacts":"Restaurar puntos de contacto"
       },
       "HIDESHOW":{
          "Hide":"Pulsar para ocultar este apartado cuando la visión de la ficha está limitada.",
